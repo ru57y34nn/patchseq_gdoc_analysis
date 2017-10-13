@@ -1,0 +1,90 @@
+{
+  "formVersion": "2.0.0",
+  "rigOperator": "lindsayn",
+  "rigNumber": "3",
+  "date": "10/11/2017 15:21",
+  "limsSpecName": "Vip-IRES-Cre;Ai14-355068.05.02",
+  "acsfProductionDate": "10/10/2017",
+  "blankFillDate": "09/25/2017",
+  "internalFillDate": "09/29/2017",
+  "flipped": "Yes",
+  "pipettes": [
+    {
+      "approach": {
+        "sliceHealth": "3",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 2/3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:29:00",
+        "pipetteR": "5.6",
+        "timeWholeCellStart": "15:31:52"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -40,
+        "retractionPressureApplied": -40,
+        "timeExtractionStart": "15:37:03",
+        "timeExtractionEnd": "15:37:31",
+        "timeRetractionStart": "15:37:32",
+        "timeRetractionEnd": "15:39:55",
+        "postPatch": "nucleus_present",
+        "endPipetteR": "2000",
+        "nucleus": "no",
+        "tubeID": "355",
+        "extractionNotes": "Alexa fill visible",
+        "extractionObservations": "Fluorescence in Pipette,Cell Dimmed,Cell Shrunk",
+        "sampleObservations": "No Bubbles"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 2/3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:55:23",
+        "pipetteR": "5.2",
+        "timeWholeCellStart": "15:56:11"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 2/3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "16:09:54",
+        "pipetteR": "4.9",
+        "timeWholeCellStart": "16:11:00"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -30,
+        "retractionPressureApplied": -30,
+        "timeExtractionStart": "16:18:13",
+        "timeExtractionEnd": "16:18:32",
+        "timeRetractionStart": "16:18:33",
+        "timeRetractionEnd": "16:20:10",
+        "postPatch": "nucleus_absent",
+        "endPipetteR": "50",
+        "nucleus": "no",
+        "tubeID": "356",
+        "extractionNotes": "Alexa fill not visible",
+        "extractionObservations": "Fluorescence in Pipette,Cell Dimmed,Cell Shrunk",
+        "sampleObservations": "No Bubbles"
+      }
+    }
+  ],
+  "wellID": "EPhys_171009_02_B03_M"
+}

@@ -1,0 +1,125 @@
+{
+  "formVersion": "1.0.9",
+  "rigOperator": "Lisa Kim",
+  "rigNumber": "3",
+  "date": "09/22/2017 11:12",
+  "acsfProductionDate": "09/21/17",
+  "limsSpecName": "Oxtr-T2A-Cre;Ai14-347159.03.02",
+  "flipped": "Yes",
+  "experimentType": "Patch-Seq Pilot",
+  "blankFillDate": "08/31/17",
+  "pipettesPatchSeqPilot": [
+    {
+      "approach": {
+        "sliceHealth": 3,
+        "creCell": "Cre-",
+        "pilotName":"Tissue_Touch",
+        "anatomicalLocation": "VISp, layer 2/3",
+        "depth": 62.6
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "pipetteR": "5.7"
+      },
+      "status": "SUCCESS (high confidence)",
+      "extraction": {
+        "timeExtractionStart": "11:17:14",
+        "timeEnd": "11:22:36",
+        "postPatch": "No-Seal",
+        "tubeID": "401",
+        "extractionNotes": "Tissue Touch Control"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 3,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 2/3",
+        "depth": 45
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "11:28:57",
+        "pipetteR": "5.7",
+        "timeWholeCellStart": "11:30:07",
+        "accessR": "15.3",
+        "membraneV": "-66",
+        "rheobase": "0.4"
+      },
+      "status": "SUCCESS (low confidence)",
+      "qcNotes": "no in-bath sweep; stopped recording sweeps after short square coarse due to cell instability; ended after 5 min fill",
+      "extraction": {
+        "pressureApplied": -26,
+        "retractionPressureApplied": -26,
+        "timeExtractionStart": "11:35:09",
+        "timeEnd": "11:35:39",
+        "postPatch": "Nucleated",
+        "tubeID": "402"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 2/3"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "11:47:11",
+        "pipetteR": "4.9"
+      },
+      "status": "FAILURE",
+      "failureCause": "Breakin Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 4",
+        "depth": 47.4
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "11:53:31",
+        "pipetteR": "4.1",
+        "timeWholeCellStart": "11:54:28",
+        "accessR": "9.2",
+        "membraneV": "-63",
+        "rheobase": "0.5"
+      },
+      "status": "SUCCESS (high confidence)",
+      "successNotes": "Access Resistance Increased",
+      "qcNotes": "unstable cell after trying to fix high access resistance - no LSCOARSE; ended early",
+      "extraction": {
+        "pressureApplied": -26,
+        "retractionPressureApplied": -26,
+        "timeExtractionStart": "11:58:51",
+        "timeEnd": "11:59:34",
+        "postPatch": "Partial-Nucleus",
+        "tubeID": "403",
+        "extractionNotes": "1.5 min retraction period"
+      }
+    }
+  ],
+  "wellID": "EPhys_170918_01_D03_M"
+}

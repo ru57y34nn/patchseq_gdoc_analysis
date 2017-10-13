@@ -1,0 +1,79 @@
+{
+  "formVersion": "1.0.9",
+  "rigOperator": "DiJon Hill",
+  "rigNumber": "1",
+  "date": "09/22/2017 10:19",
+  "acsfProductionDate": "09/21/17",
+  "limsSpecName": "Vip-IRES-Cre;Ai14-348725.05.01",
+  "flipped": "Yes",
+  "experimentType": "Patch-Seq Pilot",
+  "blankFillDate": "08/31/17",
+  "pipettesPatchSeqPilot": [
+    {
+      "approach": {
+        "sliceHealth": 4,
+        "creCell": "Cre-",
+        "anatomicalLocation": "VISp, layer 2/3",
+        "depth": 46,
+        "pilotName": "Tissue_Touch"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "10:35:18",
+        "pipetteR": "2.9"
+      },
+      "status": "SUCCESS (high confidence)",
+      "extraction": {
+        "timeExtractionStart": "10:36:23",
+        "timeEnd": "10:41:32",
+        "sampleObservations": "Medium Bubbles",
+        "postPatch": "No-Seal",
+        "tubeID": "501",
+        "extractionNotes": "tissue touch control"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 3,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 5"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "11:04:33",
+        "pipetteR": "2.4"
+      },
+      "status": "FAILURE",
+      "failureCause": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": 3,
+        "creCell": "Cre-",
+        "anatomicalLocation": "VISp, layer 5"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "11:10:48",
+        "pipetteR": "2.1"
+      },
+      "status": "FAILURE",
+      "failureCause": "Seal Failed"
+    }
+  ]
+}

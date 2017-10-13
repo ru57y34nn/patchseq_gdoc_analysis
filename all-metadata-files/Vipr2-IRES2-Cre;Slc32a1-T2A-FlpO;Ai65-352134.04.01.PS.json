@@ -1,0 +1,45 @@
+{
+  "formVersion": "2.0.0",
+  "rigOperator": "lindsayn",
+  "rigNumber": "3",
+  "date": "10/12/2017 11:35",
+  "limsSpecName": "Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-352134.04.01",
+  "acsfProductionDate": "10/11/2017",
+  "blankFillDate": "09/25/2017",
+  "internalFillDate": "09/29/2017",
+  "flipped": "Yes",
+  "pipettes": [
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "11:41:59",
+        "pipetteR": "4.6",
+        "timeWholeCellStart": "11:44:25"
+      },
+      "status": "SUCCESS",
+      "successNotes": "Patch/Cell Unstable,Access Resistance Increased",
+      "extraction": {
+        "pressureApplied": -20,
+        "retractionPressureApplied": -20,
+        "timeExtractionStart": "11:51:50",
+        "timeExtractionEnd": "11:52:17",
+        "timeRetractionStart": "11:52:18",
+        "timeRetractionEnd": "11:53:15",
+        "postPatch": "nucleus_present",
+        "endPipetteR": "50",
+        "nucleus": "not_intentionally",
+        "tubeID": "352",
+        "extractionNotes": "Alexa fill not visible",
+        "extractionObservations": "Fluorescence in Pipette,Cell Dimmed,Cell Shrunk",
+        "sampleObservations": "No Bubbles"
+      }
+    }
+  ],
+  "wellID": "EPhys_171009_02_C01_M"
+}

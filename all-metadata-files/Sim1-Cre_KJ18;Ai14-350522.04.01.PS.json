@@ -1,0 +1,61 @@
+{
+  "formVersion": "2.0.0",
+  "rigOperator": "ramr",
+  "rigNumber": "6",
+  "date": "10/11/2017 13:59",
+  "limsSpecName": "Sim1-Cre_KJ18;Ai14-350522.04.01",
+  "acsfProductionDate": "10/10/2017",
+  "blankFillDate": "09/25/2017",
+  "internalFillDate": "10/04/2017",
+  "flipped": "Yes",
+  "pipettes": [
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 4",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "14:14:14",
+        "pipetteR": "5.9",
+        "timeWholeCellStart": "14:17:34"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "14:32:10",
+        "pipetteR": "3.9",
+        "timeWholeCellStart": "14:34:10"
+      },
+      "status": "SUCCESS",
+      "badSweeps": "11",
+      "extraction": {
+        "pressureApplied": -30,
+        "retractionPressureApplied": -29,
+        "timeExtractionStart": "14:42:19",
+        "timeExtractionEnd": "14:43:13",
+        "timeRetractionStart": "14:43:14",
+        "timeRetractionEnd": "14:46:43",
+        "postPatch": "nucleus_absent",
+        "endPipetteR": "4.1 MOhms",
+        "nucleus": "no",
+        "tubeID": "452",
+        "extractionNotes": "Had nucleus attached but in wave of death, and nucleus flew off before 4x image.  ",
+        "extractionObservations": "Cell Disappeared",
+        "sampleObservations": "No Bubbles"
+      }
+    }
+  ],
+  "wellID": "EPhys_171009_02_A06_M"
+}

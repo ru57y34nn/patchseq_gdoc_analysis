@@ -1,0 +1,73 @@
+{
+  "formVersion": "1.0.9",
+  "rigOperator": "Rusty Mann",
+  "rigNumber": "6",
+  "date": "09/29/2017 11:13",
+  "acsfProductionDate": "09/28/17",
+  "limsSpecName": "Slc32a1-IRES-Cre;Ai14-348998.03.02",
+  "flipped": "Yes",
+  "experimentType": "Patch-Seq Pilot",
+  "blankFillDate": "09/25/17",
+  "pipettesPatchSeqPilot": [
+    {
+      "approach": {
+        "sliceHealth": 3,
+        "creCell": "Cre-",
+        "pilotName":"Tissue_Touch",
+        "anatomicalLocation": "VISp, layer 4",
+        "depth": 53.4
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "pipetteR": "5.7"
+      },
+      "status": "SUCCESS (high confidence)",
+      "extraction": {
+        "timeExtractionStart": "11:24:42",
+        "timeEnd": "11:29:47",
+        "sampleObservations": "No Bubbles",
+        "postPatch": "No-Seal",
+        "tubeID": "051",
+        "extractionNotes": "tissue touch control sample"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 5",
+        "depth": 21.8
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "11:49:30",
+        "pipetteR": "5.1",
+        "timeWholeCellStart": "11:51:34",
+        "accessR": "11",
+        "membraneV": "-68",
+        "rheobase": "160"
+      },
+      "status": "SUCCESS (high confidence)",
+      "extraction": {
+        "pressureApplied": -25,
+        "retractionPressureApplied": -25,
+        "timeExtractionStart": "12:00:33",
+        "timeEnd": "12:01:11",
+        "sampleObservations": "No Bubbles",
+        "postPatch": "No-Seal",
+        "tubeID": "052"
+      }
+    }
+  ],
+  "wellID": "EPhys_170925_02_C05_M"
+}
