@@ -1,0 +1,91 @@
+{
+  "formVersion": "2.0.0",
+  "rigOperator": "rustym",
+  "rigNumber": "7",
+  "date": "10/11/2017 14:14",
+  "limsSpecName": "Sim1-Cre_KJ18;Ai14-350522.03.01",
+  "acsfProductionDate": "10/10/2017",
+  "blankFillDate": "09/25/2017",
+  "internalFillDate": "09/29/2017",
+  "flipped": "Yes",
+  "pipettes": [
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "14:36:43",
+        "pipetteR": "4.1",
+        "timeWholeCellStart": "14:41:43"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "14:52:01",
+        "pipetteR": "4",
+        "timeWholeCellStart": "14:53:41"
+      },
+      "status": "SUCCESS",
+      "successNotes": "Patch/Cell Unstable",
+      "extraction": {
+        "pressureApplied": -35,
+        "retractionPressureApplied": -30,
+        "timeExtractionStart": "14:59:21",
+        "timeExtractionEnd": "15:00:15",
+        "timeRetractionStart": "15:00:15",
+        "timeRetractionEnd": "15:03:30",
+        "postPatch": "nucleus_present",
+        "endPipetteR": "1000",
+        "nucleus": "no",
+        "tubeID": "051",
+        "extractionNotes": "alexa fill visible post experiment.\n",
+        "extractionObservations": "Fluorescence in Pipette",
+        "sampleObservations": "No Bubbles"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": "3",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:16:54",
+        "pipetteR": "3.5",
+        "timeWholeCellStart": "15:18:36"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -35,
+        "retractionPressureApplied": -30,
+        "timeExtractionStart": "15:24:38",
+        "timeExtractionEnd": "15:25:59",
+        "timeRetractionStart": "15:26:00",
+        "timeRetractionEnd": "15:30:37",
+        "postPatch": "nucleus_absent",
+        "endPipetteR": "10",
+        "nucleus": "no",
+        "tubeID": "052",
+        "extractionNotes": "alexa fill visible post experiment.",
+        "extractionObservations": "Fluorescence in Pipette",
+        "sampleObservations": "No Bubbles"
+      }
+    }
+  ],
+  "wellID": "EPhys_171009_02_B01_M"
+}

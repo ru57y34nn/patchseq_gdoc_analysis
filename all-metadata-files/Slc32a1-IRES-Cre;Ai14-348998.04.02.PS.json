@@ -1,0 +1,114 @@
+{
+  "formVersion": "1.0.9",
+  "rigOperator": "Lindsay Ng",
+  "rigNumber": "7",
+  "date": "09/29/2017 10:02",
+  "acsfProductionDate": "09/28/17",
+  "limsSpecName": "Slc32a1-IRES-Cre;Ai14-348998.04.02",
+  "flipped": "Yes",
+  "experimentType": "Patch-Seq Pilot",
+  "blankFillDate": "09/25/17",
+  "pipettesPatchSeqPilot": [
+    {
+      "approach": {
+        "sliceHealth": 3,
+        "creCell": "Cre-",
+        "pilotName":"Tissue_Touch",
+        "anatomicalLocation": "VISp, layer 4",
+        "depth": 54.1
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "pipetteR": "5.4"
+      },
+      "status": "SUCCESS (high confidence)",
+      "extraction": {
+        "timeExtractionStart": "10:12:02",
+        "timeEnd": "10:17:14",
+        "postPatch": "No-Seal",
+        "tubeID": "351",
+        "extractionNotes": "Tissue touch control"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 3,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 5",
+        "depth": 41.2
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "10:28:09",
+        "pipetteR": "4.6",
+        "timeWholeCellStart": "10:29:40",
+        "accessR": "14",
+        "membraneV": "-66",
+        "rheobase": "30"
+      },
+      "status": "SUCCESS (high confidence)",
+      "successNotes": "Access Resistance Increased",
+      "extraction": {
+        "pressureApplied": -30,
+        "retractionPressureApplied": -30,
+        "timeExtractionStart": "10:38:04",
+        "timeEnd": "10:38:55",
+        "extractionObservations": "Fluorescence in Pipette,Cell Dimmed,Cell Shrunk",
+        "sampleObservations": "No Bubbles",
+        "postPatch": "Nucleated",
+        "tubeID": "352"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 2/3"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5
+      },
+      "recording": {
+        "timeStart": "10:51:17",
+        "pipetteR": "5.2"
+      },
+      "status": "FAILURE",
+      "failureCause": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 5"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5
+      },
+      "recording": {
+        "timeStart": "11:02:42",
+        "pipetteR": "4.9",
+        "timeWholeCellStart": "11:04:58",
+        "accessR": "17",
+        "membraneV": "-55"
+      },
+      "status": "FAILURE",
+      "failureCause": "Other (see Additional Notes below)",
+      "qcNotes": "died"
+    }
+  ],
+  "wellID": "EPhys_170925_02_C04_M"
+}

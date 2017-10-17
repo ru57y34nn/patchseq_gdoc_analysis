@@ -1,0 +1,104 @@
+{
+  "formVersion": "2.0.0",
+  "rigOperator": "dijonh",
+  "rigNumber": "4",
+  "date": "10/11/2017 14:24",
+  "limsSpecName": "Sim1-Cre_KJ18;Ai14-350522.04.02",
+  "acsfProductionDate": "10/10/2017",
+  "blankFillDate": "09/25/2017",
+  "internalFillDate": "10/11/2017",
+  "flipped": "Yes",
+  "pipettes": [
+    {
+      "approach": {
+        "sliceHealth": "4",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "14:27:23",
+        "pipetteR": "4.2",
+        "timeWholeCellStart": "14:29:00"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -20,
+        "retractionPressureApplied": -20,
+        "timeExtractionStart": "14:36:30",
+        "timeExtractionEnd": "14:38:41",
+        "timeRetractionStart": "14:38:43",
+        "timeRetractionEnd": "14:40:27",
+        "postPatch": "nucleus_present",
+        "endPipetteR": "1000",
+        "nucleus": "no",
+        "tubeID": "504",
+        "extractionNotes": "perfect",
+        "sampleObservations": "Medium Bubbles"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": "3",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "14:59:05",
+        "pipetteR": "4",
+        "timeWholeCellStart": "15:00:03"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:06:44",
+        "pipetteR": "3.5",
+        "timeWholeCellStart": "15:08:47"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Vrest Out of Range"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 4",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:15:55",
+        "pipetteR": "4.5",
+        "timeWholeCellStart": "15:17:00"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -22,
+        "retractionPressureApplied": -22,
+        "timeExtractionStart": "15:25:40",
+        "timeExtractionEnd": "15:27:57",
+        "timeRetractionStart": "15:27:58",
+        "timeRetractionEnd": "15:28:35",
+        "postPatch": "nucleus_present",
+        "endPipetteR": "1000",
+        "nucleus": "no",
+        "tubeID": "505",
+        "extractionNotes": "perfect"
+      }
+    }
+  ],
+  "wellID": "Ephys_171009_02_B02",
+  "sliceNotes": "8-11;21,22"
+}

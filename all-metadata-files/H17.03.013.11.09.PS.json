@@ -1,0 +1,230 @@
+{
+  "formVersion": "1.0.9",
+  "rigOperator": "Lindsay Ng",
+  "rigNumber": "7",
+  "date": "09/19/2017 13:17",
+  "acsfProductionDate": "09/18/17",
+  "limsSpecName": "H17.03.013.11.09",
+  "flipped": "No",
+  "experimentType": "Patch-Seq Pilot",
+  "blankFillDate": "08/31/17",
+  "pipettesPatchSeqPilot": [
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "None",
+        "anatomicalLocation": "TCx, layer 3"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5
+      },
+      "recording": {
+        "timeStart": "13:27:52",
+        "pipetteR": "3.6"
+      },
+      "status": "FAILURE",
+      "failureCause": "Vrest Out of Range"
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "None",
+        "anatomicalLocation": "TCx, layer 3",
+        "detailedLocation": "between first and second harp",
+        "depth": 56
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "13:43:26",
+        "pipetteR": "3.8",
+        "timeWholeCellStart": "13:44:52",
+        "accessR": "12",
+        "membraneV": "-67",
+        "rheobase": "40",
+        "humanCellTypePrediction": "Unknown Interneuron"
+      },
+      "status": "SUCCESS (high confidence)",
+      "extraction": {
+        "pressureApplied": -35,
+        "retractionPressureApplied": -35,
+        "timeExtractionStart": "13:54:27",
+        "timeEnd": "13:54:51",
+        "extractionObservations": "Cell Disappeared",
+        "sampleObservations": "No Bubbles",
+        "postPatch": "No-Seal",
+        "tubeID": "355"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "None",
+        "anatomicalLocation": "TCx, layer 3",
+        "detailedLocation": "between 2nd and 3rd harp",
+        "depth": 67
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "14:12:14",
+        "pipetteR": "4.0",
+        "timeWholeCellStart": "14:14:37",
+        "accessR": "7",
+        "membraneV": "-70",
+        "rheobase": "220",
+        "humanCellTypePrediction": "Pyramidal"
+      },
+      "status": "SUCCESS (high confidence)",
+      "extraction": {
+        "pressureApplied": -50,
+        "retractionPressureApplied": -45,
+        "timeExtractionStart": "14:27:19",
+        "timeEnd": "14:28:07",
+        "extractionObservations": "Cell Disappeared",
+        "sampleObservations": "No Bubbles",
+        "postPatch": "No-Seal",
+        "tubeID": "356"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "None",
+        "anatomicalLocation": "TCx, layer 2",
+        "detailedLocation": "between 2nd and 3rd harp",
+        "depth": 67
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "pipetteR": "3.6",
+        "timeWholeCellStart": "14:51:17",
+        "accessR": "9.5",
+        "membraneV": "-66",
+        "rheobase": "90",
+        "humanCellTypePrediction": "Unknown Interneuron"
+      },
+      "status": "SUCCESS (high confidence)",
+      "successNotes": "Patch/Cell Unstable,Cell Depolarized",
+      "extraction": {
+        "pressureApplied": -60,
+        "retractionPressureApplied": -50,
+        "timeExtractionStart": "15:00:56",
+        "timeEnd": "15:01:50",
+        "extractionObservations": "Cell Shrunk",
+        "sampleObservations": "No Bubbles",
+        "postPatch": "Nucleated",
+        "tubeID": "357"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "None",
+        "anatomicalLocation": "TCx, layer 4"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5
+      },
+      "recording": {
+        "timeStart": "15:24:28",
+        "pipetteR": "4.0"
+      },
+      "status": "FAILURE",
+      "failureCause": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "None",
+        "anatomicalLocation": "TCx, layer 4"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5
+      },
+      "recording": {
+        "timeStart": "15:37:06",
+        "pipetteR": "3.9",
+        "timeWholeCellStart": "15:39:32",
+        "accessR": "15"
+      },
+      "status": "FAILURE",
+      "failureCause": "Vrest Out of Range"
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "None",
+        "anatomicalLocation": "TCx, layer 5",
+        "detailedLocation": "between 3rd and 4th harp",
+        "depth": 46
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "15:54:15",
+        "pipetteR": "3.6",
+        "timeWholeCellStart": "15:56:21",
+        "accessR": "11",
+        "membraneV": "-70",
+        "rheobase": "60",
+        "humanCellTypePrediction": "Unknown Interneuron"
+      },
+      "status": "SUCCESS (high confidence)",
+      "extraction": {
+        "pressureApplied": -50,
+        "retractionPressureApplied": -50,
+        "timeExtractionStart": "16:07:38",
+        "timeEnd": "16:08:06",
+        "extractionObservations": "Cell Disappeared",
+        "sampleObservations": "No Bubbles",
+        "postPatch": "Partial-Nucleus",
+        "tubeID": "358",
+        "extractionNotes": "Looks like nucleus was sucked into pipette during retraction"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 1,
+        "creCell": "None",
+        "anatomicalLocation": "TCx, layer 1"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5
+      },
+      "recording": {
+        "timeStart": "16:29:14",
+        "pipetteR": "2.6"
+      },
+      "status": "FAILURE",
+      "failureCause": "Seal Failed"
+    }
+  ],
+  "wellID": "EPhys_170918_03_A01_H",
+  "sliceNotes": "alexa internal pilot"
+}

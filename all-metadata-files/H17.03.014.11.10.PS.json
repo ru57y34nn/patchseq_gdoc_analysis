@@ -1,0 +1,195 @@
+{
+  "formVersion": "2.0.0",
+  "rigOperator": "rustym",
+  "rigNumber": "7",
+  "date": "10/10/2017 17:51",
+  "limsSpecName": "H17.03.014.11.10",
+  "acsfProductionDate": "10/09/2017",
+  "blankFillDate": "09/25/2017",
+  "internalFillDate": "09/29/2017",
+  "flipped": "No",
+  "pipettes": [
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "human",
+        "autoRoi": "None",
+        "manualRoi": "TCx, layer 3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "18:11:49",
+        "pipetteR": "4.3",
+        "timeWholeCellStart": "18:13:13"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": "3",
+        "creCell": "human",
+        "autoRoi": "None",
+        "manualRoi": "TCx, layer 2",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "19:23:47",
+        "pipetteR": "4.2",
+        "timeWholeCellStart": "19:25:14",
+        "humanCellTypePrediction": "FS Interneuron"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -40,
+        "retractionPressureApplied": -50,
+        "timeExtractionStart": "19:34:33",
+        "timeExtractionEnd": "19:35:03",
+        "timeRetractionStart": "19:35:04",
+        "timeRetractionEnd": "19:38:05",
+        "postPatch": "nucleus_absent",
+        "endPipetteR": "10",
+        "nucleus": "no",
+        "tubeID": "057",
+        "extractionNotes": "alexa fill visible post experiment\n",
+        "sampleObservations": "No Bubbles"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "human",
+        "autoRoi": "None",
+        "manualRoi": "TCx, layer 3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "19:54:21",
+        "pipetteR": "4",
+        "timeWholeCellStart": "19:55:56"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Vrest Out of Range"
+    },
+    {
+      "approach": {
+        "sliceHealth": "3",
+        "creCell": "human",
+        "autoRoi": "None",
+        "manualRoi": "TCx, layer 3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "20:02:42",
+        "pipetteR": "4.1",
+        "timeWholeCellStart": "20:04:05",
+        "humanCellTypePrediction": "Unknown Interneuron"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -50,
+        "retractionPressureApplied": -50,
+        "timeExtractionStart": "20:12:54",
+        "timeExtractionEnd": "20:13:41",
+        "timeRetractionStart": "20:13:41",
+        "timeRetractionEnd": "20:16:52",
+        "postPatch": "nucleus_absent",
+        "endPipetteR": "1000",
+        "nucleus": "no",
+        "tubeID": "058",
+        "extractionNotes": "alexa fill visible post experiment.",
+        "sampleObservations": "No Bubbles"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "human",
+        "autoRoi": "None",
+        "manualRoi": "TCx, layer 3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "20:33:08",
+        "pipetteR": "3.7",
+        "timeWholeCellStart": "20:35:46",
+        "humanCellTypePrediction": "Unknown Interneuron"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -60,
+        "retractionPressureApplied": -80,
+        "timeExtractionStart": "20:43:44",
+        "timeExtractionEnd": "20:44:24",
+        "timeRetractionStart": "20:44:24",
+        "timeRetractionEnd": "20:49:21",
+        "postPatch": "nucleus_absent",
+        "endPipetteR": "5",
+        "nucleus": "no",
+        "tubeID": "059",
+        "extractionNotes": "alexa fill visible post experiment.",
+        "sampleObservations": "Large Bubbles"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "human",
+        "autoRoi": "None",
+        "manualRoi": "TCx, layer 3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "21:04:54",
+        "pipetteR": "3.4",
+        "timeWholeCellStart": "21:06:49",
+        "humanCellTypePrediction": "Pyramidal"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -80,
+        "retractionPressureApplied": -80,
+        "timeExtractionStart": "21:16:36",
+        "timeExtractionEnd": "21:17:16",
+        "timeRetractionStart": "21:17:18",
+        "timeRetractionEnd": "21:20:36",
+        "postPatch": "nucleus_absent",
+        "endPipetteR": "10",
+        "nucleus": "no",
+        "tubeID": "060",
+        "extractionNotes": "alexa fill visible post experiment.\n",
+        "sampleObservations": "Medium Bubbles"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": "3",
+        "creCell": "human",
+        "autoRoi": "None",
+        "manualRoi": "TCx, layer 3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "18:19:05",
+        "pipetteR": "4.8",
+        "timeWholeCellStart": "18:20:42"
+      },
+      "status": "SUCCESS",
+      "extraction": {
+        "pressureApplied": -30,
+        "retractionPressureApplied": -50,
+        "timeExtractionStart": "18:29:04",
+        "timeExtractionEnd": "18:29:42",
+        "timeRetractionStart": "18:29:42",
+        "timeRetractionEnd": "18:35:07",
+        "postPatch": "nucleus_absent",
+        "endPipetteR": "10",
+        "nucleus": "no",
+        "tubeID": "056",
+        "extractionNotes": "alexa fill visible post experiment.",
+        "sampleObservations": "No Bubbles"
+      }
+    }
+  ],
+  "wellID": "EPhys_171009_03_A03_H"
+}

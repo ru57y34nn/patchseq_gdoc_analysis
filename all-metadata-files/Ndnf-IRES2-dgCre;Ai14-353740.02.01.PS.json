@@ -1,0 +1,62 @@
+{
+  "formVersion": "2.0.0",
+  "rigOperator": "dijonh",
+  "rigNumber": "4",
+  "date": "10/12/2017 14:51",
+  "limsSpecName": "Ndnf-IRES2-dgCre;Ai14-353740.02.01",
+  "acsfProductionDate": "10/11/2017",
+  "blankFillDate": "09/25/2017",
+  "internalFillDate": "10/12/2017",
+  "flipped": "Yes",
+  "pipettes": [
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 1",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "14:58:13",
+        "pipetteR": "2.9",
+        "timeWholeCellStart": "15:04:00"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Vrest Out of Range"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 1",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:13:29",
+        "pipetteR": "3.7",
+        "timeWholeCellStart": "15:15:10"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 1",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:30:32",
+        "pipetteR": "2.6",
+        "timeWholeCellStart": "15:31:43"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed"
+    }
+  ],
+  "wellID": "none"
+}

@@ -1,0 +1,62 @@
+{
+  "formVersion": "2.0.0",
+  "rigOperator": "lindsayn",
+  "rigNumber": "3",
+  "date": "10/11/2017 14:37",
+  "limsSpecName": "Vip-IRES-Cre;Ai14-355068.04.02",
+  "acsfProductionDate": "10/10/2017",
+  "blankFillDate": "09/25/2017",
+  "internalFillDate": "09/29/2017",
+  "flipped": "Yes",
+  "pipettes": [
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 2/3",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "14:49:36",
+        "pipetteR": "4.6",
+        "timeWholeCellStart": "14:52:24"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Breakin Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 5",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:00:38",
+        "pipetteR": "4.5",
+        "timeWholeCellStart": "15:04:05"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": "2",
+        "creCell": "Cre+",
+        "autoRoi": "None",
+        "manualRoi": "VISp, layer 4",
+        "pilotName": "None"
+      },
+      "recording": {
+        "timeStart": "15:10:15",
+        "pipetteR": "4.3",
+        "timeWholeCellStart": "15:12:20"
+      },
+      "status": "FAILURE",
+      "failureNotes": "Seal Failed,Access Resistance Out of Range"
+    }
+  ],
+  "wellID": "NA"
+}

@@ -1,0 +1,82 @@
+{
+  "formVersion": "1.0.9",
+  "rigOperator": "Ram Rajanbabu",
+  "rigNumber": "3",
+  "date": "09/29/2017 10:01",
+  "acsfProductionDate": "09/28/17",
+  "limsSpecName": "Slc32a1-IRES-Cre;Ai14-348998.06.02",
+  "flipped": "Yes",
+  "experimentType": "Patch-Seq Pilot",
+  "blankFillDate": "09/25/17",
+  "pipettesPatchSeqPilot": [
+    {
+      "approach": {
+        "sliceHealth": 3,
+        "creCell": "Cre-",
+        "pilotName":"Tissue_Touch",
+        "anatomicalLocation": "VISp, layer 4",
+        "depth": 48.8
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "10:19:53",
+        "pipetteR": "7.3"
+      },
+      "status": "SUCCESS (high confidence)",
+      "qcNotes": "Tissue Touch Control",
+      "extraction": {
+        "timeExtractionStart": "10:22:21",
+        "timeEnd": "10:27:21",
+        "sampleObservations": "No Bubbles",
+        "postPatch": "No-Seal",
+        "tubeID": "451",
+        "bfiWitness": "other",
+        "extractionNotes": "Tissue Touch Control"
+      }
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 2/3"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "10:49:17",
+        "pipetteR": "5.1"
+      },
+      "status": "FAILURE",
+      "failureCause": "Seal Failed"
+    },
+    {
+      "approach": {
+        "sliceHealth": 2,
+        "creCell": "Cre+",
+        "anatomicalLocation": "VISp, layer 2/3"
+      },
+      "internalSolution": {
+        "version": "AiV2",
+        "volume": 1,
+        "concentrationBiocytin": 0.5,
+        "concentrationRnaseInhibitor": "0.5"
+      },
+      "recording": {
+        "timeStart": "11:03:32",
+        "pipetteR": "5.1"
+      },
+      "status": "FAILURE",
+      "failureCause": "Seal Failed"
+    }
+  ],
+  "sliceNotes": "Ram Training PatchSeq"
+}
