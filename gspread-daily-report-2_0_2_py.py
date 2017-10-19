@@ -75,7 +75,8 @@ def validated_date_input(prompt_text, invalid_response, valid_options=None):
 
 def get_directory(expt):
     if expt == "n":
-    	DIRNAME = r'\\allen\programs\celltypes\workgroups\279\Patch-Seq\all-metadata-files'    	#"//allen/programs/celltypes/workgroups/279/MIES experiments
+    	#DIRNAME = r'\\allen\programs\celltypes\workgroups\279\Patch-Seq\all-metadata-files'    	#"//allen/programs/celltypes/workgroups/279/MIES experiments
+        DIRNAME =  r'C:\users\rusty\documents\github\patchseq_gdoc_analysis\all-metadata-files'  
     elif expt == "y":
         DIRNAME = askdirectory()
     return DIRNAME
@@ -497,8 +498,8 @@ loc_dict = {"LGn core": "LGN core", "lgn core":"LGN core", "core":"LGN core", "l
 """---------------ASK USER FOR INPUT---------------"""
 #STR_PROMPT = "\nWould you like to select a directory containing Patch-Seq metadata? (y / n): "
 #EXPT = validated_input(STR_PROMPT, VALID_VALS)
-DIRNAME = '\\\\allen\\programs\\celltypes\\workgroups\\279\\Patch-Seq\\all-metadata-files'
-
+#DIRNAME = '\\\\allen\\programs\\celltypes\\workgroups\\279\\Patch-Seq\\all-metadata-files'
+DIRNAME = r'C:\users\rusty\document\github\patch_seq_gdoc_analysis\all_metadata_files'
 bday_us = CustomBusinessDay(calendar=USFederalHolidayCalendar())
 last_bday = (datetime.today() - bday_us).date()
 last_bday_str = last_bday.strftime("%y%m%d")
