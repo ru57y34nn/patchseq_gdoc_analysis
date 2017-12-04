@@ -1,0 +1,2238 @@
+,Slice (Lims ID?),Post patch?,Post patch pipette R,post patch class,Cre_line
+107,Slc32a1-IRES-Cre;Ai14-294507.07.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+110,Slc32a1-IRES-Cre;Ai14-294507.08.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+116,Slc32a1-IRES-Cre;Ai14-294507.06.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+118,Slc32a1-IRES-Cre;Ai14-294507.06.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+146,Slc32a1-IRES-Cre;Ai14-294508.07.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+153,Slc32a1-IRES-Cre;Ai14-294508.07.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+154,Slc32a1-IRES-Cre;Ai14-294508.07.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+185,Slc32a1-IRES-Cre;Ai14-295046.08.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+186,Slc32a1-IRES-Cre;Ai14-295046.08.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+263,Nos1-CreERT2;Ai14-294353.05.02,Nucleated,,a.Nucleated,Nos1-CreERT2
+267,Nos1-CreERT2;Ai14-294353.02.01,Nucleated,,a.Nucleated,Nos1-CreERT2
+268,Nos1-CreERT2;Ai14-294353.04.01,Nucleated,,a.Nucleated,Nos1-CreERT2
+279,Rorb-IRES2-Cre;Ai14-294983.04.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+303,Rorb-IRES2-Cre;Ai14-294984.05.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+360,Rorb-IRES2-Cre;Ai14-294986.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+398,Rorb-IRES2-Cre;Ai14-294985.04.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+399,Rorb-IRES2-Cre;Ai14-294985.04.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+476,Ndnf-IRES2-dgCre;Ai14-296823.05.01,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+479,Ndnf-IRES2-dgCre;Ai14-296823.03.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+485,Ndnf-IRES2-dgCre;Ai14-296823.04.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+502,Ndnf-IRES2-dgCre;Ai14-296824.03.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+522,Ndnf-IRES2-dgCre;Ai14-296825.04.01,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+523,Ndnf-IRES2-dgCre;Ai14-296825.04.01,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+525,Ndnf-IRES2-dgCre;Ai14-296825.04.01,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+533,Ndnf-IRES2-dgCre;Ai14-296825.04.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+1465,Slc17a6-IRES-Cre;Ai14-309384.04.01,Nucleated,,a.Nucleated,Slc17a6-IRES-Cre
+1468,Slc17a6-IRES-Cre;Ai14-309384.04.01,Nucleated,,a.Nucleated,Slc17a6-IRES-Cre
+1469,Slc17a6-IRES-Cre;Ai14-309384.04.01,Nucleated,,a.Nucleated,Slc17a6-IRES-Cre
+1688,Gad2-IRES-Cre;Ai14-313294.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+1692,Gad2-IRES-Cre;Ai14-313294.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+1693,Gad2-IRES-Cre;Ai14-313294.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+1701,Gad2-IRES-Cre;Ai14-313294.05.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+1711,Scnn1a-Tg3-Cre;Ai14-315865.04.01,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+1717,Rorb-IRES2-Cre;Ai14-315898.03.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1724,Scnn1a-Tg3-Cre;Ai14-315865.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+1729,Rorb-IRES2-Cre;Ai14-315898.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1739,Rorb-IRES2-Cre;Ai14-315897.04.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1750,Rorb-IRES2-Cre;Ai14-315897.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1751,Rorb-IRES2-Cre;Ai14-315897.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1755,Rorb-IRES2-Cre;Ai14-315897.05.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1777,Scnn1a-Tg3-Cre;Ai14-315863.03.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+1780,Rorb-IRES2-Cre;Ai14-315895.03.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1783,Rorb-IRES2-Cre;Ai14-315895.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1800,Rorb-IRES2-Cre;Ai14-315894.05.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1812,Rorb-IRES2-Cre;Ai14-315894.05.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1820,Scnn1a-Tg3-Cre;Ai14-315862.04.01,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+1830,Scnn1a-Tg3-Cre;Ai14-315862.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+1832,Scnn1a-Tg3-Cre;Ai14-315862.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+1850,Rorb-IRES2-Cre-neo;Ai14-315666.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1851,Rorb-IRES2-Cre-neo;Ai14-315666.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1852,Rorb-IRES2-Cre-neo;Ai14-315666.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1855,Rorb-IRES2-Cre-neo;Ai14-315666.04.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1858,Rorb-IRES2-Cre-neo;Ai14-315666.04.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1862,Rorb-IRES2-Cre-neo;Ai14-315666.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1864,Rorb-IRES2-Cre-neo;Ai14-315666.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1865,Rorb-IRES2-Cre-neo;Ai14-315666.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1866,Rorb-IRES2-Cre-neo;Ai14-315666.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1870,Rorb-IRES2-Cre-neo;Ai14-315666.02.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1878,Rorb-IRES2-Cre-neo;Ai14-315667.03.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1879,Rorb-IRES2-Cre-neo;Ai14-315667.03.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1881,Rorb-IRES2-Cre-neo;Ai14-315667.03.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1886,Rorb-IRES2-Cre-neo;Ai14-315667.04.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1891,Rorb-IRES2-Cre-neo;Ai14-315667.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1892,Rorb-IRES2-Cre-neo;Ai14-315667.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1895,Rorb-IRES2-Cre-neo;Ai14-315667.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1896,Rorb-IRES2-Cre-neo;Ai14-315667.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1899,Rorb-IRES2-Cre-neo;Ai14-315667.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1900,Rorb-IRES2-Cre-neo;Ai14-315667.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1901,Rorb-IRES2-Cre-neo;Ai14-315667.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1904,Rorb-IRES2-Cre-neo;Ai14-315667.02.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre-neo
+1916,Scnn1a-Tg2-Cre;Ai14-316319.04.01,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+1917,Scnn1a-Tg2-Cre;Ai14-316319.04.01,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+1929,Scnn1a-Tg2-Cre;Ai14-316319.03.02,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+1942,Scnn1a-Tg2-Cre;Ai14-316319.03.01,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+1943,Scnn1a-Tg2-Cre;Ai14-316319.03.01,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+1953,Rorb-IRES2-Cre;Ai14-315901.03.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1955,Rorb-IRES2-Cre;Ai14-315901.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1956,Rorb-IRES2-Cre;Ai14-315901.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1957,Rorb-IRES2-Cre;Ai14-315901.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1961,Rorb-IRES2-Cre;Ai14-315901.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1962,Rorb-IRES2-Cre;Ai14-315901.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1964,Rorb-IRES2-Cre;Ai14-315901.03.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+1981,Nr5a1-Cre;Ai14-317501.04.01,Nucleated,,a.Nucleated,Nr5a1-Cre
+1984,Nr5a1-Cre;Ai14-317501.04.01,Nucleated,,a.Nucleated,Nr5a1-Cre
+1985,Nr5a1-Cre;Ai14-317501.04.01,Nucleated,,a.Nucleated,Nr5a1-Cre
+1986,Nr5a1-Cre;Ai14-317501.05.02,Nucleated,,a.Nucleated,Nr5a1-Cre
+1997,Nr5a1-Cre;Ai14-317501.04.02,Nucleated,,a.Nucleated,Nr5a1-Cre
+2000,Nr5a1-Cre;Ai14-317501.05.01,Nucleated,,a.Nucleated,Nr5a1-Cre
+2013,Pvalb-IRES-Cre;Ai14-316467.06.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2017,Rorb-IRES2-Cre;Ai14-318659.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+2024,Rorb-IRES2-Cre;Ai14-318659.03.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+2026,Rorb-IRES2-Cre;Ai14-318659.03.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+2027,Rorb-IRES2-Cre;Ai14-318659.05.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+2029,Rorb-IRES2-Cre;Ai14-318659.05.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+2036,Rorb-IRES2-Cre;Ai14-318659.05.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+2038,Rorb-IRES2-Cre;Ai14-318659.05.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+2047,Cux2-CreERT2;Ai14-315357.03.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+2050,Cux2-CreERT2;Ai14-315357.04.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+2052,Cux2-CreERT2;Ai14-315357.05.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+2056,Cux2-CreERT2;Ai14-315357.03.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2057,Cux2-CreERT2;Ai14-315357.03.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2058,Cux2-CreERT2;Ai14-315357.03.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2059,Cux2-CreERT2;Ai14-315357.03.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2060,Cux2-CreERT2;Ai14-315357.03.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2061,Cux2-CreERT2;Ai14-315357.04.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2063,Cux2-CreERT2;Ai14-315357.04.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2077,Cux2-CreERT2;Ai14-315355.05.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+2078,Cux2-CreERT2;Ai14-315355.05.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+2080,Cux2-CreERT2;Ai14-315355.05.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+2083,Cux2-CreERT2;Ai14-315355.04.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2084,Cux2-CreERT2;Ai14-315355.04.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2087,Cux2-CreERT2;Ai14-315355.05.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2088,Cux2-CreERT2;Ai14-315355.05.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2091,Cux2-CreERT2;Ai14-315355.06.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2092,Cux2-CreERT2;Ai14-315355.06.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+2105,Pvalb-IRES-Cre;Ai14-316462.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2111,Pvalb-IRES-Cre;Ai14-316462.03.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2113,Pvalb-IRES-Cre;Ai14-316462.05.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2115,Pvalb-IRES-Cre;Ai14-316462.05.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2177,Pvalb-IRES-Cre;Ai14-316465.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2178,Pvalb-IRES-Cre;Ai14-316465.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2189,Pvalb-IRES-Cre;Ai14-316465.03.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2190,Pvalb-IRES-Cre;Ai14-316465.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2191,Pvalb-IRES-Cre;Ai14-316465.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2192,Pvalb-IRES-Cre;Ai14-316465.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2193,Pvalb-IRES-Cre;Ai14-316465.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2199,Pvalb-IRES-Cre;Ai14-316465.03.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2200,Pvalb-IRES-Cre;Ai14-316465.03.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2203,Pvalb-IRES-Cre;Ai14-316465.03.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2204,Pvalb-IRES-Cre;Ai14-316465.05.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2205,Pvalb-IRES-Cre;Ai14-316465.05.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2214,Gad2-IRES-Cre;Ai14-318383.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2215,Gad2-IRES-Cre;Ai14-318383.04.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2218,Gad2-IRES-Cre;Ai14-318383.04.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2219,Gad2-IRES-Cre;Ai14-318383.04.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2224,Gad2-IRES-Cre;Ai14-318383.03.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2229,Gad2-IRES-Cre;Ai14-318383.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2236,Slc32a1-IRES-Cre;Ai14-321269.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2238,Slc32a1-IRES-Cre;Ai14-321269.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2239,Slc32a1-IRES-Cre;Ai14-321269.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2240,Slc32a1-IRES-Cre;Ai14-321269.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2244,Slc32a1-IRES-Cre;Ai14-321269.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2252,Slc32a1-IRES-Cre;Ai14-321268.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2253,Slc32a1-IRES-Cre;Ai14-321268.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2254,Slc32a1-IRES-Cre;Ai14-321268.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2267,Slc32a1-IRES-Cre;Ai14-321268.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2268,Slc32a1-IRES-Cre;Ai14-321268.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2269,Slc32a1-IRES-Cre;Ai14-321268.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2271,Slc32a1-IRES-Cre;Ai14-321268.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2272,Slc32a1-IRES-Cre;Ai14-321268.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2286,Slc32a1-IRES-Cre;Ai14-321267.02.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2287,Slc32a1-IRES-Cre;Ai14-321267.02.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2288,Slc32a1-IRES-Cre;Ai14-321267.02.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2292,Slc32a1-IRES-Cre;Ai14-321583.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2293,Slc32a1-IRES-Cre;Ai14-321583.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2294,Slc32a1-IRES-Cre;Ai14-321583.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2295,Slc32a1-IRES-Cre;Ai14-321583.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2297,Slc32a1-IRES-Cre;Ai14-321583.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2298,Slc32a1-IRES-Cre;Ai14-321583.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2299,Slc32a1-IRES-Cre;Ai14-321583.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2309,Slc32a1-IRES-Cre;Ai14-321583.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2310,Slc32a1-IRES-Cre;Ai14-321583.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2311,Slc32a1-IRES-Cre;Ai14-321583.06.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2313,Slc32a1-IRES-Cre;Ai14-321583.06.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2320,Slc32a1-IRES-Cre;Ai14-321584.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2321,Slc32a1-IRES-Cre;Ai14-321584.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2323,Slc32a1-IRES-Cre;Ai14-321584.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2325,Slc32a1-IRES-Cre;Ai14-321584.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2326,Slc32a1-IRES-Cre;Ai14-321584.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2327,Slc32a1-IRES-Cre;Ai14-321584.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2329,Slc32a1-IRES-Cre;Ai14-321584.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2333,Slc32a1-IRES-Cre;Ai14-321584.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2335,Slc32a1-IRES-Cre;Ai14-321584.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2340,Slc32a1-IRES-Cre;Ai14-321584.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2341,Slc32a1-IRES-Cre;Ai14-321584.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2352,Vip-IRES-Cre;Ai14-322780.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2354,Vip-IRES-Cre;Ai14-322780.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2359,Vip-IRES-Cre;Ai14-322780.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2366,Vip-IRES-Cre;Ai14-322777.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2368,Vip-IRES-Cre;Ai14-322777.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2369,Vip-IRES-Cre;Ai14-322777.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2370,Vip-IRES-Cre;Ai14-322777.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2371,Vip-IRES-Cre;Ai14-322777.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2372,Vip-IRES-Cre;Ai14-322777.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2373,Vip-IRES-Cre;Ai14-322777.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2377,Vip-IRES-Cre;Ai14-322777.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2378,Vip-IRES-Cre;Ai14-322777.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2380,Vip-IRES-Cre;Ai14-322777.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2382,Vip-IRES-Cre;Ai14-322777.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2384,Vip-IRES-Cre;Ai14-322777.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2385,Vip-IRES-Cre;Ai14-322777.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2403,Pvalb-IRES-Cre;Ai14-324331.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2411,Pvalb-IRES-Cre;Ai14-324331.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2420,Pvalb-IRES-Cre;Ai14-324337.03.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2421,Pvalb-IRES-Cre;Ai14-324337.03.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2428,Pvalb-IRES-Cre;Ai14-324337.03.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2431,Pvalb-IRES-Cre;Ai14-324337.03.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+2451,Vip-IRES-Cre;Ai14-324785.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2478,Gad2-IRES-Cre;Ai14-326031.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2481,Gad2-IRES-Cre;Ai14-326031.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2482,Gad2-IRES-Cre;Ai14-326031.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2488,Gad2-IRES-Cre;Ai14-326031.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2489,Gad2-IRES-Cre;Ai14-326031.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2490,Gad2-IRES-Cre;Ai14-326031.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2491,Gad2-IRES-Cre;Ai14-326031.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2492,Gad2-IRES-Cre;Ai14-326031.02.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2494,Gad2-IRES-Cre;Ai14-326031.02.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2495,Gad2-IRES-Cre;Ai14-326031.02.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2508,Gad2-IRES-Cre;Ai14-326032.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2509,Gad2-IRES-Cre;Ai14-326032.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2510,Gad2-IRES-Cre;Ai14-326032.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2514,Gad2-IRES-Cre;Ai14-326032.05.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2516,Gad2-IRES-Cre;Ai14-326032.05.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2524,Gad2-IRES-Cre;Ai14-326032.02.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2529,Gad2-IRES-Cre;Ai14-326034.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2530,Gad2-IRES-Cre;Ai14-326034.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2533,Gad2-IRES-Cre;Ai14-326034.03.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2534,Gad2-IRES-Cre;Ai14-326034.03.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2552,Slc32a1-IRES-Cre;Ai14-326813.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2553,Slc32a1-IRES-Cre;Ai14-326813.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2556,Slc32a1-IRES-Cre;Ai14-326813.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2566,Slc32a1-IRES-Cre;Ai14-326813.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2573,Slc32a1-IRES-Cre;Ai14-326814.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2574,Slc32a1-IRES-Cre;Ai14-326814.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2575,Slc32a1-IRES-Cre;Ai14-326814.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2576,Slc32a1-IRES-Cre;Ai14-326814.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2577,Slc32a1-IRES-Cre;Ai14-326814.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2580,Slc32a1-IRES-Cre;Ai14-326814.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2587,Slc32a1-IRES-Cre;Ai14-326814.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2592,Slc32a1-IRES-Cre;Ai14-326814.02.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2593,Slc32a1-IRES-Cre;Ai14-326814.02.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2594,Slc32a1-IRES-Cre;Ai14-326814.02.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2595,Slc32a1-IRES-Cre;Ai14-326814.02.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2608,Slc32a1-IRES-Cre;Ai14-326815.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2609,Slc32a1-IRES-Cre;Ai14-326815.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2612,Slc32a1-IRES-Cre;Ai14-326815.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2620,Slc32a1-IRES-Cre;Ai14-326815.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2622,Slc32a1-IRES-Cre;Ai14-326815.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2623,Slc32a1-IRES-Cre;Ai14-326815.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2630,Slc32a1-IRES-Cre;Ai14-326812.03.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2633,Slc32a1-IRES-Cre;Ai14-326812.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2634,Slc32a1-IRES-Cre;Ai14-326812.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2635,Slc32a1-IRES-Cre;Ai14-326812.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2636,Slc32a1-IRES-Cre;Ai14-326812.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2640,Slc32a1-IRES-Cre;Ai14-326812.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2643,Slc32a1-IRES-Cre;Ai14-326812.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2644,Slc32a1-IRES-Cre;Ai14-326812.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2646,Slc32a1-IRES-Cre;Ai14-326812.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2650,Slc32a1-IRES-Cre;Ai14-326812.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2653,Slc32a1-IRES-Cre;Ai14-326812.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2654,Slc32a1-IRES-Cre;Ai14-326812.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2655,Slc32a1-IRES-Cre;Ai14-326812.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2663,Slc32a1-IRES-Cre;Ai14-327666.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2664,Slc32a1-IRES-Cre;Ai14-327666.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2665,Slc32a1-IRES-Cre;Ai14-327666.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2666,Slc32a1-IRES-Cre;Ai14-327666.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2667,Slc32a1-IRES-Cre;Ai14-327666.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2668,Slc32a1-IRES-Cre;Ai14-327666.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2670,Slc32a1-IRES-Cre;Ai14-327666.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2672,Slc32a1-IRES-Cre;Ai14-327666.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2673,Slc32a1-IRES-Cre;Ai14-327666.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2677,Slc32a1-IRES-Cre;Ai14-327666.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2678,Slc32a1-IRES-Cre;Ai14-327666.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2679,Slc32a1-IRES-Cre;Ai14-327666.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2680,Slc32a1-IRES-Cre;Ai14-327666.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2681,Slc32a1-IRES-Cre;Ai14-327666.03.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2682,Slc32a1-IRES-Cre;Ai14-327666.03.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2683,Slc32a1-IRES-Cre;Ai14-327666.03.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2691,Slc32a1-IRES-Cre;Ai14-327666.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2692,Slc32a1-IRES-Cre;Ai14-327666.03.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2693,Slc32a1-IRES-Cre;Ai14-327666.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2694,Slc32a1-IRES-Cre;Ai14-327666.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2695,Slc32a1-IRES-Cre;Ai14-327666.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2696,Slc32a1-IRES-Cre;Ai14-327666.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2697,Slc32a1-IRES-Cre;Ai14-327666.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2698,Slc32a1-IRES-Cre;Ai14-327666.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2699,Slc32a1-IRES-Cre;Ai14-327666.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2706,Gad2-IRES-Cre;Ai14-326683.05.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2713,Gad2-IRES-Cre;Ai14-326683.04.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2717,Gad2-IRES-Cre;Ai14-326683.05.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2718,Gad2-IRES-Cre;Ai14-326683.05.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2720,Gad2-IRES-Cre;Ai14-326683.05.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2721,Gad2-IRES-Cre;Ai14-326683.05.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2728,Gad2-IRES-Cre;Ai14-329253.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2730,Gad2-IRES-Cre;Ai14-329253.04.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2740,Gad2-IRES-Cre;Ai14-329253.04.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2742,Gad2-IRES-Cre;Ai14-329253.04.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2743,Gad2-IRES-Cre;Ai14-329253.04.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2744,Gad2-IRES-Cre;Ai14-329253.04.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2746,Gad2-IRES-Cre;Ai14-329253.05.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2747,Gad2-IRES-Cre;Ai14-329253.05.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2749,Gad2-IRES-Cre;Ai14-329253.05.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2753,Gad2-IRES-Cre;Ai14-329253.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2754,Gad2-IRES-Cre;Ai14-329253.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2755,Gad2-IRES-Cre;Ai14-329253.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2756,Gad2-IRES-Cre;Ai14-329253.03.02,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2757,Gad2-IRES-Cre;Ai14-329253.03.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2759,Gad2-IRES-Cre;Ai14-329253.03.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2760,Gad2-IRES-Cre;Ai14-329253.03.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+2772,Slc32a1-IRES-Cre;Ai14-327667.06.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2774,Slc32a1-IRES-Cre;Ai14-327667.06.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2776,Slc32a1-IRES-Cre;Ai14-327667.06.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2783,Slc32a1-IRES-Cre;Ai14-327667.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2785,Slc32a1-IRES-Cre;Ai14-327667.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2786,Slc32a1-IRES-Cre;Ai14-327667.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2787,Slc32a1-IRES-Cre;Ai14-327667.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2788,Slc32a1-IRES-Cre;Ai14-327667.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2789,Slc32a1-IRES-Cre;Ai14-327667.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2790,Slc32a1-IRES-Cre;Ai14-327667.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2791,Slc32a1-IRES-Cre;Ai14-327667.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2798,Slc32a1-IRES-Cre;Ai14-327668.03.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2800,Slc32a1-IRES-Cre;Ai14-327668.05.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2808,Slc32a1-IRES-Cre;Ai14-327668.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2811,Slc32a1-IRES-Cre;Ai14-327668.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2812,Slc32a1-IRES-Cre;Ai14-327668.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2815,Slc32a1-IRES-Cre;Ai14-327668.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2821,Slc32a1-IRES-Cre;Ai14-327668.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2834,Slc32a1-IRES-Cre;Ai14-327669.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2836,Slc32a1-IRES-Cre;Ai14-327669.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2837,Slc32a1-IRES-Cre;Ai14-327669.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+2887,Vip-IRES-Cre;Ai14-331293.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2889,Vip-IRES-Cre;Ai14-331293.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2898,Vip-IRES-Cre;Ai14-331293.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2900,Vip-IRES-Cre;Ai14-331293.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2901,Vip-IRES-Cre;Ai14-331293.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2904,Vip-IRES-Cre;Ai14-331293.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2905,Vip-IRES-Cre;Ai14-331293.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2906,Vip-IRES-Cre;Ai14-331293.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2909,Chrna2-Cre_OE25;Ai14-330312.04.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2912,Chrna2-Cre_OE25;Ai14-330312.04.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2915,Vip-IRES-Cre;Ai14-331293.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2916,Vip-IRES-Cre;Ai14-331293.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2917,Vip-IRES-Cre;Ai14-331293.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2918,Vip-IRES-Cre;Ai14-331293.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2920,Vip-IRES-Cre;Ai14-331293.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2929,Chrna2-Cre_OE25;Ai14-330311.05.01,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2935,Vip-IRES-Cre;Ai14-331294.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2936,Vip-IRES-Cre;Ai14-331294.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2939,Vip-IRES-Cre;Ai14-331294.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2940,Vip-IRES-Cre;Ai14-331294.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2942,Vip-IRES-Cre;Ai14-331294.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2943,Vip-IRES-Cre;Ai14-331294.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2946,Vip-IRES-Cre;Ai14-331294.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2947,Vip-IRES-Cre;Ai14-331294.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2948,Vip-IRES-Cre;Ai14-331294.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2949,Vip-IRES-Cre;Ai14-331294.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2952,Vip-IRES-Cre;Ai14-331294.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2953,Vip-IRES-Cre;Ai14-331294.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+2960,Chrna2-Cre_OE25;Ai14-330310.05.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2962,Chrna2-Cre_OE25;Ai14-330310.05.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2963,Chrna2-Cre_OE25;Ai14-330310.05.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2970,Chrna2-Cre_OE25;Ai14-330310.04.01,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2971,Chrna2-Cre_OE25;Ai14-330310.04.01,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2973,Chrna2-Cre_OE25;Ai14-330310.04.01,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2974,Chrna2-Cre_OE25;Ai14-330310.04.01,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2975,Chrna2-Cre_OE25;Ai14-330310.04.01,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+2976,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.03.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2977,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.03.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2978,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.03.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2985,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.05.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2986,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.05.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2987,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.05.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2988,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.05.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+3006,Sst-IRES-Cre;Ai14-331663.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3007,Sst-IRES-Cre;Ai14-331663.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3008,Sst-IRES-Cre;Ai14-331663.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3009,Sst-IRES-Cre;Ai14-331663.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3010,Sst-IRES-Cre;Ai14-331663.03.01,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3011,Sst-IRES-Cre;Ai14-331663.03.01,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3013,Sst-IRES-Cre;Ai14-331663.03.01,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3016,Sst-IRES-Cre;Ai14-331663.05.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3022,Sst-IRES-Cre;Ai14-331663.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3023,Sst-IRES-Cre;Ai14-331663.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3025,Sst-IRES-Cre;Ai14-331663.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3035,Sst-IRES-Cre;Ai14-331660.04.01,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3041,Sst-IRES-Cre;Ai14-331660.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3044,Sst-IRES-Cre;Ai14-331660.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3045,Sst-IRES-Cre;Ai14-331660.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3047,Sst-IRES-Cre;Ai14-331660.05.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3049,Sst-IRES-Cre;Ai14-331660.05.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3051,Sst-IRES-Cre;Ai14-331660.06.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3060,Sst-IRES-Cre;Ai14-331657.04.01,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3067,Sst-IRES-Cre;Ai14-331657.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3068,Sst-IRES-Cre;Ai14-331657.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3069,Sst-IRES-Cre;Ai14-331657.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3070,Sst-IRES-Cre;Ai14-331657.05.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3081,Slc17a8-IRES2-Cre;Ai14-331669.04.01,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3082,Slc17a8-IRES2-Cre;Ai14-331669.05.01,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3087,Slc17a8-IRES2-Cre;Ai14-331669.05.02,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3088,Slc17a8-IRES2-Cre;Ai14-331669.05.02,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3089,Slc17a8-IRES2-Cre;Ai14-331669.05.02,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3090,Slc17a8-IRES2-Cre;Ai14-331669.06.01,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3093,Slc17a8-IRES2-Cre;Ai14-331669.04.02,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3094,Slc17a8-IRES2-Cre;Ai14-331669.04.02,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3095,Slc17a8-IRES2-Cre;Ai14-331669.04.02,Nucleated,,a.Nucleated,Slc17a8-IRES2-Cre
+3105,Rbp4-Cre_KL100;Ai14-335439.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3106,Rbp4-Cre_KL100;Ai14-335439.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3110,Rbp4-Cre_KL100;Ai14-335439.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3111,Rbp4-Cre_KL100;Ai14-335439.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3112,Rbp4-Cre_KL100;Ai14-335439.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3116,Rbp4-Cre_KL100;Ai14-335439.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3117,Rbp4-Cre_KL100;Ai14-335439.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3119,Rbp4-Cre_KL100;Ai14-335439.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3120,Rbp4-Cre_KL100;Ai14-335439.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3121,Rbp4-Cre_KL100;Ai14-335439.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3122,Rbp4-Cre_KL100;Ai14-335439.06.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3123,Rbp4-Cre_KL100;Ai14-335439.06.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3131,Rbp4-Cre_KL100;Ai14-335442.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3140,Rbp4-Cre_KL100;Ai14-335442.03.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3142,Rbp4-Cre_KL100;Ai14-335442.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3146,Rbp4-Cre_KL100;Ai14-335442.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3147,Rbp4-Cre_KL100;Ai14-335442.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3148,Rbp4-Cre_KL100;Ai14-335442.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3159,Rbp4-Cre_KL100;Ai14-335444.03.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3160,Rbp4-Cre_KL100;Ai14-335444.03.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3162,Rbp4-Cre_KL100;Ai14-335444.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3163,Rbp4-Cre_KL100;Ai14-335444.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3164,Rbp4-Cre_KL100;Ai14-335444.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3165,Rbp4-Cre_KL100;Ai14-335444.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3168,Glt25d2-Cre_NF107;Ai14-335723.04.02,Nucleated,,a.Nucleated,Glt25d2-Cre_NF107
+3169,Glt25d2-Cre_NF107;Ai14-335723.04.02,Nucleated,,a.Nucleated,Glt25d2-Cre_NF107
+3170,Glt25d2-Cre_NF107;Ai14-335723.04.02,Nucleated,,a.Nucleated,Glt25d2-Cre_NF107
+3171,Rbp4-Cre_KL100;Ai14-335444.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3172,Rbp4-Cre_KL100;Ai14-335444.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3173,Rbp4-Cre_KL100;Ai14-335444.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3174,Rbp4-Cre_KL100;Ai14-335444.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3175,Rbp4-Cre_KL100;Ai14-335444.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3176,Rbp4-Cre_KL100;Ai14-335444.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3177,Rbp4-Cre_KL100;Ai14-335444.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3178,Rbp4-Cre_KL100;Ai14-335444.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3181,Glt25d2-Cre_NF107;Ai14-335723.03.02,Nucleated,,a.Nucleated,Glt25d2-Cre_NF107
+3183,Rbp4-Cre_KL100;Ai14-335444.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3184,Rbp4-Cre_KL100;Ai14-335444.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3193,Rbp4-Cre_KL100;Ai14-335445.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3194,Rbp4-Cre_KL100;Ai14-335445.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3197,Rbp4-Cre_KL100;Ai14-335445.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3198,Rbp4-Cre_KL100;Ai14-335445.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3204,Rbp4-Cre_KL100;Ai14-335445.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3205,Rbp4-Cre_KL100;Ai14-335445.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3210,Glt25d2-Cre_NF107;Ai14-335724.04.02,Nucleated,,a.Nucleated,Glt25d2-Cre_NF107
+3211,Glt25d2-Cre_NF107;Ai14-335724.04.02,Nucleated,,a.Nucleated,Glt25d2-Cre_NF107
+3212,Rbp4-Cre_KL100;Ai14-335445.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3213,Rbp4-Cre_KL100;Ai14-335445.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3214,Rbp4-Cre_KL100;Ai14-335445.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3215,Rbp4-Cre_KL100;Ai14-335445.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3216,Rbp4-Cre_KL100;Ai14-335445.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3224,Cux2-CreERT2;Ai14-332801.03.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+3227,Cux2-CreERT2;Ai14-332801.04.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+3230,Cux2-CreERT2;Ai14-332801.04.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+3234,Cux2-CreERT2;Ai14-332801.03.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+3236,Cux2-CreERT2;Ai14-332801.03.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+3238,Vipr2-IRES2-Cre-neo;Ai14-335839.04.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre-neo
+3240,Cux2-CreERT2;Ai14-332801.05.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+3241,Cux2-CreERT2;Ai14-332801.05.01,Nucleated,,a.Nucleated,Cux2-CreERT2
+3244,Cux2-CreERT2;Ai14-332801.04.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+3247,Cux2-CreERT2;Ai14-332801.04.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+3248,Vipr2-IRES2-Cre-neo;Ai14-335839.04.02,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre-neo
+3249,Cux2-CreERT2;Ai14-332801.05.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+3250,Cux2-CreERT2;Ai14-332801.05.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+3251,Cux2-CreERT2;Ai14-332801.05.02,Nucleated,,a.Nucleated,Cux2-CreERT2
+3258,Rbp4-Cre_KL100;Ai14-337200.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3264,Rbp4-Cre_KL100;Ai14-337200.03.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3266,Rbp4-Cre_KL100;Ai14-337200.03.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3271,Rbp4-Cre_KL100;Ai14-337200.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3272,Rbp4-Cre_KL100;Ai14-337200.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3273,Rbp4-Cre_KL100;Ai14-337200.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3274,Rbp4-Cre_KL100;Ai14-337200.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3277,Rbp4-Cre_KL100;Ai14-337200.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3285,Rbp4-Cre_KL100;Ai14-337199.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3291,Vip-IRES-Cre;Ai14-336708.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3293,Vip-IRES-Cre;Ai14-336708.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3296,Rbp4-Cre_KL100;Ai14-337199.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3297,Rbp4-Cre_KL100;Ai14-337199.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3298,Rbp4-Cre_KL100;Ai14-337199.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3300,Vip-IRES-Cre;Ai14-336708.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3303,Vip-IRES-Cre;Ai14-336708.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3306,Rbp4-Cre_KL100;Ai14-337199.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3308,Rbp4-Cre_KL100;Ai14-337199.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3309,Rbp4-Cre_KL100;Ai14-337199.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3316,Rbp4-Cre_KL100;Ai14-337197.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3319,Rbp4-Cre_KL100;Ai14-337197.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3323,Vip-IRES-Cre;Ai14-336703.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3325,Vip-IRES-Cre;Ai14-336703.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3328,Rbp4-Cre_KL100;Ai14-337197.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3331,Rbp4-Cre_KL100;Ai14-337197.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3332,Vip-IRES-Cre;Ai14-336703.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3335,Rbp4-Cre_KL100;Ai14-337197.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3336,Rbp4-Cre_KL100;Ai14-337197.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3337,Rbp4-Cre_KL100;Ai14-337197.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3339,Vip-IRES-Cre;Ai14-336703.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3340,Vip-IRES-Cre;Ai14-336703.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3341,Vip-IRES-Cre;Ai14-336703.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3344,Vip-IRES-Cre;Ai14-336703.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3351,Vip-IRES-Cre;Ai14-336139.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3353,Vip-IRES-Cre;Ai14-336139.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3354,Vip-IRES-Cre;Ai14-336139.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3359,Vip-IRES-Cre;Ai14-336139.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3363,Vip-IRES-Cre;Ai14-336139.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3364,Vip-IRES-Cre;Ai14-336139.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3365,Vip-IRES-Cre;Ai14-336139.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3366,Vip-IRES-Cre;Ai14-336139.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3370,Vip-IRES-Cre;Ai14-336139.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3380,Vip-IRES-Cre;Ai14-336152.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3382,Vip-IRES-Cre;Ai14-336152.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3389,Rbp4-Cre_KL100;Ai14-337195.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3390,Rbp4-Cre_KL100;Ai14-337195.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3391,Rbp4-Cre_KL100;Ai14-337195.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3394,Vip-IRES-Cre;Ai14-336152.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3399,Rbp4-Cre_KL100;Ai14-337195.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3401,Vip-IRES-Cre;Ai14-336152.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3404,Vip-IRES-Cre;Ai14-336152.05.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3406,Vip-IRES-Cre;Ai14-336152.06.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3458,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337419.08.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3461,Ctgf-T2A-dgCre;Ai14-335605.06.02,Nucleated,,a.Nucleated,Ctgf-T2A-dgCre
+3479,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337417.04.02,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3486,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337417.03.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3497,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.03.02,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3502,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.04.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3506,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.05.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3507,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.05.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3508,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.05.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3540,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.04.02,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3551,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.06.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3560,Gad2-IRES-Cre;Ai14-339867.07.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+3561,Gad2-IRES-Cre;Ai14-339867.07.01,Nucleated,,a.Nucleated,Gad2-IRES-Cre
+3563,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.04.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3572,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.05.02,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3597,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.05.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3617,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338919.04.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3618,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338919.04.01,Nucleated,,a.Nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3667,Ndnf-IRES2-dgCre;Ai14-341277.04.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+3668,Ndnf-IRES2-dgCre;Ai14-341277.04.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+3670,Ndnf-IRES2-dgCre;Ai14-341277.05.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+3680,Ctgf-T2A-dgCre;Ai14-341050.03.02,Nucleated,,a.Nucleated,Ctgf-T2A-dgCre
+3681,Ctgf-T2A-dgCre;Ai14-341050.03.01,Nucleated,,a.Nucleated,Ctgf-T2A-dgCre
+3682,Ctgf-T2A-dgCre;Ai14-341050.03.01,Nucleated,,a.Nucleated,Ctgf-T2A-dgCre
+3689,Ctgf-T2A-dgCre;Ai14-341051.05.02,Nucleated,,a.Nucleated,Ctgf-T2A-dgCre
+3692,Ndnf-IRES2-dgCre;Ai14-341280.04.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+3693,Ndnf-IRES2-dgCre;Ai14-341280.05.02,Nucleated,,a.Nucleated,Ndnf-IRES2-dgCre
+3701,Vip-IRES-Cre;Ai14-342915.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3702,Vip-IRES-Cre;Ai14-342915.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3710,Scnn1a-Tg3-Cre;Ai14-342033.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3711,Scnn1a-Tg3-Cre;Ai14-342033.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3721,Chrna2-Cre_OE25;Ai14-342604.04.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3722,Chrna2-Cre_OE25;Ai14-342604.04.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3724,Chat-IRES-Cre-neo;Ai14-341890.05.02,Nucleated,,a.Nucleated,Chat-IRES-Cre-neo
+3728,Chrna2-Cre_OE25;Ai14-342604.03.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3729,Chrna2-Cre_OE25;Ai14-342604.03.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3730,Chat-IRES-Cre-neo;Ai14-341890.04.02,Nucleated,,a.Nucleated,Chat-IRES-Cre-neo
+3731,Chat-IRES-Cre-neo;Ai14-341890.04.02,Nucleated,,a.Nucleated,Chat-IRES-Cre-neo
+3739,Chrna2-Cre_OE25;Ai14-342606.05.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3741,Chrna2-Cre_OE25;Ai14-342606.05.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3774,Pvalb-IRES-Cre;Ai14-344090.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3775,Pvalb-IRES-Cre;Ai14-344090.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3776,Pvalb-IRES-Cre;Ai14-344090.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3779,Pvalb-IRES-Cre;Ai14-344090.05.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3782,Pvalb-IRES-Cre;Ai14-344090.05.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3784,Pvalb-IRES-Cre;Ai14-344090.05.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3785,Pvalb-IRES-Cre;Ai14-344090.05.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3792,Htr3a-Cre_NO152;Ai14-343221.05.01,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3793,Htr3a-Cre_NO152;Ai14-343221.05.01,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3794,Htr3a-Cre_NO152;Ai14-343221.05.01,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3799,Htr3a-Cre_NO152;Ai14-343221.05.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3809,Pvalb-IRES-Cre;Ai14-344091.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3810,Pvalb-IRES-Cre;Ai14-344091.04.01,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3811,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-345321.05.02,Nucleated,,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+3812,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-345321.05.02,Nucleated,,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+3814,Sst-IRES-Cre;Ai14-346778.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3816,Scnn1a-Tg2-Cre;Ai14-346634.04.01,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+3820,Sst-IRES-Cre;Ai14-346780.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3821,Sst-IRES-Cre;Ai14-346780.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3822,Sst-IRES-Cre;Ai14-346782.05.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3825,Sst-IRES-Cre;Ai14-346782.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3827,Sst-IRES-Cre;Ai14-346782.03.01,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3832,Sst-IRES-Cre;Ai14-346783.05.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3834,Sst-IRES-Cre;Ai14-346783.05.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3835,Sst-IRES-Cre;Ai14-346783.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3836,Sst-IRES-Cre;Ai14-346783.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3838,Sst-IRES-Cre;Ai14-346784.03.01,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3839,Sst-IRES-Cre;Ai14-346784.03.01,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3841,Scnn1a-Tg2-Cre;Ai14-346639.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+3842,Scnn1a-Tg2-Cre;Ai14-346639.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+3845,Sst-IRES-Cre;Ai14-346784.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3847,Scnn1a-Tg2-Cre;Ai14-346639.05.02,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+3848,Scnn1a-Tg2-Cre;Ai14-346639.05.01,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+3849,Scnn1a-Tg2-Cre;Ai14-346639.03.02,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+3852,Oxtr-T2A-Cre;Ai14-347153.04.02,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3853,Oxtr-T2A-Cre;Ai14-347153.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3854,Oxtr-T2A-Cre;Ai14-347153.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3855,Oxtr-T2A-Cre;Ai14-347153.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3856,Sst-IRES-Cre;Ai14-346909.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3857,Sst-IRES-Cre;Ai14-346909.04.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3859,Scnn1a-Tg2-Cre;Ai14-346637.04.01,Nucleated,,a.Nucleated,Scnn1a-Tg2-Cre
+3860,Oxtr-T2A-Cre;Ai14-347153.05.02,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3861,Vip-IRES-Cre;Ai14-347132.02.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3862,Vip-IRES-Cre;Ai14-347132.02.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3863,Vip-IRES-Cre;Ai14-347132.02.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3864,Vip-IRES-Cre;Ai14-347132.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3865,Vip-IRES-Cre;Ai14-347132.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3866,Vip-IRES-Cre;Ai14-347132.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3867,Sst-IRES-Cre;Ai14-346909.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3868,Sst-IRES-Cre;Ai14-346909.03.02,Nucleated,,a.Nucleated,Sst-IRES-Cre
+3871,Chrna2-Cre_OE25;Ai14-347064.04.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3872,Chrna2-Cre_OE25;Ai14-347064.04.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3874,Chrna2-Cre_OE25;Ai14-347064.03.02,Nucleated,,a.Nucleated,Chrna2-Cre_OE25
+3875,Vip-IRES-Cre;Ai14-348727.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3877,Vip-IRES-Cre;Ai14-348727.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3878,Oxtr-T2A-Cre;Ai14-347157.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3879,Oxtr-T2A-Cre;Ai14-347157.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3880,Oxtr-T2A-Cre;Ai14-347157.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3881,Rbp4-Cre_KL100;Ai14-348734.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3882,Rbp4-Cre_KL100;Ai14-348734.03.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3884,Vip-IRES-Cre;Ai14-348727.03.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3885,Oxtr-T2A-Cre;Ai14-347157.04.02,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3886,Rbp4-Cre_KL100;Ai14-348734.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3887,Rbp4-Cre_KL100;Ai14-348734.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3888,Rbp4-Cre_KL100;Ai14-348734.04.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3889,Rbp4-Cre_KL100;Ai14-348734.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3890,Rbp4-Cre_KL100;Ai14-348734.05.01,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3891,Vip-IRES-Cre;Ai14-348727.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3892,Vip-IRES-Cre;Ai14-348727.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3893,Vip-IRES-Cre;Ai14-348727.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3894,Oxtr-T2A-Cre;Ai14-347157.03.02,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3895,Oxtr-T2A-Cre;Ai14-347157.03.02,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3896,Oxtr-T2A-Cre;Ai14-347157.03.02,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3897,Rbp4-Cre_KL100;Ai14-348734.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3898,Rbp4-Cre_KL100;Ai14-348734.05.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3899,Rbp4-Cre_KL100;Ai14-348734.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3900,Rbp4-Cre_KL100;Ai14-348734.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3901,Rbp4-Cre_KL100;Ai14-348734.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3902,Rbp4-Cre_KL100;Ai14-348734.04.02,Nucleated,,a.Nucleated,Rbp4-Cre_KL100
+3904,Htr3a-Cre_NO152;Ai14-349020.05.01,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3905,Htr3a-Cre_NO152;Ai14-349020.05.01,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3906,Htr3a-Cre_NO152;Ai14-347843.05.01,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3910,Htr3a-Cre_NO152;Ai14-347843.04.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3911,Htr3a-Cre_NO152;Ai14-347843.04.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3912,Htr3a-Cre_NO152;Ai14-349020.03.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3913,Htr3a-Cre_NO152;Ai14-349020.03.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3914,Htr3a-Cre_NO152;Ai14-349020.03.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3915,Htr3a-Cre_NO152;Ai14-349020.03.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3916,Pvalb-IRES-Cre;Ai14-347579.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3917,Pvalb-IRES-Cre;Ai14-347579.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3918,Htr3a-Cre_NO152;Ai14-349020.06.02,Nucleated,,a.Nucleated,Htr3a-Cre_NO152
+3920,Vip-IRES-Cre;Ai14-348725.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3922,Oxtr-T2A-Cre;Ai14-347159.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3923,Oxtr-T2A-Cre;Ai14-347159.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3924,Oxtr-T2A-Cre;Ai14-347159.04.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3927,Oxtr-T2A-Cre;Ai14-347159.03.02,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+3929,Rorb-IRES2-Cre;Ai14-349007.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+3930,Rorb-IRES2-Cre;Ai14-349007.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+3931,Rorb-IRES2-Cre;Ai14-349007.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+3932,Rorb-IRES2-Cre;Ai14-349007.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+3935,Rorb-IRES2-Cre;Ai14-349007.05.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+3940,Rorb-IRES2-Cre;Ai14-349007.06.01,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+3946,Pvalb-IRES-Cre;Ai14-349028.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3947,Pvalb-IRES-Cre;Ai14-349028.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3949,Pvalb-IRES-Cre;Ai14-349028.03.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3950,Slc32a1-IRES-Cre;Ai14-347203.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3951,Scnn1a-Tg3-Cre;Ai14-349313.06.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3952,Slc32a1-IRES-Cre;Ai14-347203.06.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3959,Pvalb-IRES-Cre;Ai14-349029.04.02,Nucleated,,a.Nucleated,Pvalb-IRES-Cre
+3960,Scnn1a-Tg3-Cre;Ai14-349315.02.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3964,Slc32a1-IRES-Cre;Ai14-347204.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3967,Rorb-IRES2-Cre;Ai14-349010.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+3969,Rorb-IRES2-Cre;Ai14-349010.04.02,Nucleated,,a.Nucleated,Rorb-IRES2-Cre
+3971,Scnn1a-Tg3-Cre;Ai14-349315.05.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3972,Slc32a1-IRES-Cre;Ai14-347204.06.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3976,Vip-IRES-Cre;Ai14-351462.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3977,Vip-IRES-Cre;Ai14-351462.04.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3980,Scnn1a-Tg3-Cre;Ai14-349316.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3981,Vip-IRES-Cre;Ai14-351462.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3982,Vip-IRES-Cre;Ai14-351462.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3983,Vip-IRES-Cre;Ai14-351462.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3984,Slc32a1-IRES-Cre;Ai14-347205.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3985,Slc32a1-IRES-Cre;Ai14-347205.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3988,Vip-IRES-Cre;Ai14-351462.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+3989,Scnn1a-Tg3-Cre;Ai14-349316.05.01,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3990,Slc32a1-IRES-Cre;Ai14-348997.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3991,Slc32a1-IRES-Cre;Ai14-348997.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3992,Slc32a1-IRES-Cre;Ai14-348997.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3994,Slc32a1-IRES-Cre;Ai14-348997.05.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3995,Scnn1a-Tg3-Cre;Ai14-349318.04.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3997,Scnn1a-Tg3-Cre;Ai14-349318.05.01,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+3998,Slc32a1-IRES-Cre;Ai14-348997.04.01,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+3999,Scnn1a-Tg3-Cre;Ai14-349318.04.01,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+4000,Scnn1a-Tg3-Cre;Ai14-349318.03.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+4001,Scnn1a-Tg3-Cre;Ai14-349318.03.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+4005,Vip-IRES-Cre;Ai14-351458.03.01,Nucleated,,a.Nucleated,Vip-IRES-Cre
+4008,Slc32a1-IRES-Cre;Ai14-348998.04.02,Nucleated,,a.Nucleated,Slc32a1-IRES-Cre
+4009,Scnn1a-Tg3-Cre;Ai14-349319.05.02,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+4010,Vip-IRES-Cre;Ai14-351458.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+4011,Vip-IRES-Cre;Ai14-351458.05.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+4015,Scnn1a-Tg3-Cre;Ai14-349319.05.01,Nucleated,,a.Nucleated,Scnn1a-Tg3-Cre
+4016,Vip-IRES-Cre;Ai14-351458.04.02,Nucleated,,a.Nucleated,Vip-IRES-Cre
+4020,Chrna2-Cre_OE25;Ai14-351067.04.01,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4021,Chrna2-Cre_OE25;Ai14-351067.04.01,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4023,Oxtr-T2A-Cre;Ai14-351467.05.02,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+4026,Chrna2-Cre_OE25;Ai14-351067.04.02,nucleus_present,1100.0,a.Nucleated,Chrna2-Cre_OE25
+4027,Chrna2-Cre_OE25;Ai14-351067.04.02,nucleus_present,1400.0,a.Nucleated,Chrna2-Cre_OE25
+4028,Chrna2-Cre_OE25;Ai14-351067.03.02,nucleus_present,3000.0,a.Nucleated,Chrna2-Cre_OE25
+4030,Oxtr-T2A-Cre;Ai14-351467.03.01,Nucleated,,a.Nucleated,Oxtr-T2A-Cre
+4031,Gad2-IRES-Cre;Ai14-350672.03.01,nucleus_present,1000.0,a.Nucleated,Gad2-IRES-Cre
+4033,Gad2-IRES-Cre;Ai14-350672.04.01,nucleus_present,930.0,a.Nucleated,Gad2-IRES-Cre
+4037,Gad2-IRES-Cre;Ai14-350674.03.02,nucleus_visible,1000.0,a.Nucleated,Gad2-IRES-Cre
+4039,Gad2-IRES-Cre;Ai14-350674.03.02,nucleus_visible,1000.0,a.Nucleated,Gad2-IRES-Cre
+4041,Oxtr-T2A-Cre;Ai14-351470.04.01,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4043,Oxtr-T2A-Cre;Ai14-351470.04.01,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4044,Nr5a1-Cre;Ai14-350880.04.02,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4045,Nr5a1-Cre;Ai14-350880.04.02,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4047,Nr5a1-Cre;Ai14-350880.03.02,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4048,Nr5a1-Cre;Ai14-350880.03.02,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4049,Gad2-IRES-Cre;Ai14-350674.04.02,nucleus_present,2300.0,a.Nucleated,Gad2-IRES-Cre
+4051,Chrna2-Cre_OE25;Ai14-351070.04.02,nucleus_present,2500.0,a.Nucleated,Chrna2-Cre_OE25
+4055,Oxtr-T2A-Cre;Ai14-351470.05.01,nucleus_present,1700.0,a.Nucleated,Oxtr-T2A-Cre
+4056,Gad2-IRES-Cre;Ai14-350674.04.01,nucleus_present,2000.0,a.Nucleated,Gad2-IRES-Cre
+4058,Gad2-IRES-Cre;Ai14-350674.04.01,nucleus_present,2000.0,a.Nucleated,Gad2-IRES-Cre
+4059,Chrna2-Cre_OE25;Ai14-351070.03.01,nucleus_present,2000.0,a.Nucleated,Chrna2-Cre_OE25
+4060,Chrna2-Cre_OE25;Ai14-351070.03.01,nucleus_present,600.0,a.Nucleated,Chrna2-Cre_OE25
+4062,Oxtr-T2A-Cre;Ai14-351470.03.01,nucleus_visible,2000.0,a.Nucleated,Oxtr-T2A-Cre
+4066,Nr5a1-Cre;Ai14-350880.04.01,nucleus_present,3000.0,a.Nucleated,Nr5a1-Cre
+4068,Gad2-IRES-Cre;Ai14-350674.06.02,nucleus_present,2500.0,a.Nucleated,Gad2-IRES-Cre
+4069,Oxtr-T2A-Cre;Ai14-351470.06.01,nucleus_present,1500.0,a.Nucleated,Oxtr-T2A-Cre
+4071,Gad2-IRES-Cre;Ai14-350674.03.01,nucleus_visible,1000.0,a.Nucleated,Gad2-IRES-Cre
+4074,Nr5a1-Cre;Ai14-350880.03.01,nucleus_present,500.0,a.Nucleated,Nr5a1-Cre
+4077,Oxtr-T2A-Cre;Ai14-351471.03.02,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4081,Nr5a1-Cre;Ai14-350881.04.01,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4083,Nr5a1-Cre;Ai14-350881.04.01,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4084,Oxtr-T2A-Cre;Ai14-351471.04.02,nucleus_present,2000.0,a.Nucleated,Oxtr-T2A-Cre
+4085,Oxtr-T2A-Cre;Ai14-351471.04.02,nucleus_present,1500.0,a.Nucleated,Oxtr-T2A-Cre
+4086,Oxtr-T2A-Cre;Ai14-351471.04.02,nucleus_present,3000.0,a.Nucleated,Oxtr-T2A-Cre
+4087,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-350938.05.02,nucleus_present,2000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4090,Gad2-IRES-Cre;Ai14-350675.05.01,nucleus_present,3000.0,a.Nucleated,Gad2-IRES-Cre
+4091,Gad2-IRES-Cre;Ai14-350675.05.01,nucleus_present,1500.0,a.Nucleated,Gad2-IRES-Cre
+4092,Gad2-IRES-Cre;Ai14-350675.05.01,nucleus_present,1100.0,a.Nucleated,Gad2-IRES-Cre
+4093,Oxtr-T2A-Cre;Ai14-351471.03.01,nucleus_present,2000.0,a.Nucleated,Oxtr-T2A-Cre
+4095,Oxtr-T2A-Cre;Ai14-351471.03.01,nucleus_present,2000.0,a.Nucleated,Oxtr-T2A-Cre
+4096,Oxtr-T2A-Cre;Ai14-351471.05.01,nucleus_present,2000.0,a.Nucleated,Oxtr-T2A-Cre
+4097,Oxtr-T2A-Cre;Ai14-351471.05.01,nucleus_present,1800.0,a.Nucleated,Oxtr-T2A-Cre
+4098,Oxtr-T2A-Cre;Ai14-351471.05.01,nucleus_present,2500.0,a.Nucleated,Oxtr-T2A-Cre
+4099,Nr5a1-Cre;Ai14-350881.05.01,nucleus_present,1700.0,a.Nucleated,Nr5a1-Cre
+4101,Gad2-IRES-Cre;Ai14-350675.04.01,nucleus_present,1000.0,a.Nucleated,Gad2-IRES-Cre
+4102,Gad2-IRES-Cre;Ai14-350675.04.01,nucleus_present,822.0,a.Nucleated,Gad2-IRES-Cre
+4105,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-350938.05.01,nucleus_present,3000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4110,Oxtr-T2A-Cre;Ai14-351471.05.02,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4114,Oxtr-T2A-Cre;Ai14-351472.04.02,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4117,Gad2-IRES-Cre;Ai14-350676.03.02,nucleus_present,1200.0,a.Nucleated,Gad2-IRES-Cre
+4119,Gad2-IRES-Cre;Ai14-350676.04.01,nucleus_present,1800.0,a.Nucleated,Gad2-IRES-Cre
+4122,Oxtr-T2A-Cre;Ai14-351472.04.01,nucleus_present,980.0,a.Nucleated,Oxtr-T2A-Cre
+4124,Oxtr-T2A-Cre;Ai14-351472.05.02,nucleus_present,2000.0,a.Nucleated,Oxtr-T2A-Cre
+4136,Gad2-IRES-Cre;Ai14-351990.04.02,nucleus_present,2000.0,a.Nucleated,Gad2-IRES-Cre
+4141,Oxtr-T2A-Cre;Ai14-351473.05.02,nucleus_present,3000.0,a.Nucleated,Oxtr-T2A-Cre
+4143,Oxtr-T2A-Cre;Ai14-351473.03.01,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4144,Oxtr-T2A-Cre;Ai14-351473.03.01,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4151,Gad2-IRES-Cre;Ai14-352686.04.01,nucleus_present,1000.0,a.Nucleated,Gad2-IRES-Cre
+4160,Gad2-IRES-Cre;Ai14-352686.05.02,nucleus_present,2000.0,a.Nucleated,Gad2-IRES-Cre
+4164,Vip-IRES-Cre;Ai14-354376.04.02,nucleus_present,1200.0,a.Nucleated,Vip-IRES-Cre
+4166,Gad2-IRES-Cre;Ai14-352686.05.01,nucleus_present,2000.0,a.Nucleated,Gad2-IRES-Cre
+4167,Vip-IRES-Cre;Ai14-354376.06.01,nucleus_present,3000.0,a.Nucleated,Vip-IRES-Cre
+4169,Ndnf-IRES2-dgCre;Ai14-353735.03.02,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4170,Gad2-IRES-Cre;Ai14-352686.03.02,nucleus_present,1000.0,a.Nucleated,Gad2-IRES-Cre
+4171,Gad2-IRES-Cre;Ai14-352686.03.02,nucleus_present,1000.0,a.Nucleated,Gad2-IRES-Cre
+4176,Scnn1a-Tg3-Cre;Ai14-353198.04.02,nucleus_present,1000.0,a.Nucleated,Scnn1a-Tg3-Cre
+4177,Vip-IRES-Cre;Ai14-354378.04.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4181,Scnn1a-Tg3-Cre;Ai14-353198.03.02,nucleus_present,1200.0,a.Nucleated,Scnn1a-Tg3-Cre
+4183,Gad2-IRES-Cre;Ai14-352688.04.02,nucleus_present,2000.0,a.Nucleated,Gad2-IRES-Cre
+4185,Ndnf-IRES2-dgCre;Ai14-353737.04.02,nucleus_present,1200.0,a.Nucleated,Ndnf-IRES2-dgCre
+4190,Ndnf-IRES2-dgCre;Ai14-353737.04.01,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4192,Sim1-Cre_KJ18;Ai14-350522.03.01,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4194,Vip-IRES-Cre;Ai14-355068.05.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4198,Vip-IRES-Cre;Ai14-355068.05.02,nucleus_present,2000.0,a.Nucleated,Vip-IRES-Cre
+4200,Sim1-Cre_KJ18;Ai14-350522.05.01,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4203,Sim1-Cre_KJ18;Ai14-350522.04.02,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4204,Sim1-Cre_KJ18;Ai14-350522.04.02,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4211,Gad2-IRES-Cre;Ai14-352690.05.02,nucleus_present,1500.0,a.Nucleated,Gad2-IRES-Cre
+4212,Gad2-IRES-Cre;Ai14-352690.05.02,nucleus_present,700.0,a.Nucleated,Gad2-IRES-Cre
+4216,Gad2-IRES-Cre;Ai14-352690.03.01,nucleus_present,2000.0,a.Nucleated,Gad2-IRES-Cre
+4217,Gad2-IRES-Cre;Ai14-352690.03.01,nucleus_present,1000.0,a.Nucleated,Gad2-IRES-Cre
+4219,Gad2-IRES-Cre;Ai14-352690.03.02,nucleus_present,1000.0,a.Nucleated,Gad2-IRES-Cre
+4221,Nr5a1-Cre;Ai14-355059.04.02,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4222,Pdyn-T2A-CreERT2;Ai14-353427.05.02,nucleus_present,1000.0,a.Nucleated,Pdyn-T2A-CreERT2
+4226,Chrna2-Cre_OE25;Ai14-355016.05.02,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4227,Chrna2-Cre_OE25;Ai14-355016.05.02,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4230,Chrna2-Cre_OE25;Ai14-355016.04.01,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4232,Chrna2-Cre_OE25;Ai14-355016.03.01,nucleus_present,1500.0,a.Nucleated,Chrna2-Cre_OE25
+4238,Chrna2-Cre_OE25;Ai14-355016.03.02,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4239,Pdyn-T2A-CreERT2;Ai14-353427.06.01,nucleus_present,2000.0,a.Nucleated,Pdyn-T2A-CreERT2
+4240,Nr5a1-Cre;Ai14-355059.03.02,nucleus_present,2000.0,a.Nucleated,Nr5a1-Cre
+4241,Nr5a1-Cre;Ai14-355059.03.02,nucleus_present,2000.0,a.Nucleated,Nr5a1-Cre
+4242,Chrna2-Cre_OE25;Ai14-355016.05.01,nucleus_present,2000.0,a.Nucleated,Chrna2-Cre_OE25
+4243,Chrna2-Cre_OE25;Ai14-355016.05.01,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4246,Chrna2-Cre_OE25;Ai14-355017.05.02,nucleus_present,1500.0,a.Nucleated,Chrna2-Cre_OE25
+4248,Pdyn-T2A-CreERT2;Ai14-353887.05.02,nucleus_present,1000.0,a.Nucleated,Pdyn-T2A-CreERT2
+4252,Chrna2-Cre_OE25;Ai14-355475.04.02,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4261,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-353543.04.02,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4262,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-353543.06.02,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4263,Nr5a1-Cre;Ai14-355060.04.02,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4265,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-353543.05.01,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4266,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-353543.04.01,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4267,Nr5a1-Cre;Ai14-355060.06.01,nucleus_present,1000.0,a.Nucleated,Nr5a1-Cre
+4271,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-353653.05.01,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4275,Chrna2-Cre_OE25;Ai14-355477.04.01,nucleus_present,2000.0,a.Nucleated,Chrna2-Cre_OE25
+4276,Chrna2-Cre_OE25;Ai14-355477.04.01,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4277,Chrna2-Cre_OE25;Ai14-355477.04.02,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4278,Chrna2-Cre_OE25;Ai14-355477.04.02,nucleus_present,700.0,a.Nucleated,Chrna2-Cre_OE25
+4279,Chrna2-Cre_OE25;Ai14-355478.04.02,nucleus_present,1500.0,a.Nucleated,Chrna2-Cre_OE25
+4288,Chrna2-Cre_OE25;Ai14-355478.03.02,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4289,Ndnf-IRES2-dgCre;Ai14-355222.03.01,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4290,Ndnf-IRES2-dgCre;Ai14-355222.03.01,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4294,Rbp4-Cre_KL100;Ai14-356489.03.02,nucleus_present,1500.0,a.Nucleated,Rbp4-Cre_KL100
+4295,Rbp4-Cre_KL100;Ai14-356489.03.02,nucleus_present,1500.0,a.Nucleated,Rbp4-Cre_KL100
+4299,Rorb-IRES2-Cre;Ai14-355893.04.02,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4300,Rorb-IRES2-Cre;Ai14-355893.04.02,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4301,Slc32a1-IRES-Cre;Ai14-354957.03.01,nucleus_present,1500.0,a.Nucleated,Slc32a1-IRES-Cre
+4303,Rbp4-Cre_KL100;Ai14-356489.04.01,nucleus_present,1200.0,a.Nucleated,Rbp4-Cre_KL100
+4306,Rorb-IRES2-Cre;Ai14-355893.05.01,nucleus_present,600.0,a.Nucleated,Rorb-IRES2-Cre
+4310,Ndnf-IRES2-dgCre;Ai14-355223.04.02,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4319,Oxtr-T2A-Cre;Ai14-355295.04.01,nucleus_present,2000.0,a.Nucleated,Oxtr-T2A-Cre
+4320,Slc32a1-IRES-Cre;Ai14-354958.03.01,nucleus_present,1000.0,a.Nucleated,Slc32a1-IRES-Cre
+4322,Ndnf-IRES2-dgCre;Ai14-355230.04.01,nucleus_present,2000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4323,Ndnf-IRES2-dgCre;Ai14-355230.04.01,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4324,Ndnf-IRES2-dgCre;Ai14-355230.06.01,nucleus_present,1200.0,a.Nucleated,Ndnf-IRES2-dgCre
+4327,Oxtr-T2A-Cre;Ai14-355295.06.02,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4332,Slc32a1-IRES-Cre;Ai14-354958.04.01,nucleus_present,800.0,a.Nucleated,Slc32a1-IRES-Cre
+4334,Ndnf-IRES2-dgCre;Ai14-355230.03.01,nucleus_present,4000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4340,Rorb-IRES2-Cre;Ai14-355894.04.02,nucleus_present,2000.0,a.Nucleated,Rorb-IRES2-Cre
+4341,Rorb-IRES2-Cre;Ai14-355894.04.02,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4343,Htr3a-Cre_NO152;Ai14-355585.04.01,nucleus_present,1000.0,a.Nucleated,Htr3a-Cre_NO152
+4344,Slc32a1-IRES-Cre;Ai14-354959.04.02,nucleus_present,700.0,a.Nucleated,Slc32a1-IRES-Cre
+4345,Slc32a1-IRES-Cre;Ai14-354959.04.02,nucleus_present,1000.0,a.Nucleated,Slc32a1-IRES-Cre
+4347,Slc32a1-IRES-Cre;Ai14-354959.05.02,nucleus_present,1000.0,a.Nucleated,Slc32a1-IRES-Cre
+4348,Ndnf-IRES2-dgCre;Ai14-355224.04.01,nucleus_present,900.0,a.Nucleated,Ndnf-IRES2-dgCre
+4352,Slc32a1-IRES-Cre;Ai14-354959.04.01,nucleus_present,1300.0,a.Nucleated,Slc32a1-IRES-Cre
+4353,Slc32a1-IRES-Cre;Ai14-354959.04.01,nucleus_present,1400.0,a.Nucleated,Slc32a1-IRES-Cre
+4356,Rorb-IRES2-Cre;Ai14-355894.05.02,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4357,Slc32a1-IRES-Cre;Ai14-354959.03.01,nucleus_present,1000.0,a.Nucleated,Slc32a1-IRES-Cre
+4358,Slc32a1-IRES-Cre;Ai14-354959.03.01,nucleus_present,1000.0,a.Nucleated,Slc32a1-IRES-Cre
+4360,Htr3a-Cre_NO152;Ai14-355586.03.02,nucleus_present,1000.0,a.Nucleated,Htr3a-Cre_NO152
+4362,Oxtr-T2A-Cre;Ai14-355298.03.01,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4365,Oxtr-T2A-Cre;Ai14-355298.04.02,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4369,Ndnf-IRES2-dgCre;Ai14-355226.05.02,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4371,Slc32a1-IRES-Cre;Ai14-354960.04.02,nucleus_present,1000.0,a.Nucleated,Slc32a1-IRES-Cre
+4372,Ndnf-IRES2-dgCre;Ai14-355226.05.01,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4375,Htr3a-Cre_NO152;Ai14-355591.04.01,nucleus_present,2000.0,a.Nucleated,Htr3a-Cre_NO152
+4385,Ndnf-IRES2-dgCre;Ai14-355228.04.01,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre
+4388,Ndnf-IRES2-dgCre;Ai14-355228.03.02,nucleus_present,600.0,a.Nucleated,Ndnf-IRES2-dgCre
+4389,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354751-Ai65.03.02,nucleus_present,1000.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4392,Chrna2-Cre_OE25;Ai14-356148.04.02,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4394,Rbp4-Cre_KL100;Ai14-357010.05.02,nucleus_present,2000.0,a.Nucleated,Rbp4-Cre_KL100
+4398,Sim1-Cre_KJ18;Ai14-354911.06.02,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4400,Rbp4-Cre_KL100;Ai14-357010.04.01,nucleus_present,1200.0,a.Nucleated,Rbp4-Cre_KL100
+4401,Sim1-Cre_KJ18;Ai14-354911.03.01,nucleus_present,2000.0,a.Nucleated,Sim1-Cre_KJ18
+4402,Sim1-Cre_KJ18;Ai14-354911.03.01,nucleus_present,1400.0,a.Nucleated,Sim1-Cre_KJ18
+4403,Sim1-Cre_KJ18;Ai14-354911.02.01,nucleus_present,1300.0,a.Nucleated,Sim1-Cre_KJ18
+4404,Sim1-Cre_KJ18;Ai14-354911.02.01,nucleus_present,1300.0,a.Nucleated,Sim1-Cre_KJ18
+4405,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354751-Ai65.06.01,nucleus_present,1000.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4408,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354751-Ai65.03.01,nucleus_present,2000.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4412,Rbp4-Cre_KL100;Ai14-357010.03.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4415,Rbp4-Cre_KL100;Ai14-357010.02.01,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4416,Rbp4-Cre_KL100;Ai14-357010.04.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4418,Chrna2-Cre_OE25;Ai14-356149.04.01,nucleus_present,1500.0,a.Nucleated,Chrna2-Cre_OE25
+4420,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354752-Ai65.03.01,nucleus_present,1000.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4424,Rbp4-Cre_KL100;Ai14-357009.03.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4425,Chrna2-Cre_OE25;Ai14-356149.05.02,nucleus_present,2000.0,a.Nucleated,Chrna2-Cre_OE25
+4426,Chrna2-Cre_OE25;Ai14-356149.05.02,nucleus_present,1000.0,a.Nucleated,Chrna2-Cre_OE25
+4427,Sim1-Cre_KJ18;Ai14-354917.05.02,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4428,Rbp4-Cre_KL100;Ai14-357009.04.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4429,Rbp4-Cre_KL100;Ai14-357009.05.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4430,Rbp4-Cre_KL100;Ai14-357009.05.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4431,Chrna2-Cre_OE25;Ai14-356149.05.01,nucleus_present,1200.0,a.Nucleated,Chrna2-Cre_OE25
+4433,Rbp4-Cre_KL100;Ai14-357009.05.01,nucleus_present,1400.0,a.Nucleated,Rbp4-Cre_KL100
+4434,Rbp4-Cre_KL100;Ai14-357009.05.01,nucleus_present,1200.0,a.Nucleated,Rbp4-Cre_KL100
+4435,Rbp4-Cre_KL100;Ai14-357009.03.01,nucleus_present,2000.0,a.Nucleated,Rbp4-Cre_KL100
+4436,Rbp4-Cre_KL100;Ai14-357009.03.01,nucleus_present,1200.0,a.Nucleated,Rbp4-Cre_KL100
+4437,Rbp4-Cre_KL100;Ai14-357009.03.01,nucleus_present,2000.0,a.Nucleated,Rbp4-Cre_KL100
+4438,Rbp4-Cre_KL100;Ai14-357009.03.01,nucleus_present,980.0,a.Nucleated,Rbp4-Cre_KL100
+4440,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354752-Ai65.04.02,nucleus_present,2000.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4441,Chrna2-Cre_OE25;Ai14-356149.03.02,nucleus_present,2000.0,a.Nucleated,Chrna2-Cre_OE25
+4442,Sim1-Cre_KJ18;Ai14-354917.04.01,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4443,Tlx3-Cre_PL56;Ai14-353876.03.02,nucleus_present,1000.0,a.Nucleated,Tlx3-Cre_PL56
+4445,Rorb-IRES2-Cre;Ai14-357463.03.02,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4446,Tlx3-Cre_PL56;Ai14-353876.04.02,nucleus_present,1000.0,a.Nucleated,Tlx3-Cre_PL56
+4447,Tlx3-Cre_PL56;Ai14-353876.04.02,nucleus_present,2000.0,a.Nucleated,Tlx3-Cre_PL56
+4448,Rorb-IRES2-Cre;Ai14-357463.04.02,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4451,Rorb-IRES2-Cre;Ai14-357463.06.02,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4452,Rbp4-Cre_KL100;Ai14-357014.03.02,nucleus_present,2100.0,a.Nucleated,Rbp4-Cre_KL100
+4454,Rorb-IRES2-Cre;Ai14-357463.04.01,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4460,Tlx3-Cre_PL56;Ai14-353876.03.01,nucleus_present,500.0,a.Nucleated,Tlx3-Cre_PL56
+4461,Rorb-IRES2-Cre;Ai14-357463.03.01,nucleus_present,1000.0,a.Nucleated,Rorb-IRES2-Cre
+4466,Sim1-Cre_KJ18;Ai14-354918.04.01,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4468,Rbp4-Cre_KL100;Ai14-357013.04.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4473,Rbp4-Cre_KL100;Ai14-357013.04.01,nucleus_present,1500.0,a.Nucleated,Rbp4-Cre_KL100
+4474,Rbp4-Cre_KL100;Ai14-357013.04.01,nucleus_present,2000.0,a.Nucleated,Rbp4-Cre_KL100
+4475,Rbp4-Cre_KL100;Ai14-357013.05.01,nucleus_present,1500.0,a.Nucleated,Rbp4-Cre_KL100
+4476,Rbp4-Cre_KL100;Ai14-357012.04.01,nucleus_present,1600.0,a.Nucleated,Rbp4-Cre_KL100
+4477,Rbp4-Cre_KL100;Ai14-357012.05.01,nucleus_present,900.0,a.Nucleated,Rbp4-Cre_KL100
+4478,Rbp4-Cre_KL100;Ai14-357012.05.01,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4479,Rbp4-Cre_KL100;Ai14-357013.06.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4480,Rbp4-Cre_KL100;Ai14-357013.06.02,nucleus_present,1000.0,a.Nucleated,Rbp4-Cre_KL100
+4481,Sim1-Cre_KJ18;Ai14-354918.05.01,nucleus_present,1000.0,a.Nucleated,Sim1-Cre_KJ18
+4486,Tlx3-Cre_PL56;Ai14-353877.03.02,nucleus_present,1000.0,a.Nucleated,Tlx3-Cre_PL56
+4487,Slc17a8-iCre;Ai14-356688.04.02,nucleus_present,1000.0,a.Nucleated,Slc17a8-iCre
+4491,Slc17a8-iCre;Ai14-356688.04.01,nucleus_present,1000.0,a.Nucleated,Slc17a8-iCre
+4494,Sst-IRES-Cre;Ai14-357929.03.02,nucleus_present,1000.0,a.Nucleated,Sst-IRES-Cre
+4495,Sst-IRES-Cre;Ai14-357929.03.02,nucleus_present,1000.0,a.Nucleated,Sst-IRES-Cre
+4497,Pvalb-IRES-Cre;Ai14-357944.03.01,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4498,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357668.04.02,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4499,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357668.04.02,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4501,Pvalb-IRES-Cre;Ai14-357944.04.02,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4504,Sst-IRES-Cre;Ai14-357929.04.01,nucleus_present,1300.0,a.Nucleated,Sst-IRES-Cre
+4505,Sst-IRES-Cre;Ai14-357929.05.01,nucleus_present,1400.0,a.Nucleated,Sst-IRES-Cre
+4507,Ntsr1-Cre_GN220;Ai14-357982.03.01,nucleus_present,1400.0,a.Nucleated,Ntsr1-Cre_GN220
+4508,Ntsr1-Cre_GN220;Ai14-357982.03.01,nucleus_present,1500.0,a.Nucleated,Ntsr1-Cre_GN220
+4510,Ntsr1-Cre_GN220;Ai14-357982.05.01,nucleus_present,500.0,a.Nucleated,Ntsr1-Cre_GN220
+4511,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357668.04.01,nucleus_present,500.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4517,Pvalb-IRES-Cre;Ai14-357945.03.02,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4518,Pvalb-IRES-Cre;Ai14-357945.03.02,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4521,Ntsr1-Cre_GN220;Ai14-357985.04.02,nucleus_present,1000.0,a.Nucleated,Ntsr1-Cre_GN220
+4522,Ntsr1-Cre_GN220;Ai14-357985.03.02,nucleus_present,1000.0,a.Nucleated,Ntsr1-Cre_GN220
+4524,Ntsr1-Cre_GN220;Ai14-357985.04.01,nucleus_present,1500.0,a.Nucleated,Ntsr1-Cre_GN220
+4525,Ntsr1-Cre_GN220;Ai14-357985.04.01,nucleus_present,1500.0,a.Nucleated,Ntsr1-Cre_GN220
+4528,Pvalb-IRES-Cre;Ai14-357945.05.02,nucleus_present,2000.0,a.Nucleated,Pvalb-IRES-Cre
+4529,Ntsr1-Cre_GN220;Ai14-357985.05.01,nucleus_present,1500.0,a.Nucleated,Ntsr1-Cre_GN220
+4530,Ntsr1-Cre_GN220;Ai14-357985.05.01,nucleus_present,3000.0,a.Nucleated,Ntsr1-Cre_GN220
+4531,Pvalb-IRES-Cre;Ai14-357945.03.01,nucleus_present,600.0,a.Nucleated,Pvalb-IRES-Cre
+4532,Pvalb-IRES-Cre;Ai14-357945.03.01,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4536,Sst-IRES-Cre;Ai14-357930.03.02,nucleus_present,1000.0,a.Nucleated,Sst-IRES-Cre
+4537,Pvalb-IRES-Cre;Ai14-357946.03.02,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4538,Pvalb-IRES-Cre;Ai14-357946.03.02,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4540,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357671.04.02,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4541,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357671.04.02,nucleus_present,1000.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4542,Sst-IRES-Cre;Ai14-357930.04.02,nucleus_present,1000.0,a.Nucleated,Sst-IRES-Cre
+4544,Pvalb-IRES-Cre;Ai14-357946.04.01,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4545,Pvalb-IRES-Cre;Ai14-357946.04.01,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4546,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357671.03.01,nucleus_present,900.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4547,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357671.04.01,nucleus_present,900.0,a.Nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4548,Sst-IRES-Cre;Ai14-357930.04.01,nucleus_present,1000.0,a.Nucleated,Sst-IRES-Cre
+4551,Pvalb-IRES-Cre;Ai14-357946.05.02,nucleus_present,1400.0,a.Nucleated,Pvalb-IRES-Cre
+4552,Pvalb-IRES-Cre;Ai14-357946.05.02,nucleus_present,2400.0,a.Nucleated,Pvalb-IRES-Cre
+4557,Ntsr1-Cre_GN220;Ai14-357981.03.02,nucleus_present,1000.0,a.Nucleated,Ntsr1-Cre_GN220
+4560,Sst-IRES-Cre;Ai14-357931.03.01,nucleus_present,1000.0,a.Nucleated,Sst-IRES-Cre
+4565,Sst-IRES-Cre;Ai14-357932.03.02,nucleus_present,1000.0,a.Nucleated,Sst-IRES-Cre
+4566,Sst-IRES-Cre;Ai14-357932.03.02,nucleus_present,1000.0,a.Nucleated,Sst-IRES-Cre
+4570,Sst-IRES-Cre;Ai14-357932.02.02,nucleus_present,700.0,a.Nucleated,Sst-IRES-Cre
+4573,Vip-IRES-Cre;Ai14-358733.0.04.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre;A
+4574,Vip-IRES-Cre;Ai14-358733.0.04.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre;A
+4575,Vip-IRES-Cre;Ai14-358735.0.04.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre;A
+4577,Ctgf-T2A-dgCre;Ai14-358530.0.03.01,nucleus_present,1000.0,a.Nucleated,Ctgf-T2A-dgCre;A
+4578,Ctgf-T2A-dgCre;Ai14-358530.0.03.01,nucleus_present,1000.0,a.Nucleated,Ctgf-T2A-dgCre;A
+4579,Vip-IRES-Cre;Ai14-358733.04.02,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4580,Vip-IRES-Cre;Ai14-358733.04.02,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4584,Vip-IRES-Cre;Ai14-358735.06.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4586,Scnn1a-Tg2-Cre;Ai14-358945.04.01,nucleus_present,2000.0,a.Nucleated,Scnn1a-Tg2-Cre
+4587,Vip-IRES-Cre;Ai14-358735.03.01,nucleus_present,2000.0,a.Nucleated,Vip-IRES-Cre
+4588,Vip-IRES-Cre;Ai14-358735.03.01,nucleus_present,1500.0,a.Nucleated,Vip-IRES-Cre
+4589,Ctgf-T2A-dgCre;Ai14-358530.04.01,nucleus_present,900.0,a.Nucleated,Ctgf-T2A-dgCre
+4590,Scnn1a-Tg2-Cre;Ai14-358945.0.05.02,nucleus_present,2000.0,a.Nucleated,Scnn1a-Tg2-Cre;A
+4592,Vip-IRES-Cre;Ai14-358733.0.03.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre;A
+4595,Vip-IRES-Cre;Ai14-358733.0.03.02,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre;A
+4596,Ctgf-T2A-dgCre;Ai14-358530.0.04.02,nucleus_present,1000.0,a.Nucleated,Ctgf-T2A-dgCre;A
+4597,Vip-IRES-Cre;Ai14-358733.02.01,nucleus_present,1400.0,a.Nucleated,Vip-IRES-Cre
+4599,Scnn1a-Tg2-Cre;Ai14-358945.0.06.01,nucleus_present,1000.0,a.Nucleated,Scnn1a-Tg2-Cre;A
+4601,Vip-IRES-Cre;Ai14-358736.04.02,nucleus_present,500.0,a.Nucleated,Vip-IRES-Cre
+4602,Vip-IRES-Cre;Ai14-358736.05.02,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4608,Vip-IRES-Cre;Ai14-358736.04.01,nucleus_present,2000.0,a.Nucleated,Vip-IRES-Cre
+4609,Vip-IRES-Cre;Ai14-358736.04.01,nucleus_present,2000.0,a.Nucleated,Vip-IRES-Cre
+4610,Vip-IRES-Cre;Ai14-358736.04.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4613,Vip-IRES-Cre;Ai14-360215.05.01,nucleus_present,3000.0,a.Nucleated,Vip-IRES-Cre
+4614,Vip-IRES-Cre;Ai14-360215.05.01,nucleus_present,1300.0,a.Nucleated,Vip-IRES-Cre
+4615,Vip-IRES-Cre;Ai14-360215.04.01,nucleus_present,500.0,a.Nucleated,Vip-IRES-Cre
+4616,Scnn1a-Tg2-Cre;Ai14-358947.05.02,nucleus_present,1000.0,a.Nucleated,Scnn1a-Tg2-Cre
+4623,Pvalb-IRES-Cre;Ai14-359332.05.01,nucleus_present,2500.0,a.Nucleated,Pvalb-IRES-Cre
+4624,Pvalb-IRES-Cre;Ai14-359332.05.01,nucleus_present,1500.0,a.Nucleated,Pvalb-IRES-Cre
+4625,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358882.03.01,nucleus_present,1500.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2
+4626,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358882.03.01,nucleus_present,2200.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2
+4627,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.04.01,nucleus_present,2000.0,a.Nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4628,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.04.01,nucleus_present,1300.0,a.Nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4630,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.05.01,nucleus_present,2000.0,a.Nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4631,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.03.02,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4632,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.03.02,nucleus_present,1300.0,a.Nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4634,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358882-Ai65.06.01,nucleus_present,1000.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4637,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358882-Ai65.04.01,nucleus_present,1000.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4638,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.03.01,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4641,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358882-Ai65.04.02,nucleus_present,2000.0,a.Nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4648,Vip-IRES-Cre;Ai14-359503.04.02,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4649,Vip-IRES-Cre;Ai14-359503.03.02,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4650,Vip-IRES-Cre;Ai14-359503.03.02,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4656,Vip-IRES-Cre;Ai14-359503.03.01,nucleus_present,1000.0,a.Nucleated,Vip-IRES-Cre
+4659,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358897.03.02,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4660,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358897.03.02,nucleus_present,1000.0,a.Nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4662,Vip-IRES-Cre;Ai14-359503.04.01,nucleus_present,1700.0,a.Nucleated,Vip-IRES-Cre
+4663,Vip-IRES-Cre;Ai14-359503.04.01,nucleus_present,1400.0,a.Nucleated,Vip-IRES-Cre
+4667,Oxtr-T2A-Cre;Ai14-359343.05.01,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4673,Pvalb-IRES-Cre;Ai14-359334.03.02,nucleus_present,1000.0,a.Nucleated,Pvalb-IRES-Cre
+4674,Oxtr-T2A-Cre;Ai14-359342.04.02,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+4676,Oxtr-T2A-Cre;Ai14-359342.05.02,nucleus_present,1000.0,a.Nucleated,Oxtr-T2A-Cre
+90,Gad2-IRES-Cre;Ai14-293418.06.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+92,Gad2-IRES-Cre;Ai14-293418.06.02,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+128,Gad2-IRES-Cre;Ai14-293416.07.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+148,Slc32a1-IRES-Cre;Ai14-294508.08.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+261,Nos1-CreERT2;Ai14-294353.04.02,Partial-Nucleus,,b.Partial nucleated,Nos1-CreERT2
+383,Rorb-IRES2-Cre;Ai14-294985.05.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+472,Ndnf-IRES2-dgCre;Ai14-296823.04.01,Partial-Nucleus,,b.Partial nucleated,Ndnf-IRES2-dgCre
+474,Ndnf-IRES2-dgCre;Ai14-296823.05.01,Partial-Nucleus,,b.Partial nucleated,Ndnf-IRES2-dgCre
+1159,Gad2-IRES-Cre;Ai14-308798.08.02,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+1687,Gad2-IRES-Cre;Ai14-313294.04.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+1713,Rorb-IRES2-Cre;Ai14-315898.03.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1801,Rorb-IRES2-Cre;Ai14-315894.05.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1835,Rorb-IRES2-Cre;Ai14-315893.04.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1837,Rorb-IRES2-Cre;Ai14-315893.03.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1854,Rorb-IRES2-Cre-neo;Ai14-315666.04.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1856,Rorb-IRES2-Cre-neo;Ai14-315666.04.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1868,Rorb-IRES2-Cre-neo;Ai14-315666.02.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1869,Rorb-IRES2-Cre-neo;Ai14-315666.02.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1871,Rorb-IRES2-Cre-neo;Ai14-315666.02.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1885,Rorb-IRES2-Cre-neo;Ai14-315667.04.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1887,Rorb-IRES2-Cre-neo;Ai14-315667.04.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1890,Rorb-IRES2-Cre-neo;Ai14-315667.04.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1894,Rorb-IRES2-Cre-neo;Ai14-315667.04.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1898,Rorb-IRES2-Cre-neo;Ai14-315667.03.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1905,Rorb-IRES2-Cre-neo;Ai14-315667.02.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1906,Rorb-IRES2-Cre-neo;Ai14-315667.02.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1907,Rorb-IRES2-Cre-neo;Ai14-315667.02.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre-neo
+1923,Scnn1a-Tg2-Cre;Ai14-316319.05.01,Partial-Nucleus,,b.Partial nucleated,Scnn1a-Tg2-Cre
+1950,Rorb-IRES2-Cre;Ai14-315901.03.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1954,Rorb-IRES2-Cre;Ai14-315901.04.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1963,Rorb-IRES2-Cre;Ai14-315901.03.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1965,Rorb-IRES2-Cre;Ai14-315901.03.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1968,Rorb-IRES2-Cre;Ai14-315901.04.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1970,Rorb-IRES2-Cre;Ai14-315901.04.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+1998,Nr5a1-Cre;Ai14-317501.05.01,Partial-Nucleus,,b.Partial nucleated,Nr5a1-Cre
+2001,Nr5a1-Cre;Ai14-317501.05.01,Partial-Nucleus,,b.Partial nucleated,Nr5a1-Cre
+2002,Nr5a1-Cre;Ai14-317501.05.01,Partial-Nucleus,,b.Partial nucleated,Nr5a1-Cre
+2018,Rorb-IRES2-Cre;Ai14-318659.04.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+2019,Rorb-IRES2-Cre;Ai14-318659.04.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+2030,Rorb-IRES2-Cre;Ai14-318659.05.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+2033,Rorb-IRES2-Cre;Ai14-318659.02.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+2034,Rorb-IRES2-Cre;Ai14-318659.02.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+2037,Rorb-IRES2-Cre;Ai14-318659.05.02,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+2048,Cux2-CreERT2;Ai14-315357.04.01,Partial-Nucleus,,b.Partial nucleated,Cux2-CreERT2
+2053,Cux2-CreERT2;Ai14-315357.05.01,Partial-Nucleus,,b.Partial nucleated,Cux2-CreERT2
+2064,Cux2-CreERT2;Ai14-315357.04.02,Partial-Nucleus,,b.Partial nucleated,Cux2-CreERT2
+2079,Cux2-CreERT2;Ai14-315355.05.01,Partial-Nucleus,,b.Partial nucleated,Cux2-CreERT2
+2086,Cux2-CreERT2;Ai14-315355.05.02,Partial-Nucleus,,b.Partial nucleated,Cux2-CreERT2
+2089,Cux2-CreERT2;Ai14-315355.05.02,Partial-Nucleus,,b.Partial nucleated,Cux2-CreERT2
+2101,Pvalb-IRES-Cre;Ai14-316462.03.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2107,Pvalb-IRES-Cre;Ai14-316462.04.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2112,Pvalb-IRES-Cre;Ai14-316462.03.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2180,Pvalb-IRES-Cre;Ai14-316465.04.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2181,Pvalb-IRES-Cre;Ai14-316465.05.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2186,Pvalb-IRES-Cre;Ai14-316465.03.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2194,Pvalb-IRES-Cre;Ai14-316465.06.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2201,Pvalb-IRES-Cre;Ai14-316465.03.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2206,Pvalb-IRES-Cre;Ai14-316465.05.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2213,Gad2-IRES-Cre;Ai14-318383.04.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2216,Gad2-IRES-Cre;Ai14-318383.04.02,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2243,Slc32a1-IRES-Cre;Ai14-321269.03.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2256,Slc32a1-IRES-Cre;Ai14-321268.05.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2276,Slc32a1-IRES-Cre;Ai14-321268.03.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2277,Slc32a1-IRES-Cre;Ai14-321268.03.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2278,Slc32a1-IRES-Cre;Ai14-321268.03.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2279,Slc32a1-IRES-Cre;Ai14-321268.03.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2296,Slc32a1-IRES-Cre;Ai14-321583.05.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2308,Slc32a1-IRES-Cre;Ai14-321583.05.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2312,Slc32a1-IRES-Cre;Ai14-321583.06.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2322,Slc32a1-IRES-Cre;Ai14-321584.04.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2324,Slc32a1-IRES-Cre;Ai14-321584.04.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2334,Slc32a1-IRES-Cre;Ai14-321584.04.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2337,Slc32a1-IRES-Cre;Ai14-321584.03.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2351,Vip-IRES-Cre;Ai14-322780.04.01,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+2398,Pvalb-IRES-Cre;Ai14-324331.03.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2404,Pvalb-IRES-Cre;Ai14-324331.04.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2405,Pvalb-IRES-Cre;Ai14-324331.04.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2408,Pvalb-IRES-Cre;Ai14-324331.03.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2410,Pvalb-IRES-Cre;Ai14-324331.04.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2423,Pvalb-IRES-Cre;Ai14-324337.04.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2429,Pvalb-IRES-Cre;Ai14-324337.03.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+2449,Vip-IRES-Cre;Ai14-324785.05.01,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+2469,Chat-IRES-Cre-neo;Ai14-325493.03.02,Partial-Nucleus,,b.Partial nucleated,Chat-IRES-Cre-neo
+2470,Chat-IRES-Cre-neo;Ai14-325493.03.02,Partial-Nucleus,,b.Partial nucleated,Chat-IRES-Cre-neo
+2480,Gad2-IRES-Cre;Ai14-326031.04.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2498,Gad2-IRES-Cre;Ai14-326031.04.02,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2500,Gad2-IRES-Cre;Ai14-326031.04.02,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2505,Gad2-IRES-Cre;Ai14-326032.03.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2520,Gad2-IRES-Cre;Ai14-326032.03.02,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2521,Gad2-IRES-Cre;Ai14-326032.03.02,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2532,Gad2-IRES-Cre;Ai14-326034.03.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2539,Gad2-IRES-Cre;Ai14-326038.05.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2542,Gad2-IRES-Cre;Ai14-326038.05.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2562,Slc32a1-IRES-Cre;Ai14-326813.03.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2564,Slc32a1-IRES-Cre;Ai14-326813.04.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2583,Slc32a1-IRES-Cre;Ai14-326814.03.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2584,Slc32a1-IRES-Cre;Ai14-326814.03.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2585,Slc32a1-IRES-Cre;Ai14-326814.03.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2589,Slc32a1-IRES-Cre;Ai14-326814.04.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2605,Slc32a1-IRES-Cre;Ai14-326815.04.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2613,Slc32a1-IRES-Cre;Ai14-326815.04.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2619,Slc32a1-IRES-Cre;Ai14-326815.03.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2637,Slc32a1-IRES-Cre;Ai14-326812.05.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2652,Slc32a1-IRES-Cre;Ai14-326812.03.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2684,Slc32a1-IRES-Cre;Ai14-327666.03.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2690,Slc32a1-IRES-Cre;Ai14-327666.03.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2710,Gad2-IRES-Cre;Ai14-326683.05.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2734,Gad2-IRES-Cre;Ai14-329253.05.01,Partial-Nucleus,,b.Partial nucleated,Gad2-IRES-Cre
+2779,Slc32a1-IRES-Cre;Ai14-327667.03.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2810,Slc32a1-IRES-Cre;Ai14-327668.04.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2816,Slc32a1-IRES-Cre;Ai14-327668.04.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2819,Slc32a1-IRES-Cre;Ai14-327668.05.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2820,Slc32a1-IRES-Cre;Ai14-327668.05.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2835,Slc32a1-IRES-Cre;Ai14-327669.04.02,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+2888,Vip-IRES-Cre;Ai14-331293.05.01,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+2899,Vip-IRES-Cre;Ai14-331293.03.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+2999,Sst-IRES-Cre;Ai14-331663.05.01,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3012,Sst-IRES-Cre;Ai14-331663.03.01,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3017,Sst-IRES-Cre;Ai14-331663.05.02,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3020,Sst-IRES-Cre;Ai14-331663.03.02,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3021,Sst-IRES-Cre;Ai14-331663.03.02,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3052,Sst-IRES-Cre;Ai14-331660.06.02,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3096,Slc17a8-IRES2-Cre;Ai14-331669.03.02,Partial-Nucleus,,b.Partial nucleated,Slc17a8-IRES2-Cre
+3097,Slc17a8-IRES2-Cre;Ai14-331669.03.02,Partial-Nucleus,,b.Partial nucleated,Slc17a8-IRES2-Cre
+3118,Rbp4-Cre_KL100;Ai14-335439.04.02,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3135,Rbp4-Cre_KL100;Ai14-335442.05.01,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3158,Rbp4-Cre_KL100;Ai14-335444.03.01,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3195,Rbp4-Cre_KL100;Ai14-335445.04.01,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3196,Rbp4-Cre_KL100;Ai14-335445.05.02,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3206,Rbp4-Cre_KL100;Ai14-335445.05.01,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3265,Rbp4-Cre_KL100;Ai14-337200.03.01,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3276,Rbp4-Cre_KL100;Ai14-337200.05.01,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3287,Rbp4-Cre_KL100;Ai14-337199.05.02,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3302,Vip-IRES-Cre;Ai14-336708.03.01,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3320,Rbp4-Cre_KL100;Ai14-337197.05.02,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3329,Rbp4-Cre_KL100;Ai14-337197.03.02,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3342,Vip-IRES-Cre;Ai14-336703.04.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3343,Vip-IRES-Cre;Ai14-336703.05.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3367,Vip-IRES-Cre;Ai14-336139.05.01,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3368,Vip-IRES-Cre;Ai14-336139.05.01,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3388,Rbp4-Cre_KL100;Ai14-337195.03.02,Partial-Nucleus,,b.Partial nucleated,Rbp4-Cre_KL100
+3407,Vip-IRES-Cre;Ai14-336152.06.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3487,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337417.03.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3494,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.05.02,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3495,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.05.02,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3501,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.04.02,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3532,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.04.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3550,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.03.02,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3552,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.06.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3573,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.05.02,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3589,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.03.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3591,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.03.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3592,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.03.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3595,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.05.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3596,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.05.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3659,Vipr2-IRES2-Cre;Pvalb-T2A-FlpO;Ai65-341902.05.01,Partial-Nucleus,,b.Partial nucleated,Vipr2-IRES2-Cre;Pvalb-T2A-FlpO
+3678,Ctgf-T2A-dgCre;Ai14-341050.04.02,Partial-Nucleus,,b.Partial nucleated,Ctgf-T2A-dgCre
+3679,Ctgf-T2A-dgCre;Ai14-341050.03.02,Partial-Nucleus,,b.Partial nucleated,Ctgf-T2A-dgCre
+3705,Vip-IRES-Cre;Ai14-342915.05.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3708,Chat-IRES-Cre-neo;Ai14-341889.05.01,Partial-Nucleus,,b.Partial nucleated,Chat-IRES-Cre-neo
+3709,Chat-IRES-Cre-neo;Ai14-341889.03.01,Partial-Nucleus,,b.Partial nucleated,Chat-IRES-Cre-neo
+3712,Scnn1a-Tg3-Cre;Ai14-342033.04.02,Partial-Nucleus,,b.Partial nucleated,Scnn1a-Tg3-Cre
+3727,Chrna2-Cre_OE25;Ai14-342604.03.02,Partial-Nucleus,,b.Partial nucleated,Chrna2-Cre_OE25
+3732,Chat-IRES-Cre-neo;Ai14-341890.03.02,Partial-Nucleus,,b.Partial nucleated,Chat-IRES-Cre-neo
+3743,Chat-IRES-Cre-neo;Ai14-341891.05.02,Partial-Nucleus,,b.Partial nucleated,Chat-IRES-Cre-neo
+3751,Vip-IRES-Cre;Ai14-342916.04.01,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3753,Pvalb-IRES-Cre;Ai14-344088.04.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+3761,Vip-IRES-Cre;Ai14-342919.04.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3762,Vip-IRES-Cre;Ai14-344821.05.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3795,Scnn1a-Tg3-Cre;Ai14-346622.04.02,Partial-Nucleus,,b.Partial nucleated,Scnn1a-Tg3-Cre
+3815,Sst-IRES-Cre;Ai14-346778.03.02,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3818,Scnn1a-Tg2-Cre;Ai14-346634.05.01,Partial-Nucleus,,b.Partial nucleated,Scnn1a-Tg2-Cre
+3824,Sst-IRES-Cre;Ai14-346782.05.02,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3828,Sst-IRES-Cre;Ai14-346782.03.01,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3833,Sst-IRES-Cre;Ai14-346783.05.02,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3843,Scnn1a-Tg2-Cre;Ai14-346639.02.02,Partial-Nucleus,,b.Partial nucleated,Scnn1a-Tg2-Cre
+3850,Oxtr-T2A-Cre;Ai14-347153.04.02,Partial-Nucleus,,b.Partial nucleated,Oxtr-T2A-Cre
+3851,Oxtr-T2A-Cre;Ai14-347153.04.02,Partial-Nucleus,,b.Partial nucleated,Oxtr-T2A-Cre
+3858,Sst-IRES-Cre;Ai14-346909.04.02,Partial-Nucleus,,b.Partial nucleated,Sst-IRES-Cre
+3870,Vip-IRES-Cre;Ai14-348729.04.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3883,Vip-IRES-Cre;Ai14-348727.03.02,Partial-Nucleus,,b.Partial nucleated,Vip-IRES-Cre
+3909,Htr3a-Cre_NO152;Ai14-349020.05.02,Partial-Nucleus,,b.Partial nucleated,Htr3a-Cre_NO152
+3928,Oxtr-T2A-Cre;Ai14-347159.03.02,Partial-Nucleus,,b.Partial nucleated,Oxtr-T2A-Cre
+3939,Rorb-IRES2-Cre;Ai14-349007.06.01,Partial-Nucleus,,b.Partial nucleated,Rorb-IRES2-Cre
+3943,Scnn1a-Tg3-Cre;Ai14-349313.04.02,Partial-Nucleus,,b.Partial nucleated,Scnn1a-Tg3-Cre
+3948,Pvalb-IRES-Cre;Ai14-349028.03.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+3955,Slc32a1-IRES-Cre;Ai14-347204.04.01,Partial-Nucleus,,b.Partial nucleated,Slc32a1-IRES-Cre
+3973,Pvalb-IRES-Cre;Ai14-349029.06.02,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+3975,Pvalb-IRES-Cre;Ai14-349029.04.01,Partial-Nucleus,,b.Partial nucleated,Pvalb-IRES-Cre
+4024,Oxtr-T2A-Cre;Ai14-351467.05.02,Partial-Nucleus,,b.Partial nucleated,Oxtr-T2A-Cre
+4073,Chrna2-Cre_OE25;Ai14-351070.04.01,nucleus_present,300.0,b.Partial nucleated,Chrna2-Cre_OE25
+4075,Nr5a1-Cre;Ai14-350880.03.01,nucleus_present,300.0,b.Partial nucleated,Nr5a1-Cre
+4104,Oxtr-T2A-Cre;Ai14-351471.06.02,nucleus_present,30.0,b.Partial nucleated,Oxtr-T2A-Cre
+4106,Nr5a1-Cre;Ai14-350881.06.01,nucleus_present,250.0,b.Partial nucleated,Nr5a1-Cre
+4107,Oxtr-T2A-Cre;Ai14-351471.04.01,nucleus_present,50.0,b.Partial nucleated,Oxtr-T2A-Cre
+4109,Gad2-IRES-Cre;Ai14-350675.03.01,nucleus_present,70.0,b.Partial nucleated,Gad2-IRES-Cre
+4111,Nr5a1-Cre;Ai14-351257.03.02,nucleus_present,150.0,b.Partial nucleated,Nr5a1-Cre
+4112,Nr5a1-Cre;Ai14-351257.03.02,nucleus_present,150.0,b.Partial nucleated,Nr5a1-Cre
+4118,Gad2-IRES-Cre;Ai14-350676.03.02,nucleus_present,150.0,b.Partial nucleated,Gad2-IRES-Cre
+4125,Oxtr-T2A-Cre;Ai14-351472.05.01,nucleus_present,4.0,b.Partial nucleated,Oxtr-T2A-Cre
+4126,Nr5a1-Cre;Ai14-351257.02.01,nucleus_present,300.0,b.Partial nucleated,Nr5a1-Cre
+4127,Nr5a1-Cre;Ai14-351257.02.01,nucleus_present,300.0,b.Partial nucleated,Nr5a1-Cre
+4135,Gad2-IRES-Cre;Ai14-351990.04.02,nucleus_present,200.0,b.Partial nucleated,Gad2-IRES-Cre
+4138,Gad2-IRES-Cre;Ai14-351990.03.02,nucleus_present,200.0,b.Partial nucleated,Gad2-IRES-Cre
+4148,Gad2-IRES-Cre;Ai14-351990.04.01,nucleus_present,100.0,b.Partial nucleated,Gad2-IRES-Cre
+4149,Gad2-IRES-Cre;Ai14-351990.04.01,nucleus_present,50.0,b.Partial nucleated,Gad2-IRES-Cre
+4159,Gad2-IRES-Cre;Ai14-352686.05.02,nucleus_present,100.0,b.Partial nucleated,Gad2-IRES-Cre
+4187,Vip-IRES-Cre;Ai14-354378.03.01,nucleus_present,300.0,b.Partial nucleated,Vip-IRES-Cre
+4191,Ndnf-IRES2-dgCre;Ai14-353737.03.01,nucleus_present,400.0,b.Partial nucleated,Ndnf-IRES2-dgCre
+4196,Sim1-Cre_KJ18;Ai14-350522.03.02,nucleus_present,50.0,b.Partial nucleated,Sim1-Cre_KJ18
+4206,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-352134.04.02,nucleus_present,50.0,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+4207,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-352134.04.01,nucleus_present,50.0,b.Partial nucleated,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+4223,Pdyn-T2A-CreERT2;Ai14-353427.05.02,nucleus_present,10.0,b.Partial nucleated,Pdyn-T2A-CreERT2
+4225,Chrna2-Cre_OE25;Ai14-355016.04.02,nucleus_present,30.0,b.Partial nucleated,Chrna2-Cre_OE25
+4234,Pdyn-T2A-CreERT2;Ai14-353427.06.02,nucleus_present,3.0,b.Partial nucleated,Pdyn-T2A-CreERT2
+4235,Nr5a1-Cre;Ai14-355059.06.02,nucleus_present,3.6,b.Partial nucleated,Nr5a1-Cre
+4237,Nr5a1-Cre;Ai14-355059.05.02,nucleus_present,6.0,b.Partial nucleated,Nr5a1-Cre
+4250,Pdyn-T2A-CreERT2;Ai14-353430.04.01,nucleus_present,10.0,b.Partial nucleated,Pdyn-T2A-CreERT2
+4258,Pdyn-T2A-CreERT2;Ai14-353430.04.02,nucleus_present,100.0,b.Partial nucleated,Pdyn-T2A-CreERT2
+4259,Pdyn-T2A-CreERT2;Ai14-353430.04.02,nucleus_present,20.0,b.Partial nucleated,Pdyn-T2A-CreERT2
+4264,Nr5a1-Cre;Ai14-355060.04.02,nucleus_present,300.0,b.Partial nucleated,Nr5a1-Cre
+4270,Pdyn-T2A-CreERT2;Ai14-353884.04.02,nucleus_present,400.0,b.Partial nucleated,Pdyn-T2A-CreERT2
+4272,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-353653.06.01,nucleus_present,5.5,b.Partial nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4281,Chrna2-Cre_OE25;Ai14-355478.02.01,nucleus_present,10.0,b.Partial nucleated,Chrna2-Cre_OE25
+4283,Chrna2-Cre_OE25;Ai14-355477.05.01,nucleus_present,100.0,b.Partial nucleated,Chrna2-Cre_OE25
+4287,Chrna2-Cre_OE25;Ai14-355478.05.02,nucleus_present,4.1,b.Partial nucleated,Chrna2-Cre_OE25
+4304,Rbp4-Cre_KL100;Ai14-356489.04.01,nucleus_present,400.0,b.Partial nucleated,Rbp4-Cre_KL100
+4311,Ndnf-IRES2-dgCre;Ai14-355223.04.02,nucleus_present,10.0,b.Partial nucleated,Ndnf-IRES2-dgCre
+4314,Slc32a1-IRES-Cre;Ai14-354958.04.02,nucleus_present,50.0,b.Partial nucleated,Slc32a1-IRES-Cre
+4316,Ndnf-IRES2-dgCre;Ai14-355230.03.02,nucleus_present,10.0,b.Partial nucleated,Ndnf-IRES2-dgCre
+4326,Ndnf-IRES2-dgCre;Ai14-355223.05.02,nucleus_present,3.2,b.Partial nucleated,Ndnf-IRES2-dgCre
+4328,Oxtr-T2A-Cre;Ai14-355295.06.01,nucleus_present,3.3,b.Partial nucleated,Oxtr-T2A-Cre
+4329,Ndnf-IRES2-dgCre;Ai14-355223.04.01,nucleus_present,300.0,b.Partial nucleated,Ndnf-IRES2-dgCre
+4330,Oxtr-T2A-Cre;Ai14-355295.03.01,nucleus_present,300.0,b.Partial nucleated,Oxtr-T2A-Cre
+4333,Ndnf-IRES2-dgCre;Ai14-355230.03.01,nucleus_present,200.0,b.Partial nucleated,Ndnf-IRES2-dgCre
+4354,Slc32a1-IRES-Cre;Ai14-354959.04.01,nucleus_present,24.0,b.Partial nucleated,Slc32a1-IRES-Cre
+4355,Rorb-IRES2-Cre;Ai14-355894.05.02,nucleus_present,4.2,b.Partial nucleated,Rorb-IRES2-Cre
+4361,Oxtr-T2A-Cre;Ai14-355298.03.01,nucleus_present,15.0,b.Partial nucleated,Oxtr-T2A-Cre
+4364,Oxtr-T2A-Cre;Ai14-355298.04.02,nucleus_present,100.0,b.Partial nucleated,Oxtr-T2A-Cre
+4370,Slc32a1-IRES-Cre;Ai14-354960.04.01,nucleus_present,10.0,b.Partial nucleated,Slc32a1-IRES-Cre
+4379,Rorb-IRES2-Cre;Ai14-355888.05.01,nucleus_present,9.0,b.Partial nucleated,Rorb-IRES2-Cre
+4382,Rorb-IRES2-Cre;Ai14-355888.06.02,nucleus_present,5.1,b.Partial nucleated,Rorb-IRES2-Cre
+4384,Ndnf-IRES2-dgCre;Ai14-355228.05.02,nucleus_present,4.8,b.Partial nucleated,Ndnf-IRES2-dgCre
+4395,Rbp4-Cre_KL100;Ai14-357010.05.02,nucleus_present,200.0,b.Partial nucleated,Rbp4-Cre_KL100
+4396,Rbp4-Cre_KL100;Ai14-357010.05.01,nucleus_present,100.0,b.Partial nucleated,Rbp4-Cre_KL100
+4406,Sim1-Cre_KJ18;Ai14-354911.05.01,nucleus_present,3.6,b.Partial nucleated,Sim1-Cre_KJ18
+4407,Sim1-Cre_KJ18;Ai14-354911.06.01,nucleus_present,6.6,b.Partial nucleated,Sim1-Cre_KJ18
+4417,Rbp4-Cre_KL100;Ai14-357010.04.02,nucleus_present,150.0,b.Partial nucleated,Rbp4-Cre_KL100
+4439,Sim1-Cre_KJ18;Ai14-354917.06.01,nucleus_present,7.5,b.Partial nucleated,Sim1-Cre_KJ18
+4456,Tlx3-Cre_PL56;Ai14-353876.06.02,nucleus_present,6.1,b.Partial nucleated,Tlx3-Cre_PL56
+4459,Tlx3-Cre_PL56;Ai14-353876.03.01,nucleus_present,100.0,b.Partial nucleated,Tlx3-Cre_PL56
+4464,Rbp4-Cre_KL100;Ai14-357013.03.02,nucleus_present,400.0,b.Partial nucleated,Rbp4-Cre_KL100
+4496,Pvalb-IRES-Cre;Ai14-357944.03.01,nucleus_present,10.0,b.Partial nucleated,Pvalb-IRES-Cre
+4509,Ntsr1-Cre_GN220;Ai14-357982.05.01,nucleus_present,16.0,b.Partial nucleated,Ntsr1-Cre_GN220
+4519,Pvalb-IRES-Cre;Ai14-357945.04.02,nucleus_present,50.0,b.Partial nucleated,Pvalb-IRES-Cre
+4526,Ntsr1-Cre_GN220;Ai14-357985.02.01,nucleus_present,250.0,b.Partial nucleated,Ntsr1-Cre_GN220
+4539,Pvalb-IRES-Cre;Ai14-357946.03.02,nucleus_present,10.0,b.Partial nucleated,Pvalb-IRES-Cre
+4543,Pvalb-IRES-Cre;Ai14-357946.04.02,nucleus_present,5.0,b.Partial nucleated,Pvalb-IRES-Cre
+4564,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357672.04.01,nucleus_present,200.0,b.Partial nucleated,Nos1-CreERT2;Sst-IRES-FlpO
+4567,Sst-IRES-Cre;Ai14-357932.04.02,nucleus_present,100.0,b.Partial nucleated,Sst-IRES-Cre
+4581,Vip-IRES-Cre;Ai14-358733.04.02,nucleus_present,40.0,b.Partial nucleated,Vip-IRES-Cre
+4582,Vip-IRES-Cre;Ai14-358735.04.02,nucleus_present,200.0,b.Partial nucleated,Vip-IRES-Cre
+4583,Vip-IRES-Cre;Ai14-358735.04.02,nucleus_present,10.0,b.Partial nucleated,Vip-IRES-Cre
+4591,Vip-IRES-Cre;Ai14-358735.0.05.02,nucleus_present,3.8,b.Partial nucleated,Vip-IRES-Cre;A
+4600,Vip-IRES-Cre;Ai14-360215.03.02,nucleus_present,10.0,b.Partial nucleated,Vip-IRES-Cre
+4603,Vip-IRES-Cre;Ai14-358736.05.02,nucleus_present,10.0,b.Partial nucleated,Vip-IRES-Cre
+4620,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.04.02,nucleus_present,200.0,b.Partial nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4629,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.05.01,nucleus_present,18.0,b.Partial nucleated,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4655,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358881-Ai65.05.02,nucleus_present,5.4,b.Partial nucleated,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4668,Vip-IRES-Cre;Ai14-359504.05.01,nucleus_present,20.0,b.Partial nucleated,Vip-IRES-Cre
+70,Rbp4-Cre_KL100;Ai14-290392.04.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+71,Rbp4-Cre_KL100;Ai14-290392.04.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+77,Rbp4-Cre_KL100;Ai14-290393.03.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+78,Rbp4-Cre_KL100;Ai14-290393.03.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+80,Rbp4-Cre_KL100;Ai14-290393.04.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+81,Rbp4-Cre_KL100;Ai14-290393.04.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+82,Rbp4-Cre_KL100;Ai14-290393.04.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+97,Gad2-IRES-Cre;Ai14-293418.07.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+98,Gad2-IRES-Cre;Ai14-293418.07.02,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+100,Gad2-IRES-Cre;Ai14-293418.07.02,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+108,Slc32a1-IRES-Cre;Ai14-294507.07.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+109,Slc32a1-IRES-Cre;Ai14-294507.07.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+112,Slc32a1-IRES-Cre;Ai14-294507.08.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+117,Slc32a1-IRES-Cre;Ai14-294507.06.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+124,Gad2-IRES-Cre;Ai14-293416.06.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+125,Gad2-IRES-Cre;Ai14-293416.06.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+127,Gad2-IRES-Cre;Ai14-293416.07.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+129,Gad2-IRES-Cre;Ai14-293416.07.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+130,Gad2-IRES-Cre;Ai14-293416.07.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+136,Gad2-IRES-Cre;Ai14-293416.06.02,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+138,Gad2-IRES-Cre;Ai14-293416.06.02,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+147,Slc32a1-IRES-Cre;Ai14-294508.07.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+155,Slc32a1-IRES-Cre;Ai14-294508.05.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+156,Slc32a1-IRES-Cre;Ai14-294508.05.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+162,Slc32a1-IRES-Cre;Ai14-294508.06.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+163,Slc32a1-IRES-Cre;Ai14-294508.06.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+171,Slc32a1-IRES-Cre;Ai14-295046.07.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+172,Slc32a1-IRES-Cre;Ai14-295046.07.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+173,Slc32a1-IRES-Cre;Ai14-295046.08.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+175,Slc32a1-IRES-Cre;Ai14-295046.08.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+176,Slc32a1-IRES-Cre;Ai14-295046.08.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+177,Slc32a1-IRES-Cre;Ai14-295046.08.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+180,Slc32a1-IRES-Cre;Ai14-295046.07.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+181,Slc32a1-IRES-Cre;Ai14-295046.07.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+182,Slc32a1-IRES-Cre;Ai14-295046.07.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+183,Slc32a1-IRES-Cre;Ai14-295046.08.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+184,Slc32a1-IRES-Cre;Ai14-295046.08.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+187,Slc32a1-IRES-Cre;Ai14-295046.08.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+250,Nos1-CreERT2;Ai14-294353.03.01,Outside-Out,,c.Outside out,Nos1-CreERT2
+251,Nos1-CreERT2;Ai14-294353.03.01,Outside-Out,,c.Outside out,Nos1-CreERT2
+252,Nos1-CreERT2;Ai14-294353.05.01,Outside-Out,,c.Outside out,Nos1-CreERT2
+253,Nos1-CreERT2;Ai14-294353.05.01,Outside-Out,,c.Outside out,Nos1-CreERT2
+254,Nos1-CreERT2;Ai14-294353.05.01,Outside-Out,,c.Outside out,Nos1-CreERT2
+255,Nos1-CreERT2;Ai14-294353.05.01,Outside-Out,,c.Outside out,Nos1-CreERT2
+258,Nos1-CreERT2;Ai14-294353.03.02,Outside-Out,,c.Outside out,Nos1-CreERT2
+259,Nos1-CreERT2;Ai14-294353.04.02,Outside-Out,,c.Outside out,Nos1-CreERT2
+260,Nos1-CreERT2;Ai14-294353.04.02,Outside-Out,,c.Outside out,Nos1-CreERT2
+262,Nos1-CreERT2;Ai14-294353.05.02,Outside-Out,,c.Outside out,Nos1-CreERT2
+266,Nos1-CreERT2;Ai14-294353.02.01,Outside-Out,,c.Outside out,Nos1-CreERT2
+278,Rorb-IRES2-Cre;Ai14-294983.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+281,Rorb-IRES2-Cre;Ai14-294983.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+282,Rorb-IRES2-Cre;Ai14-294983.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+286,Rorb-IRES2-Cre;Ai14-294983.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+287,Rorb-IRES2-Cre;Ai14-294983.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+289,Rorb-IRES2-Cre;Ai14-294983.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+290,Rorb-IRES2-Cre;Ai14-294983.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+298,Rorb-IRES2-Cre;Ai14-294984.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+299,Rorb-IRES2-Cre;Ai14-294984.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+300,Rorb-IRES2-Cre;Ai14-294984.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+301,Rorb-IRES2-Cre;Ai14-294984.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+302,Rorb-IRES2-Cre;Ai14-294984.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+304,Rorb-IRES2-Cre;Ai14-294984.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+305,Rorb-IRES2-Cre;Ai14-294984.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+308,Rorb-IRES2-Cre;Ai14-294984.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+309,Rorb-IRES2-Cre;Ai14-294984.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+310,Rorb-IRES2-Cre;Ai14-294984.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+311,Rorb-IRES2-Cre;Ai14-294984.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+313,Rorb-IRES2-Cre;Ai14-294984.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+317,Rorb-IRES2-Cre;Ai14-294984.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+318,Rorb-IRES2-Cre;Ai14-294984.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+319,Rorb-IRES2-Cre;Ai14-294984.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+348,Rorb-IRES2-Cre;Ai14-294986.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+349,Rorb-IRES2-Cre;Ai14-294986.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+350,Rorb-IRES2-Cre;Ai14-294986.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+351,Rorb-IRES2-Cre;Ai14-294986.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+353,Rorb-IRES2-Cre;Ai14-294986.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+355,Rorb-IRES2-Cre;Ai14-294986.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+358,Rorb-IRES2-Cre;Ai14-294986.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+359,Rorb-IRES2-Cre;Ai14-294986.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+361,Rorb-IRES2-Cre;Ai14-294986.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+362,Rorb-IRES2-Cre;Ai14-294986.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+363,Rorb-IRES2-Cre;Ai14-294986.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+365,Rorb-IRES2-Cre;Ai14-294986.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+369,Rorb-IRES2-Cre;Ai14-294984.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+370,Rorb-IRES2-Cre;Ai14-294984.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+371,Rorb-IRES2-Cre;Ai14-294984.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+380,Rorb-IRES2-Cre;Ai14-294985.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+381,Rorb-IRES2-Cre;Ai14-294985.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+382,Rorb-IRES2-Cre;Ai14-294985.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+384,Rorb-IRES2-Cre;Ai14-294985.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+385,Rorb-IRES2-Cre;Ai14-294985.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+386,Rorb-IRES2-Cre;Ai14-294985.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+387,Rorb-IRES2-Cre;Ai14-294985.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+390,Rorb-IRES2-Cre;Ai14-294985.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+391,Rorb-IRES2-Cre;Ai14-294985.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+392,Rorb-IRES2-Cre;Ai14-294985.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+393,Rorb-IRES2-Cre;Ai14-294985.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+394,Rorb-IRES2-Cre;Ai14-294985.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+395,Rorb-IRES2-Cre;Ai14-294985.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+401,Rorb-IRES2-Cre;Ai14-294985.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+402,Rorb-IRES2-Cre;Ai14-294985.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+403,Rorb-IRES2-Cre;Ai14-294985.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+404,Rorb-IRES2-Cre;Ai14-294985.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+440,Gad2-IRES-Cre;Ai14-296621.06.02,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+473,Ndnf-IRES2-dgCre;Ai14-296823.04.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+480,Ndnf-IRES2-dgCre;Ai14-296823.03.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+482,Ndnf-IRES2-dgCre;Ai14-296823.03.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+483,Ndnf-IRES2-dgCre;Ai14-296823.04.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+493,Ndnf-IRES2-dgCre;Ai14-296824.04.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+495,Ndnf-IRES2-dgCre;Ai14-296824.04.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+496,Ndnf-IRES2-dgCre;Ai14-296824.04.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+497,Ndnf-IRES2-dgCre;Ai14-296824.04.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+501,Ndnf-IRES2-dgCre;Ai14-296824.03.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+503,Ndnf-IRES2-dgCre;Ai14-296824.03.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+504,Ndnf-IRES2-dgCre;Ai14-296824.05.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+505,Ndnf-IRES2-dgCre;Ai14-296824.05.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+506,Ndnf-IRES2-dgCre;Ai14-296824.05.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+509,Ndnf-IRES2-dgCre;Ai14-296824.03.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+510,Ndnf-IRES2-dgCre;Ai14-296824.03.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+511,Ndnf-IRES2-dgCre;Ai14-296824.03.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+519,Ndnf-IRES2-dgCre;Ai14-296825.03.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+520,Ndnf-IRES2-dgCre;Ai14-296825.03.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+521,Ndnf-IRES2-dgCre;Ai14-296825.03.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+524,Ndnf-IRES2-dgCre;Ai14-296825.04.01,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+528,Ndnf-IRES2-dgCre;Ai14-296825.03.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+529,Ndnf-IRES2-dgCre;Ai14-296825.03.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+531,Ndnf-IRES2-dgCre;Ai14-296825.03.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+532,Ndnf-IRES2-dgCre;Ai14-296825.04.02,Outside-Out,,c.Outside out,Ndnf-IRES2-dgCre
+915,Vip-IRES-Cre;Ai14-303935.03.02,Outside-Out,,c.Outside out,Vip-IRES-Cre
+916,Vip-IRES-Cre;Ai14-303935.03.02,Outside-Out,,c.Outside out,Vip-IRES-Cre
+917,Vip-IRES-Cre;Ai14-303935.03.02,Outside-Out,,c.Outside out,Vip-IRES-Cre
+1302,Vipr2-IRES2-Cre;Ai14-310517.06.02,Outside-Out,,c.Outside out,Vipr2-IRES2-Cre
+1310,Vipr2-IRES2-Cre;Ai14-310517.07.01,Outside-Out,,c.Outside out,Vipr2-IRES2-Cre
+1341,Vipr2-IRES2-Cre;Ai14-310516.07.02,Outside-Out,,c.Outside out,Vipr2-IRES2-Cre
+1342,Vipr2-IRES2-Cre;Ai14-310516.07.02,Outside-Out,,c.Outside out,Vipr2-IRES2-Cre
+1462,Slc17a6-IRES-Cre;Ai14-309384.03.01,Outside-Out,,c.Outside out,Slc17a6-IRES-Cre
+1464,Slc17a6-IRES-Cre;Ai14-309384.03.01,Outside-Out,,c.Outside out,Slc17a6-IRES-Cre
+1466,Slc17a6-IRES-Cre;Ai14-309384.04.01,Outside-Out,,c.Outside out,Slc17a6-IRES-Cre
+1764,Scnn1a-Tg3-Cre;Ai14-315863.03.01,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1765,Scnn1a-Tg3-Cre;Ai14-315863.03.01,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1766,Scnn1a-Tg3-Cre;Ai14-315863.03.01,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1767,Scnn1a-Tg3-Cre;Ai14-315863.03.01,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1768,Rorb-IRES2-Cre;Ai14-315895.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1769,Rorb-IRES2-Cre;Ai14-315895.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1770,Rorb-IRES2-Cre;Ai14-315895.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1771,Rorb-IRES2-Cre;Ai14-315895.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1772,Rorb-IRES2-Cre;Ai14-315895.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1773,Rorb-IRES2-Cre;Ai14-315895.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1776,Scnn1a-Tg3-Cre;Ai14-315863.03.02,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1778,Scnn1a-Tg3-Cre;Ai14-315863.03.02,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1779,Rorb-IRES2-Cre;Ai14-315895.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1782,Rorb-IRES2-Cre;Ai14-315895.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1784,Rorb-IRES2-Cre;Ai14-315895.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1792,Rorb-IRES2-Cre;Ai14-315894.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1794,Rorb-IRES2-Cre;Ai14-315894.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1795,Rorb-IRES2-Cre;Ai14-315894.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1796,Rorb-IRES2-Cre;Ai14-315894.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1797,Rorb-IRES2-Cre;Ai14-315894.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1799,Rorb-IRES2-Cre;Ai14-315894.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1805,Rorb-IRES2-Cre;Ai14-315894.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1806,Rorb-IRES2-Cre;Ai14-315894.04.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1808,Rorb-IRES2-Cre;Ai14-315894.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1809,Rorb-IRES2-Cre;Ai14-315894.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1810,Rorb-IRES2-Cre;Ai14-315894.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1811,Rorb-IRES2-Cre;Ai14-315894.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1821,Scnn1a-Tg3-Cre;Ai14-315862.04.01,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1822,Scnn1a-Tg3-Cre;Ai14-315862.04.01,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1823,Scnn1a-Tg3-Cre;Ai14-315862.04.01,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1824,Scnn1a-Tg3-Cre;Ai14-315862.04.01,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1825,Rorb-IRES2-Cre;Ai14-315893.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1827,Rorb-IRES2-Cre;Ai14-315893.04.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+1833,Scnn1a-Tg3-Cre;Ai14-315862.04.02,Outside-Out,,c.Outside out,Scnn1a-Tg3-Cre
+1844,Rorb-IRES2-Cre-neo;Ai14-315666.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre-neo
+1845,Rorb-IRES2-Cre-neo;Ai14-315666.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre-neo
+1847,Rorb-IRES2-Cre-neo;Ai14-315666.03.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre-neo
+1859,Rorb-IRES2-Cre-neo;Ai14-315666.05.01,Outside-Out,,c.Outside out,Rorb-IRES2-Cre-neo
+1897,Rorb-IRES2-Cre-neo;Ai14-315667.03.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre-neo
+2051,Cux2-CreERT2;Ai14-315357.04.01,Outside-Out,,c.Outside out,Cux2-CreERT2
+2110,Pvalb-IRES-Cre;Ai14-316462.03.02,Outside-Out,,c.Outside out,Pvalb-IRES-Cre
+2179,Pvalb-IRES-Cre;Ai14-316465.04.01,Outside-Out,,c.Outside out,Pvalb-IRES-Cre
+2328,Slc32a1-IRES-Cre;Ai14-321584.05.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+2447,Vip-IRES-Cre;Ai14-324785.05.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+2448,Vip-IRES-Cre;Ai14-324785.05.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+2555,Slc32a1-IRES-Cre;Ai14-326813.05.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+2736,Gad2-IRES-Cre;Ai14-329253.05.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+2890,Vip-IRES-Cre;Ai14-331293.05.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+2902,Vip-IRES-Cre;Ai14-331293.04.02,Outside-Out,,c.Outside out,Vip-IRES-Cre
+2928,Chrna2-Cre_OE25;Ai14-330311.05.01,Outside-Out,,c.Outside out,Chrna2-Cre_OE25
+2931,Chrna2-Cre_OE25;Ai14-330311.05.01,Outside-Out,,c.Outside out,Chrna2-Cre_OE25
+2934,Vip-IRES-Cre;Ai14-331294.03.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+2967,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.03.01,Outside-Out,,c.Outside out,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2983,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.04.02,Outside-Out,,c.Outside out,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2998,Sst-IRES-Cre;Ai14-331663.04.01,Outside-Out,,c.Outside out,Sst-IRES-Cre
+3001,Sst-IRES-Cre;Ai14-331663.05.01,Outside-Out,,c.Outside out,Sst-IRES-Cre
+3002,Sst-IRES-Cre;Ai14-331663.05.01,Outside-Out,,c.Outside out,Sst-IRES-Cre
+3034,Sst-IRES-Cre;Ai14-331660.04.01,Outside-Out,,c.Outside out,Sst-IRES-Cre
+3036,Sst-IRES-Cre;Ai14-331660.03.02,Outside-Out,,c.Outside out,Sst-IRES-Cre
+3037,Sst-IRES-Cre;Ai14-331660.03.02,Outside-Out,,c.Outside out,Sst-IRES-Cre
+3038,Sst-IRES-Cre;Ai14-331660.03.02,Outside-Out,,c.Outside out,Sst-IRES-Cre
+3061,Sst-IRES-Cre;Ai14-331657.04.01,Outside-Out,,c.Outside out,Sst-IRES-Cre
+3079,Slc17a8-IRES2-Cre;Ai14-331669.04.01,Outside-Out,,c.Outside out,Slc17a8-IRES2-Cre
+3109,Rbp4-Cre_KL100;Ai14-335439.05.01,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+3113,Rbp4-Cre_KL100;Ai14-335439.05.01,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+3132,Rbp4-Cre_KL100;Ai14-335442.04.01,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+3133,Rbp4-Cre_KL100;Ai14-335442.04.01,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+3136,Rbp4-Cre_KL100;Ai14-335442.05.01,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+3228,Cux2-CreERT2;Ai14-332801.04.01,Outside-Out,,c.Outside out,Cux2-CreERT2
+3307,Rbp4-Cre_KL100;Ai14-337199.04.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+3318,Rbp4-Cre_KL100;Ai14-337197.05.02,Outside-Out,,c.Outside out,Rbp4-Cre_KL100
+3352,Vip-IRES-Cre;Ai14-336139.04.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+3357,Vip-IRES-Cre;Ai14-336139.03.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+3377,Vip-IRES-Cre;Ai14-336152.04.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+3379,Vip-IRES-Cre;Ai14-336152.04.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+3385,Vip-IRES-Cre;Ai14-336152.03.01,Outside-Out,,c.Outside out,Vip-IRES-Cre
+3395,Vip-IRES-Cre;Ai14-336152.04.02,Outside-Out,,c.Outside out,Vip-IRES-Cre
+3536,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.05.01,Outside-Out,,c.Outside out,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3559,Gad2-IRES-Cre;Ai14-339867.07.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+3606,Gad2-IRES-Cre;Ai14-339870.08.01,Outside-Out,,c.Outside out,Gad2-IRES-Cre
+3936,Rorb-IRES2-Cre;Ai14-349007.05.02,Outside-Out,,c.Outside out,Rorb-IRES2-Cre
+3954,Slc32a1-IRES-Cre;Ai14-347204.04.01,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+3965,Slc32a1-IRES-Cre;Ai14-347204.05.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+3966,Slc32a1-IRES-Cre;Ai14-347204.05.02,Outside-Out,,c.Outside out,Slc32a1-IRES-Cre
+4032,Gad2-IRES-Cre;Ai14-350672.04.01,nucleus_absent,1000.0,c.Outside out,Gad2-IRES-Cre
+4057,Gad2-IRES-Cre;Ai14-350674.04.01,nucleus_absent,1700.0,c.Outside out,Gad2-IRES-Cre
+4116,Gad2-IRES-Cre;Ai14-350676.04.02,nucleus_absent,700.0,c.Outside out,Gad2-IRES-Cre
+4132,Oxtr-T2A-Cre;Ai14-351473.04.02,nucleus_absent,1500.0,c.Outside out,Oxtr-T2A-Cre
+4133,Chrna2-Cre_OE25;Ai14-351080.04.02,nucleus_absent,3000.0,c.Outside out,Chrna2-Cre_OE25
+4150,Gad2-IRES-Cre;Ai14-351990.03.01,nucleus_absent,800.0,c.Outside out,Gad2-IRES-Cre
+4155,Vip-IRES-Cre;Ai14-354376.04.01,nucleus_absent,1000.0,c.Outside out,Vip-IRES-Cre
+4157,Ndnf-IRES2-dgCre;Ai14-353735.04.02,nucleus_absent,1000.0,c.Outside out,Ndnf-IRES2-dgCre
+4158,Ndnf-IRES2-dgCre;Ai14-353735.04.02,nucleus_absent,1000.0,c.Outside out,Ndnf-IRES2-dgCre
+4161,Gad2-IRES-Cre;Ai14-352686.04.02,nucleus_absent,1000.0,c.Outside out,Gad2-IRES-Cre
+4162,Gad2-IRES-Cre;Ai14-352686.04.02,nucleus_absent,2000.0,c.Outside out,Gad2-IRES-Cre
+4168,Ndnf-IRES2-dgCre;Ai14-353735.04.01,nucleus_absent,600.0,c.Outside out,Ndnf-IRES2-dgCre
+4174,Scnn1a-Tg3-Cre;Ai14-353198.04.02,nucleus_absent,1000.0,c.Outside out,Scnn1a-Tg3-Cre
+4175,Scnn1a-Tg3-Cre;Ai14-353198.04.02,nucleus_absent,1000.0,c.Outside out,Scnn1a-Tg3-Cre
+4202,Ndnf-IRES2-dgCre;Ai14-353742.03.01,nucleus_absent,500.0,c.Outside out,Ndnf-IRES2-dgCre
+4213,Vipr2-IRES2-Cre;Pvalb-T2A-FlpO;Ai65-349547.05.02,nucleus_absent,1500.0,c.Outside out,Vipr2-IRES2-Cre;Pvalb-T2A-FlpO
+4218,Gad2-IRES-Cre;Ai14-352690.03.02,nucleus_absent,700.0,c.Outside out,Gad2-IRES-Cre
+4220,Nr5a1-Cre;Ai14-355059.04.02,nucleus_absent,1000.0,c.Outside out,Nr5a1-Cre
+4296,Rbp4-Cre_KL100;Ai14-356489.03.02,nucleus_absent,1000.0,c.Outside out,Rbp4-Cre_KL100
+4297,Ndnf-IRES2-dgCre;Ai14-355222.05.01,nucleus_absent,1000.0,c.Outside out,Ndnf-IRES2-dgCre
+4302,Slc32a1-IRES-Cre;Ai14-354957.03.01,nucleus_absent,1200.0,c.Outside out,Slc32a1-IRES-Cre
+4317,Ndnf-IRES2-dgCre;Ai14-355223.05.01,nucleus_absent,900.0,c.Outside out,Ndnf-IRES2-dgCre
+4321,Slc32a1-IRES-Cre;Ai14-354958.03.01,nucleus_absent,600.0,c.Outside out,Slc32a1-IRES-Cre
+4331,Oxtr-T2A-Cre;Ai14-355295.03.01,nucleus_absent,1000.0,c.Outside out,Oxtr-T2A-Cre
+4363,Htr3a-Cre_NO152;Ai14-355586.04.02,nucleus_absent,1000.0,c.Outside out,Htr3a-Cre_NO152
+4366,Ndnf-IRES2-dgCre;Ai14-355226.03.01,nucleus_absent,1000.0,c.Outside out,Ndnf-IRES2-dgCre
+4376,Htr3a-Cre_NO152;Ai14-355591.04.01,nucleus_absent,1000.0,c.Outside out,Htr3a-Cre_NO152
+4378,Rorb-IRES2-Cre;Ai14-355888.04.01,nucleus_absent,1500.0,c.Outside out,Rorb-IRES2-Cre
+4380,Rorb-IRES2-Cre;Ai14-355888.05.01,nucleus_absent,500.0,c.Outside out,Rorb-IRES2-Cre
+4397,Rbp4-Cre_KL100;Ai14-357010.05.01,nucleus_absent,1000.0,c.Outside out,Rbp4-Cre_KL100
+4411,Rbp4-Cre_KL100;Ai14-357010.03.02,nucleus_absent,1000.0,c.Outside out,Rbp4-Cre_KL100
+4413,Rbp4-Cre_KL100;Ai14-357010.02.01,nucleus_absent,1000.0,c.Outside out,Rbp4-Cre_KL100
+4414,Rbp4-Cre_KL100;Ai14-357010.02.01,nucleus_absent,1000.0,c.Outside out,Rbp4-Cre_KL100
+4463,Rorb-IRES2-Cre;Ai14-357463.02.01,nucleus_absent,1000.0,c.Outside out,Rorb-IRES2-Cre
+4465,Rbp4-Cre_KL100;Ai14-357013.03.02,nucleus_absent,1000.0,c.Outside out,Rbp4-Cre_KL100
+4467,Sim1-Cre_KJ18;Ai14-354918.04.01,nucleus_absent,1000.0,c.Outside out,Sim1-Cre_KJ18
+4469,Rbp4-Cre_KL100;Ai14-357013.05.02,nucleus_absent,1000.0,c.Outside out,Rbp4-Cre_KL100
+4471,Rbp4-Cre_KL100;Ai14-357013.05.02,nucleus_absent,1000.0,c.Outside out,Rbp4-Cre_KL100
+4514,Ntsr1-Cre_GN220;Ai14-357982.04.02,nucleus_absent,1000.0,c.Outside out,Ntsr1-Cre_GN220
+4550,Pvalb-IRES-Cre;Ai14-357946.05.02,nucleus_absent,1000.0,c.Outside out,Pvalb-IRES-Cre
+4594,Vip-IRES-Cre;Ai14-358735.0.03.02,nucleus_absent,500.0,c.Outside out,Vip-IRES-Cre;A
+4598,Scnn1a-Tg2-Cre;Ai14-358945.0.03.01,nucleus_absent,1000.0,c.Outside out,Scnn1a-Tg2-Cre;A
+4607,Vip-IRES-Cre;Ai14-358736.03.01,nucleus_absent,2000.0,c.Outside out,Vip-IRES-Cre
+4611,Vip-IRES-Cre;Ai14-360215.04.02,nucleus_absent,2000.0,c.Outside out,Vip-IRES-Cre
+4612,Vip-IRES-Cre;Ai14-360215.04.02,nucleus_absent,700.0,c.Outside out,Vip-IRES-Cre
+4642,Pvalb-IRES-Cre;Ai14-359332.03.01,nucleus_absent,750.0,c.Outside out,Pvalb-IRES-Cre
+4643,Pvalb-IRES-Cre;Ai14-359332.03.01,nucleus_absent,1000.0,c.Outside out,Pvalb-IRES-Cre
+4644,Pvalb-IRES-Cre;Ai14-359332.06.01,nucleus_absent,1400.0,c.Outside out,Pvalb-IRES-Cre
+4645,Pvalb-IRES-Cre;Ai14-359332.06.01,nucleus_absent,1500.0,c.Outside out,Pvalb-IRES-Cre
+4651,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358897.04.01,nucleus_absent,800.0,c.Outside out,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4654,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358897.03.01,nucleus_absent,1000.0,c.Outside out,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4658,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358897.04.02,nucleus_absent,900.0,c.Outside out,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+79,Rbp4-Cre_KL100;Ai14-290393.04.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+89,Gad2-IRES-Cre;Ai14-293418.06.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+91,Gad2-IRES-Cre;Ai14-293418.06.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+93,Gad2-IRES-Cre;Ai14-293418.06.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+94,Gad2-IRES-Cre;Ai14-293418.06.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+99,Gad2-IRES-Cre;Ai14-293418.07.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+111,Slc32a1-IRES-Cre;Ai14-294507.08.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+113,Slc32a1-IRES-Cre;Ai14-294507.08.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+126,Gad2-IRES-Cre;Ai14-293416.07.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+133,Gad2-IRES-Cre;Ai14-293416.05.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+135,Gad2-IRES-Cre;Ai14-293416.06.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+137,Gad2-IRES-Cre;Ai14-293416.06.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+149,Slc32a1-IRES-Cre;Ai14-294508.08.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+150,Slc32a1-IRES-Cre;Ai14-294508.08.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+157,Slc32a1-IRES-Cre;Ai14-294508.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+160,Slc32a1-IRES-Cre;Ai14-294508.06.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+174,Slc32a1-IRES-Cre;Ai14-295046.08.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+269,Nos1-CreERT2;Ai14-294353.04.01,No-Seal,,d.No seal,Nos1-CreERT2
+270,Nos1-CreERT2;Ai14-294353.04.01,No-Seal,,d.No seal,Nos1-CreERT2
+280,Rorb-IRES2-Cre;Ai14-294983.03.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+285,Rorb-IRES2-Cre;Ai14-294983.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+288,Rorb-IRES2-Cre;Ai14-294983.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+312,Rorb-IRES2-Cre;Ai14-294984.05.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+316,Rorb-IRES2-Cre;Ai14-294984.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+352,Rorb-IRES2-Cre;Ai14-294986.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+354,Rorb-IRES2-Cre;Ai14-294986.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+364,Rorb-IRES2-Cre;Ai14-294986.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+368,Rorb-IRES2-Cre;Ai14-294984.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+475,Ndnf-IRES2-dgCre;Ai14-296823.05.01,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+481,Ndnf-IRES2-dgCre;Ai14-296823.03.02,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+484,Ndnf-IRES2-dgCre;Ai14-296823.04.02,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+494,Ndnf-IRES2-dgCre;Ai14-296824.04.01,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+498,Ndnf-IRES2-dgCre;Ai14-296824.04.02,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+530,Ndnf-IRES2-dgCre;Ai14-296825.03.02,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+879,Slc32a1-IRES-Cre;Ai14-305535.07.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+1160,Gad2-IRES-Cre;Ai14-308798.08.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+1463,Slc17a6-IRES-Cre;Ai14-309384.03.01,No-Seal,,d.No seal,Slc17a6-IRES-Cre
+1467,Slc17a6-IRES-Cre;Ai14-309384.04.01,No-Seal,,d.No seal,Slc17a6-IRES-Cre
+1682,Gad2-IRES-Cre;Ai14-313294.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+1683,Gad2-IRES-Cre;Ai14-313294.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+1684,Gad2-IRES-Cre;Ai14-313294.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+1685,Gad2-IRES-Cre;Ai14-313294.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+1686,Gad2-IRES-Cre;Ai14-313294.04.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+1689,Gad2-IRES-Cre;Ai14-313294.04.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+1694,Gad2-IRES-Cre;Ai14-313294.03.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+1695,Gad2-IRES-Cre;Ai14-313294.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+1696,Gad2-IRES-Cre;Ai14-313294.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+1697,Gad2-IRES-Cre;Ai14-313294.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+1698,Gad2-IRES-Cre;Ai14-313294.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+1699,Gad2-IRES-Cre;Ai14-313294.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+1700,Gad2-IRES-Cre;Ai14-313294.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+1708,Scnn1a-Tg3-Cre;Ai14-315865.04.01,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+1710,Scnn1a-Tg3-Cre;Ai14-315865.04.01,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+1712,Scnn1a-Tg3-Cre;Ai14-315865.04.01,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+1714,Rorb-IRES2-Cre;Ai14-315898.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1715,Rorb-IRES2-Cre;Ai14-315898.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1716,Rorb-IRES2-Cre;Ai14-315898.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1720,Scnn1a-Tg3-Cre;Ai14-315865.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+1721,Scnn1a-Tg3-Cre;Ai14-315865.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+1722,Scnn1a-Tg3-Cre;Ai14-315865.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+1723,Scnn1a-Tg3-Cre;Ai14-315865.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+1725,Rorb-IRES2-Cre;Ai14-315898.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1726,Rorb-IRES2-Cre;Ai14-315898.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1727,Rorb-IRES2-Cre;Ai14-315898.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1728,Rorb-IRES2-Cre;Ai14-315898.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1736,Rorb-IRES2-Cre;Ai14-315897.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1737,Rorb-IRES2-Cre;Ai14-315897.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1738,Rorb-IRES2-Cre;Ai14-315897.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1740,Rorb-IRES2-Cre;Ai14-315897.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1741,Rorb-IRES2-Cre;Ai14-315897.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1742,Rorb-IRES2-Cre;Ai14-315897.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1743,Rorb-IRES2-Cre;Ai14-315897.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1744,Rorb-IRES2-Cre;Ai14-315897.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1745,Rorb-IRES2-Cre;Ai14-315897.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1748,Rorb-IRES2-Cre;Ai14-315897.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1749,Rorb-IRES2-Cre;Ai14-315897.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1752,Rorb-IRES2-Cre;Ai14-315897.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1753,Rorb-IRES2-Cre;Ai14-315897.05.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1756,Rorb-IRES2-Cre;Ai14-315897.05.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1757,Rorb-IRES2-Cre;Ai14-315897.05.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1781,Rorb-IRES2-Cre;Ai14-315895.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1785,Rorb-IRES2-Cre;Ai14-315895.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1793,Rorb-IRES2-Cre;Ai14-315894.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1798,Rorb-IRES2-Cre;Ai14-315894.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1807,Rorb-IRES2-Cre;Ai14-315894.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1813,Rorb-IRES2-Cre;Ai14-315894.05.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1826,Rorb-IRES2-Cre;Ai14-315893.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1831,Scnn1a-Tg3-Cre;Ai14-315862.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+1834,Rorb-IRES2-Cre;Ai14-315893.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1836,Rorb-IRES2-Cre;Ai14-315893.03.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1846,Rorb-IRES2-Cre-neo;Ai14-315666.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1853,Rorb-IRES2-Cre-neo;Ai14-315666.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1857,Rorb-IRES2-Cre-neo;Ai14-315666.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1863,Rorb-IRES2-Cre-neo;Ai14-315666.03.02,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1867,Rorb-IRES2-Cre-neo;Ai14-315666.03.02,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1880,Rorb-IRES2-Cre-neo;Ai14-315667.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1882,Rorb-IRES2-Cre-neo;Ai14-315667.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1883,Rorb-IRES2-Cre-neo;Ai14-315667.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1884,Rorb-IRES2-Cre-neo;Ai14-315667.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1893,Rorb-IRES2-Cre-neo;Ai14-315667.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre-neo
+1915,Scnn1a-Tg2-Cre;Ai14-316319.04.01,No-Seal,,d.No seal,Scnn1a-Tg2-Cre
+1921,Scnn1a-Tg2-Cre;Ai14-316319.05.01,No-Seal,,d.No seal,Scnn1a-Tg2-Cre
+1922,Scnn1a-Tg2-Cre;Ai14-316319.05.01,No-Seal,,d.No seal,Scnn1a-Tg2-Cre
+1930,Scnn1a-Tg2-Cre;Ai14-316319.03.02,No-Seal,,d.No seal,Scnn1a-Tg2-Cre
+1949,Rorb-IRES2-Cre;Ai14-315901.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1951,Rorb-IRES2-Cre;Ai14-315901.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1952,Rorb-IRES2-Cre;Ai14-315901.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1958,Rorb-IRES2-Cre;Ai14-315901.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1966,Rorb-IRES2-Cre;Ai14-315901.03.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1967,Rorb-IRES2-Cre;Ai14-315901.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1969,Rorb-IRES2-Cre;Ai14-315901.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+1982,Nr5a1-Cre;Ai14-317501.04.01,No-Seal,,d.No seal,Nr5a1-Cre
+1983,Nr5a1-Cre;Ai14-317501.04.01,No-Seal,,d.No seal,Nr5a1-Cre
+1987,Nr5a1-Cre;Ai14-317501.05.02,No-Seal,,d.No seal,Nr5a1-Cre
+1988,Nr5a1-Cre;Ai14-317501.05.02,No-Seal,,d.No seal,Nr5a1-Cre
+1989,Nr5a1-Cre;Ai14-317501.05.02,No-Seal,,d.No seal,Nr5a1-Cre
+1990,Nr5a1-Cre;Ai14-317501.05.02,No-Seal,,d.No seal,Nr5a1-Cre
+1993,Nr5a1-Cre;Ai14-317501.04.02,No-Seal,,d.No seal,Nr5a1-Cre
+2012,Pvalb-IRES-Cre;Ai14-316467.06.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2014,Rorb-IRES2-Cre;Ai14-318659.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+2015,Rorb-IRES2-Cre;Ai14-318659.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+2016,Rorb-IRES2-Cre;Ai14-318659.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+2020,Rorb-IRES2-Cre;Ai14-318659.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+2023,Rorb-IRES2-Cre;Ai14-318659.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+2025,Rorb-IRES2-Cre;Ai14-318659.03.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+2028,Rorb-IRES2-Cre;Ai14-318659.05.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+2045,Cux2-CreERT2;Ai14-315357.03.01,No-Seal,,d.No seal,Cux2-CreERT2
+2046,Cux2-CreERT2;Ai14-315357.03.01,No-Seal,,d.No seal,Cux2-CreERT2
+2049,Cux2-CreERT2;Ai14-315357.04.01,No-Seal,,d.No seal,Cux2-CreERT2
+2062,Cux2-CreERT2;Ai14-315357.04.02,No-Seal,,d.No seal,Cux2-CreERT2
+2071,Cux2-CreERT2;Ai14-315355.04.01,No-Seal,,d.No seal,Cux2-CreERT2
+2072,Cux2-CreERT2;Ai14-315355.04.01,No-Seal,,d.No seal,Cux2-CreERT2
+2073,Cux2-CreERT2;Ai14-315355.04.01,No-Seal,,d.No seal,Cux2-CreERT2
+2074,Cux2-CreERT2;Ai14-315355.04.01,No-Seal,,d.No seal,Cux2-CreERT2
+2075,Cux2-CreERT2;Ai14-315355.05.01,No-Seal,,d.No seal,Cux2-CreERT2
+2076,Cux2-CreERT2;Ai14-315355.05.01,No-Seal,,d.No seal,Cux2-CreERT2
+2085,Cux2-CreERT2;Ai14-315355.04.02,No-Seal,,d.No seal,Cux2-CreERT2
+2090,Cux2-CreERT2;Ai14-315355.05.02,No-Seal,,d.No seal,Cux2-CreERT2
+2099,Pvalb-IRES-Cre;Ai14-316462.03.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2100,Pvalb-IRES-Cre;Ai14-316462.03.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2102,Pvalb-IRES-Cre;Ai14-316462.03.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2103,Pvalb-IRES-Cre;Ai14-316462.04.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2104,Pvalb-IRES-Cre;Ai14-316462.04.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2106,Pvalb-IRES-Cre;Ai14-316462.04.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2114,Pvalb-IRES-Cre;Ai14-316462.05.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2116,Pvalb-IRES-Cre;Ai14-316462.05.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2117,Pvalb-IRES-Cre;Ai14-316462.05.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2182,Pvalb-IRES-Cre;Ai14-316465.05.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2183,Pvalb-IRES-Cre;Ai14-316465.05.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2187,Pvalb-IRES-Cre;Ai14-316465.03.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2188,Pvalb-IRES-Cre;Ai14-316465.03.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2195,Pvalb-IRES-Cre;Ai14-316465.06.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2202,Pvalb-IRES-Cre;Ai14-316465.03.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2217,Gad2-IRES-Cre;Ai14-318383.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2222,Gad2-IRES-Cre;Ai14-318383.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2223,Gad2-IRES-Cre;Ai14-318383.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2225,Gad2-IRES-Cre;Ai14-318383.03.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2226,Gad2-IRES-Cre;Ai14-318383.03.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2227,Gad2-IRES-Cre;Ai14-318383.03.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2228,Gad2-IRES-Cre;Ai14-318383.03.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2237,Slc32a1-IRES-Cre;Ai14-321269.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2251,Slc32a1-IRES-Cre;Ai14-321268.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2255,Slc32a1-IRES-Cre;Ai14-321268.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2257,Slc32a1-IRES-Cre;Ai14-321268.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2258,Slc32a1-IRES-Cre;Ai14-321268.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2259,Slc32a1-IRES-Cre;Ai14-321268.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2260,Slc32a1-IRES-Cre;Ai14-321268.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2263,Slc32a1-IRES-Cre;Ai14-321268.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2264,Slc32a1-IRES-Cre;Ai14-321268.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2265,Slc32a1-IRES-Cre;Ai14-321268.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2266,Slc32a1-IRES-Cre;Ai14-321268.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2270,Slc32a1-IRES-Cre;Ai14-321268.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2300,Slc32a1-IRES-Cre;Ai14-321583.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2301,Slc32a1-IRES-Cre;Ai14-321583.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2304,Slc32a1-IRES-Cre;Ai14-321583.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2305,Slc32a1-IRES-Cre;Ai14-321583.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2306,Slc32a1-IRES-Cre;Ai14-321583.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2307,Slc32a1-IRES-Cre;Ai14-321583.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2332,Slc32a1-IRES-Cre;Ai14-321584.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2336,Slc32a1-IRES-Cre;Ai14-321584.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2338,Slc32a1-IRES-Cre;Ai14-321584.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2339,Slc32a1-IRES-Cre;Ai14-321584.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2349,Vip-IRES-Cre;Ai14-322780.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2350,Vip-IRES-Cre;Ai14-322780.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2357,Vip-IRES-Cre;Ai14-322780.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2358,Vip-IRES-Cre;Ai14-322780.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2360,Vip-IRES-Cre;Ai14-322780.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2367,Vip-IRES-Cre;Ai14-322777.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2376,Vip-IRES-Cre;Ai14-322777.03.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2379,Vip-IRES-Cre;Ai14-322777.03.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2381,Vip-IRES-Cre;Ai14-322777.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2383,Vip-IRES-Cre;Ai14-322777.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2399,Pvalb-IRES-Cre;Ai14-324331.03.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2400,Pvalb-IRES-Cre;Ai14-324331.03.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2401,Pvalb-IRES-Cre;Ai14-324331.04.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2402,Pvalb-IRES-Cre;Ai14-324331.04.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2409,Pvalb-IRES-Cre;Ai14-324331.03.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2412,Pvalb-IRES-Cre;Ai14-324331.04.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2422,Pvalb-IRES-Cre;Ai14-324337.04.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2424,Pvalb-IRES-Cre;Ai14-324337.04.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2425,Pvalb-IRES-Cre;Ai14-324337.04.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2430,Pvalb-IRES-Cre;Ai14-324337.03.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+2438,Vip-IRES-Cre;Ai14-324784.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2450,Vip-IRES-Cre;Ai14-324785.05.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2460,Chat-IRES-Cre-neo;Ai14-325493.04.01,No-Seal,,d.No seal,Chat-IRES-Cre-neo
+2471,Chat-IRES-Cre-neo;Ai14-325493.03.02,No-Seal,,d.No seal,Chat-IRES-Cre-neo
+2479,Gad2-IRES-Cre;Ai14-326031.04.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2483,Gad2-IRES-Cre;Ai14-326031.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2484,Gad2-IRES-Cre;Ai14-326031.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2485,Gad2-IRES-Cre;Ai14-326031.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2493,Gad2-IRES-Cre;Ai14-326031.02.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2499,Gad2-IRES-Cre;Ai14-326031.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2506,Gad2-IRES-Cre;Ai14-326032.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2507,Gad2-IRES-Cre;Ai14-326032.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2511,Gad2-IRES-Cre;Ai14-326032.04.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2512,Gad2-IRES-Cre;Ai14-326032.04.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2515,Gad2-IRES-Cre;Ai14-326032.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2519,Gad2-IRES-Cre;Ai14-326032.03.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2522,Gad2-IRES-Cre;Ai14-326032.02.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2523,Gad2-IRES-Cre;Ai14-326032.02.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2531,Gad2-IRES-Cre;Ai14-326034.04.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2537,Gad2-IRES-Cre;Ai14-326038.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2538,Gad2-IRES-Cre;Ai14-326038.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2540,Gad2-IRES-Cre;Ai14-326038.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2541,Gad2-IRES-Cre;Ai14-326038.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2543,Gad2-IRES-Cre;Ai14-326038.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2546,Gad2-IRES-Cre;Ai14-326038.04.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2551,Slc32a1-IRES-Cre;Ai14-326813.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2554,Slc32a1-IRES-Cre;Ai14-326813.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2557,Slc32a1-IRES-Cre;Ai14-326813.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2558,Slc32a1-IRES-Cre;Ai14-326813.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2561,Slc32a1-IRES-Cre;Ai14-326813.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2563,Slc32a1-IRES-Cre;Ai14-326813.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2565,Slc32a1-IRES-Cre;Ai14-326813.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2578,Slc32a1-IRES-Cre;Ai14-326814.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2579,Slc32a1-IRES-Cre;Ai14-326814.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2586,Slc32a1-IRES-Cre;Ai14-326814.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2588,Slc32a1-IRES-Cre;Ai14-326814.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2604,Slc32a1-IRES-Cre;Ai14-326815.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2606,Slc32a1-IRES-Cre;Ai14-326815.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2607,Slc32a1-IRES-Cre;Ai14-326815.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2614,Slc32a1-IRES-Cre;Ai14-326815.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2615,Slc32a1-IRES-Cre;Ai14-326815.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2616,Slc32a1-IRES-Cre;Ai14-326815.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2621,Slc32a1-IRES-Cre;Ai14-326815.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2631,Slc32a1-IRES-Cre;Ai14-326812.03.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2632,Slc32a1-IRES-Cre;Ai14-326812.03.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2641,Slc32a1-IRES-Cre;Ai14-326812.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2642,Slc32a1-IRES-Cre;Ai14-326812.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2645,Slc32a1-IRES-Cre;Ai14-326812.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2647,Slc32a1-IRES-Cre;Ai14-326812.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2651,Slc32a1-IRES-Cre;Ai14-326812.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2656,Slc32a1-IRES-Cre;Ai14-326812.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2669,Slc32a1-IRES-Cre;Ai14-327666.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2671,Slc32a1-IRES-Cre;Ai14-327666.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2674,Slc32a1-IRES-Cre;Ai14-327666.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2685,Slc32a1-IRES-Cre;Ai14-327666.03.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2688,Slc32a1-IRES-Cre;Ai14-327666.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2689,Slc32a1-IRES-Cre;Ai14-327666.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2708,Gad2-IRES-Cre;Ai14-326683.05.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2714,Gad2-IRES-Cre;Ai14-326683.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2715,Gad2-IRES-Cre;Ai14-326683.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2716,Gad2-IRES-Cre;Ai14-326683.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2719,Gad2-IRES-Cre;Ai14-326683.05.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2732,Gad2-IRES-Cre;Ai14-329253.04.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2741,Gad2-IRES-Cre;Ai14-329253.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2745,Gad2-IRES-Cre;Ai14-329253.05.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2752,Gad2-IRES-Cre;Ai14-329253.03.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+2758,Gad2-IRES-Cre;Ai14-329253.03.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+2767,Slc32a1-IRES-Cre;Ai14-327667.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2769,Slc32a1-IRES-Cre;Ai14-327667.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2771,Slc32a1-IRES-Cre;Ai14-327667.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2780,Slc32a1-IRES-Cre;Ai14-327667.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2784,Slc32a1-IRES-Cre;Ai14-327667.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2802,Slc32a1-IRES-Cre;Ai14-327668.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2804,Slc32a1-IRES-Cre;Ai14-327668.05.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2809,Slc32a1-IRES-Cre;Ai14-327668.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2817,Slc32a1-IRES-Cre;Ai14-327668.04.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2818,Slc32a1-IRES-Cre;Ai14-327668.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2828,Slc32a1-IRES-Cre;Ai14-327669.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2829,Slc32a1-IRES-Cre;Ai14-327669.03.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2830,Slc32a1-IRES-Cre;Ai14-327669.03.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2831,Slc32a1-IRES-Cre;Ai14-327669.03.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+2886,Vip-IRES-Cre;Ai14-331293.05.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2891,Vip-IRES-Cre;Ai14-331293.05.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2892,Vip-IRES-Cre;Ai14-331293.05.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2895,Vip-IRES-Cre;Ai14-331293.03.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2896,Vip-IRES-Cre;Ai14-331293.03.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2897,Vip-IRES-Cre;Ai14-331293.03.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2903,Vip-IRES-Cre;Ai14-331293.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2910,Chrna2-Cre_OE25;Ai14-330312.04.02,No-Seal,,d.No seal,Chrna2-Cre_OE25
+2911,Chrna2-Cre_OE25;Ai14-330312.04.02,No-Seal,,d.No seal,Chrna2-Cre_OE25
+2913,Chrna2-Cre_OE25;Ai14-330312.04.02,No-Seal,,d.No seal,Chrna2-Cre_OE25
+2914,Vip-IRES-Cre;Ai14-331293.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2919,Vip-IRES-Cre;Ai14-331293.05.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2927,Chrna2-Cre_OE25;Ai14-330311.05.01,No-Seal,,d.No seal,Chrna2-Cre_OE25
+2930,Chrna2-Cre_OE25;Ai14-330311.05.01,No-Seal,,d.No seal,Chrna2-Cre_OE25
+2932,Vip-IRES-Cre;Ai14-331294.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2933,Vip-IRES-Cre;Ai14-331294.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2941,Vip-IRES-Cre;Ai14-331294.03.02,No-Seal,,d.No seal,Vip-IRES-Cre
+2950,Vip-IRES-Cre;Ai14-331294.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2951,Vip-IRES-Cre;Ai14-331294.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+2961,Chrna2-Cre_OE25;Ai14-330310.05.02,No-Seal,,d.No seal,Chrna2-Cre_OE25
+2964,Chrna2-Cre_OE25;Ai14-330310.05.02,No-Seal,,d.No seal,Chrna2-Cre_OE25
+2965,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.03.01,No-Seal,,d.No seal,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2966,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.03.01,No-Seal,,d.No seal,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2972,Chrna2-Cre_OE25;Ai14-330310.04.01,No-Seal,,d.No seal,Chrna2-Cre_OE25
+2981,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.04.02,No-Seal,,d.No seal,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2982,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.04.02,No-Seal,,d.No seal,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2984,Htr3a-Cre_NO152;Pvalb-T2A-Dre;Ai66-332117.04.02,No-Seal,,d.No seal,Htr3a-Cre_NO152;Pvalb-T2A-Dre
+2995,Sst-IRES-Cre;Ai14-331663.04.01,No-Seal,,d.No seal,Sst-IRES-Cre
+2996,Sst-IRES-Cre;Ai14-331663.04.01,No-Seal,,d.No seal,Sst-IRES-Cre
+2997,Sst-IRES-Cre;Ai14-331663.04.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3000,Sst-IRES-Cre;Ai14-331663.05.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3003,Sst-IRES-Cre;Ai14-331663.05.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3018,Sst-IRES-Cre;Ai14-331663.05.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3019,Sst-IRES-Cre;Ai14-331663.05.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3024,Sst-IRES-Cre;Ai14-331663.03.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3032,Sst-IRES-Cre;Ai14-331660.04.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3033,Sst-IRES-Cre;Ai14-331660.04.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3039,Sst-IRES-Cre;Ai14-331660.03.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3040,Sst-IRES-Cre;Ai14-331660.03.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3046,Sst-IRES-Cre;Ai14-331660.04.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3048,Sst-IRES-Cre;Ai14-331660.05.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3050,Sst-IRES-Cre;Ai14-331660.05.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3059,Sst-IRES-Cre;Ai14-331657.04.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3062,Sst-IRES-Cre;Ai14-331657.05.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3063,Sst-IRES-Cre;Ai14-331657.05.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3064,Sst-IRES-Cre;Ai14-331657.05.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3071,Sst-IRES-Cre;Ai14-331657.05.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3072,Sst-IRES-Cre;Ai14-331657.05.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3080,Slc17a8-IRES2-Cre;Ai14-331669.04.01,No-Seal,,d.No seal,Slc17a8-IRES2-Cre
+3083,Slc17a8-IRES2-Cre;Ai14-331669.05.01,No-Seal,,d.No seal,Slc17a8-IRES2-Cre
+3086,Slc17a8-IRES2-Cre;Ai14-331669.05.02,No-Seal,,d.No seal,Slc17a8-IRES2-Cre
+3104,Rbp4-Cre_KL100;Ai14-335439.04.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3107,Rbp4-Cre_KL100;Ai14-335439.04.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3108,Rbp4-Cre_KL100;Ai14-335439.05.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3130,Rbp4-Cre_KL100;Ai14-335442.04.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3134,Rbp4-Cre_KL100;Ai14-335442.04.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3137,Rbp4-Cre_KL100;Ai14-335442.05.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3141,Rbp4-Cre_KL100;Ai14-335442.03.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3143,Rbp4-Cre_KL100;Ai14-335442.03.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3155,Glt25d2-Cre_NF107;Ai14-335723.03.01,No-Seal,,d.No seal,Glt25d2-Cre_NF107
+3161,Rbp4-Cre_KL100;Ai14-335444.05.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3199,Rbp4-Cre_KL100;Ai14-335445.05.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3200,Rbp4-Cre_KL100;Ai14-335445.05.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3203,Glt25d2-Cre_NF107;Ai14-335724.03.02,No-Seal,,d.No seal,Glt25d2-Cre_NF107
+3207,Rbp4-Cre_KL100;Ai14-335445.05.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3223,Cux2-CreERT2;Ai14-332801.03.01,No-Seal,,d.No seal,Cux2-CreERT2
+3225,Cux2-CreERT2;Ai14-332801.03.01,No-Seal,,d.No seal,Cux2-CreERT2
+3226,Cux2-CreERT2;Ai14-332801.03.01,No-Seal,,d.No seal,Cux2-CreERT2
+3229,Cux2-CreERT2;Ai14-332801.04.01,No-Seal,,d.No seal,Cux2-CreERT2
+3231,Cux2-CreERT2;Ai14-332801.04.01,No-Seal,,d.No seal,Cux2-CreERT2
+3235,Cux2-CreERT2;Ai14-332801.03.02,No-Seal,,d.No seal,Cux2-CreERT2
+3237,Cux2-CreERT2;Ai14-332801.03.02,No-Seal,,d.No seal,Cux2-CreERT2
+3239,Vipr2-IRES2-Cre-neo;Ai14-335839.04.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre-neo
+3245,Cux2-CreERT2;Ai14-332801.04.02,No-Seal,,d.No seal,Cux2-CreERT2
+3246,Cux2-CreERT2;Ai14-332801.04.02,No-Seal,,d.No seal,Cux2-CreERT2
+3259,Rbp4-Cre_KL100;Ai14-337200.03.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3260,Rbp4-Cre_KL100;Ai14-337200.03.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3261,Rbp4-Cre_KL100;Ai14-337200.03.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3267,Rbp4-Cre_KL100;Ai14-337200.02.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3268,Rbp4-Cre_KL100;Ai14-337200.02.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3275,Rbp4-Cre_KL100;Ai14-337200.05.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3284,Rbp4-Cre_KL100;Ai14-337199.05.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3286,Rbp4-Cre_KL100;Ai14-337199.05.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3288,Rbp4-Cre_KL100;Ai14-337199.05.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3289,Vip-IRES-Cre;Ai14-336708.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3290,Vip-IRES-Cre;Ai14-336708.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3292,Vip-IRES-Cre;Ai14-336708.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3299,Rbp4-Cre_KL100;Ai14-337199.03.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3301,Vip-IRES-Cre;Ai14-336708.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3317,Rbp4-Cre_KL100;Ai14-337197.05.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3321,Vip-IRES-Cre;Ai14-336703.05.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3322,Vip-IRES-Cre;Ai14-336703.05.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3324,Vip-IRES-Cre;Ai14-336703.05.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3330,Rbp4-Cre_KL100;Ai14-337197.03.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3338,Rbp4-Cre_KL100;Ai14-337197.05.01,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3355,Vip-IRES-Cre;Ai14-336139.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3356,Vip-IRES-Cre;Ai14-336139.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3358,Vip-IRES-Cre;Ai14-336139.05.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3360,Vip-IRES-Cre;Ai14-336139.05.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3369,Vip-IRES-Cre;Ai14-336139.03.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3378,Vip-IRES-Cre;Ai14-336152.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3381,Vip-IRES-Cre;Ai14-336152.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3383,Vip-IRES-Cre;Ai14-336152.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3384,Vip-IRES-Cre;Ai14-336152.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3392,Rbp4-Cre_KL100;Ai14-337195.03.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3393,Vip-IRES-Cre;Ai14-336152.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3396,Vip-IRES-Cre;Ai14-336152.03.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3400,Rbp4-Cre_KL100;Ai14-337195.05.02,No-Seal,,d.No seal,Rbp4-Cre_KL100
+3402,Vip-IRES-Cre;Ai14-336152.05.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3403,Vip-IRES-Cre;Ai14-336152.05.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3405,Vip-IRES-Cre;Ai14-336152.05.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3430,Ctgf-T2A-dgCre;Ai14-335606.06.01,No-Seal,,d.No seal,Ctgf-T2A-dgCre
+3478,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337417.04.02,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3496,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.05.02,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3498,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337416.03.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3513,Ctgf-T2A-dgCre;Ai14-335600.07.02,No-Seal,,d.No seal,Ctgf-T2A-dgCre
+3524,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.05.02,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3525,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.05.02,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3533,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.04.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3534,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.05.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3535,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.05.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3541,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.04.02,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3544,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338915.06.02,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3562,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.04.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3574,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.05.02,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3593,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338917.03.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3607,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338919.03.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3608,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338919.03.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3619,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338919.04.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3628,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338919.03.02,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3644,Gad2-IRES-Cre;Ai14-339127.07.01,No-Seal,,d.No seal,Gad2-IRES-Cre
+3660,Vipr2-IRES2-Cre;Pvalb-T2A-FlpO;Ai65-341902.05.01,No-Seal,,d.No seal,Vipr2-IRES2-Cre;Pvalb-T2A-FlpO
+3669,Ndnf-IRES2-dgCre;Ai14-341277.04.02,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+3671,Ndnf-IRES2-dgCre;Ai14-341277.05.02,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+3690,Ndnf-IRES2-dgCre;Ai14-341280.04.02,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+3691,Ndnf-IRES2-dgCre;Ai14-341280.04.02,No-Seal,,d.No seal,Ndnf-IRES2-dgCre
+3703,Vip-IRES-Cre;Ai14-342915.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3704,Vip-IRES-Cre;Ai14-342915.05.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3706,Chat-IRES-Cre-neo;Ai14-341889.05.02,No-Seal,,d.No seal,Chat-IRES-Cre-neo
+3707,Chat-IRES-Cre-neo;Ai14-341889.05.02,No-Seal,,d.No seal,Chat-IRES-Cre-neo
+3713,Scnn1a-Tg3-Cre;Ai14-342033.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3720,Chrna2-Cre_OE25;Ai14-342604.04.02,No-Seal,,d.No seal,Chrna2-Cre_OE25
+3723,Chat-IRES-Cre-neo;Ai14-341890.04.01,No-Seal,,d.No seal,Chat-IRES-Cre-neo
+3740,Chrna2-Cre_OE25;Ai14-342606.05.02,No-Seal,,d.No seal,Chrna2-Cre_OE25
+3744,Chat-IRES-Cre-neo;Ai14-341891.04.02,No-Seal,,d.No seal,Chat-IRES-Cre-neo
+3752,Vip-IRES-Cre;Ai14-342916.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3765,Vip-IRES-Cre;Ai14-344821.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3767,Pvalb-IRES-Cre;Ai14-344089.04.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+3780,Pvalb-IRES-Cre;Ai14-344090.05.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+3781,Pvalb-IRES-Cre;Ai14-344090.05.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+3783,Pvalb-IRES-Cre;Ai14-344090.05.01,No-Seal,,d.No seal,Pvalb-IRES-Cre
+3798,Htr3a-Cre_NO152;Ai14-343221.05.02,No-Seal,,d.No seal,Htr3a-Cre_NO152
+3800,Scnn1a-Tg3-Cre;Ai14-346622.05.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3801,Scnn1a-Tg3-Cre;Ai14-346622.05.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3802,Scnn1a-Tg3-Cre;Ai14-346622.05.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3817,Scnn1a-Tg2-Cre;Ai14-346634.04.01,No-Seal,,d.No seal,Scnn1a-Tg2-Cre
+3819,Sst-IRES-Cre;Ai14-346780.04.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3823,Sst-IRES-Cre;Ai14-346782.05.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3826,Sst-IRES-Cre;Ai14-346782.04.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3829,Sst-IRES-Cre;Ai14-346782.03.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3830,Scnn1a-Tg3-Cre;Ai14-349312.05.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3831,Scnn1a-Tg3-Cre;Ai14-349312.05.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3837,Sst-IRES-Cre;Ai14-346783.03.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3840,Sst-IRES-Cre;Ai14-346784.03.01,No-Seal,,d.No seal,Sst-IRES-Cre
+3844,Sst-IRES-Cre;Ai14-346784.04.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3846,Sst-IRES-Cre;Ai14-346784.04.02,No-Seal,,d.No seal,Sst-IRES-Cre
+3869,Vip-IRES-Cre;Ai14-348729.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3876,Vip-IRES-Cre;Ai14-348727.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3903,Htr3a-Cre_NO152;Ai14-349020.05.01,No-Seal,,d.No seal,Htr3a-Cre_NO152
+3907,Htr3a-Cre_NO152;Ai14-347843.05.01,No-Seal,,d.No seal,Htr3a-Cre_NO152
+3908,Htr3a-Cre_NO152;Ai14-349020.05.02,No-Seal,,d.No seal,Htr3a-Cre_NO152
+3921,Vip-IRES-Cre;Ai14-348725.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3925,Rorb-IRES2-Cre;Ai14-349007.04.01,No-Seal,,d.No seal,Rorb-IRES2-Cre
+3933,Rorb-IRES2-Cre;Ai14-349007.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+3934,Rorb-IRES2-Cre;Ai14-349007.05.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+3944,Scnn1a-Tg3-Cre;Ai14-349313.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3945,Pvalb-IRES-Cre;Ai14-349028.04.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+3953,Slc32a1-IRES-Cre;Ai14-347204.04.01,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+3956,Rorb-IRES2-Cre;Ai14-349010.03.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+3957,Rorb-IRES2-Cre;Ai14-349010.03.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+3958,Pvalb-IRES-Cre;Ai14-349029.04.02,No-Seal,,d.No seal,Pvalb-IRES-Cre
+3961,Scnn1a-Tg3-Cre;Ai14-349315.02.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3962,Scnn1a-Tg3-Cre;Ai14-349315.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3963,Scnn1a-Tg3-Cre;Ai14-349315.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3968,Rorb-IRES2-Cre;Ai14-349010.04.02,No-Seal,,d.No seal,Rorb-IRES2-Cre
+3970,Scnn1a-Tg3-Cre;Ai14-349315.05.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3978,Vip-IRES-Cre;Ai14-351462.04.01,No-Seal,,d.No seal,Vip-IRES-Cre
+3979,Scnn1a-Tg3-Cre;Ai14-349316.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+3986,Slc32a1-IRES-Cre;Ai14-347205.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+3987,Vip-IRES-Cre;Ai14-351462.04.02,No-Seal,,d.No seal,Vip-IRES-Cre
+3993,Slc32a1-IRES-Cre;Ai14-348997.05.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+3996,Scnn1a-Tg3-Cre;Ai14-349318.04.02,No-Seal,,d.No seal,Scnn1a-Tg3-Cre
+4003,Slc32a1-IRES-Cre;Ai14-348998.03.02,No-Seal,,d.No seal,Slc32a1-IRES-Cre
+4004,Vip-IRES-Cre;Ai14-351458.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+4006,Vip-IRES-Cre;Ai14-351458.03.01,No-Seal,,d.No seal,Vip-IRES-Cre
+4012,Gad2-IRES-Cre;Ai14-350671.04.02,No-Seal,,d.No seal,Gad2-IRES-Cre
+4019,Chrna2-Cre_OE25;Ai14-351067.04.01,nucleus_absent,10.0,d.No seal,Chrna2-Cre_OE25
+4022,Chrna2-Cre_OE25;Ai14-351067.04.01,nucleus_absent,40.0,d.No seal,Chrna2-Cre_OE25
+4025,Oxtr-T2A-Cre;Ai14-351467.05.02,No-Seal,,d.No seal,Oxtr-T2A-Cre
+4029,Chrna2-Cre_OE25;Ai14-351067.03.02,nucleus_absent,30.0,d.No seal,Chrna2-Cre_OE25
+4034,Gad2-IRES-Cre;Ai14-350672.04.01,nucleus_absent,4.7,d.No seal,Gad2-IRES-Cre
+4035,Gad2-IRES-Cre;Ai14-350672.04.01,nucleus_absent,16.2,d.No seal,Gad2-IRES-Cre
+4036,Gad2-IRES-Cre;Ai14-350672.06.02,nucleus_absent,10.2,d.No seal,Gad2-IRES-Cre
+4038,Gad2-IRES-Cre;Ai14-350674.03.02,no_nucleus_visible,10.0,d.No seal,Gad2-IRES-Cre
+4040,Gad2-IRES-Cre;Ai14-350674.03.02,no_nucleus_visible,10.0,d.No seal,Gad2-IRES-Cre
+4042,Oxtr-T2A-Cre;Ai14-351470.04.01,nucleus_absent,20.0,d.No seal,Oxtr-T2A-Cre
+4046,Nr5a1-Cre;Ai14-350880.04.02,nucleus_absent,10.0,d.No seal,Nr5a1-Cre
+4050,Gad2-IRES-Cre;Ai14-350674.04.02,nucleus_absent,150.0,d.No seal,Gad2-IRES-Cre
+4052,Oxtr-T2A-Cre;Ai14-351470.04.02,nucleus_absent,25.0,d.No seal,Oxtr-T2A-Cre
+4053,Oxtr-T2A-Cre;Ai14-351470.04.02,nucleus_absent,31.0,d.No seal,Oxtr-T2A-Cre
+4054,Nr5a1-Cre;Ai14-350880.05.02,nucleus_absent,25.0,d.No seal,Nr5a1-Cre
+4061,Chrna2-Cre_OE25;Ai14-351070.03.01,nucleus_absent,10.0,d.No seal,Chrna2-Cre_OE25
+4063,Oxtr-T2A-Cre;Ai14-351470.03.01,no_nucleus_visible,28.0,d.No seal,Oxtr-T2A-Cre
+4064,Oxtr-T2A-Cre;Ai14-351470.03.01,no_nucleus_visible,33.0,d.No seal,Oxtr-T2A-Cre
+4065,Nr5a1-Cre;Ai14-350880.04.01,nucleus_absent,3.8,d.No seal,Nr5a1-Cre
+4067,Oxtr-T2A-Cre;Ai14-351470.05.02,nucleus_absent,4.6,d.No seal,Oxtr-T2A-Cre
+4072,Gad2-IRES-Cre;Ai14-350674.03.01,no_nucleus_visible,300.0,d.No seal,Gad2-IRES-Cre
+4078,Oxtr-T2A-Cre;Ai14-351471.03.02,nucleus_absent,10.0,d.No seal,Oxtr-T2A-Cre
+4079,Oxtr-T2A-Cre;Ai14-351471.03.02,nucleus_absent,10.0,d.No seal,Oxtr-T2A-Cre
+4080,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-350938.04.02,nucleus_absent,10.0,d.No seal,Nos1-CreERT2;Sst-IRES-FlpO
+4082,Nr5a1-Cre;Ai14-350881.04.01,nucleus_absent,10.0,d.No seal,Nr5a1-Cre
+4088,Nr5a1-Cre;Ai14-350881.04.02,nucleus_absent,150.0,d.No seal,Nr5a1-Cre
+4089,Nr5a1-Cre;Ai14-350881.04.02,nucleus_absent,150.0,d.No seal,Nr5a1-Cre
+4094,Oxtr-T2A-Cre;Ai14-351471.03.01,nucleus_absent,5.4,d.No seal,Oxtr-T2A-Cre
+4100,Nr5a1-Cre;Ai14-350881.05.01,nucleus_absent,250.0,d.No seal,Nr5a1-Cre
+4103,Gad2-IRES-Cre;Ai14-350675.04.01,nucleus_absent,11.0,d.No seal,Gad2-IRES-Cre
+4108,Nr5a1-Cre;Ai14-350881.03.01,nucleus_absent,100.0,d.No seal,Nr5a1-Cre
+4115,Oxtr-T2A-Cre;Ai14-351472.04.02,nucleus_absent,50.0,d.No seal,Oxtr-T2A-Cre
+4120,Gad2-IRES-Cre;Ai14-350676.04.01,nucleus_absent,4.6,d.No seal,Gad2-IRES-Cre
+4123,Gad2-IRES-Cre;Ai14-350676.06.01,nucleus_absent,26.0,d.No seal,Gad2-IRES-Cre
+4128,Nr5a1-Cre;Ai14-351257.04.02,nucleus_absent,100.0,d.No seal,Nr5a1-Cre
+4129,Nr5a1-Cre;Ai14-351257.04.02,nucleus_absent,100.0,d.No seal,Nr5a1-Cre
+4130,Nr5a1-Cre;Ai14-351257.04.02,nucleus_absent,200.0,d.No seal,Nr5a1-Cre
+4134,Chrna2-Cre_OE25;Ai14-351080.04.02,nucleus_absent,200.0,d.No seal,Chrna2-Cre_OE25
+4137,Gad2-IRES-Cre;Ai14-351990.04.02,nucleus_absent,200.0,d.No seal,Gad2-IRES-Cre
+4142,Chrna2-Cre_OE25;Ai14-351080.05.02,nucleus_absent,4.6,d.No seal,Chrna2-Cre_OE25
+4145,Oxtr-T2A-Cre;Ai14-351473.04.01,nucleus_absent,400.0,d.No seal,Oxtr-T2A-Cre
+4146,Chrna2-Cre_OE25;Ai14-351080.03.01,nucleus_absent,200.0,d.No seal,Chrna2-Cre_OE25
+4147,Chrna2-Cre_OE25;Ai14-351080.03.01,nucleus_absent,50.0,d.No seal,Chrna2-Cre_OE25
+4152,Gad2-IRES-Cre;Ai14-352686.04.01,nucleus_absent,8.0,d.No seal,Gad2-IRES-Cre
+4153,Gad2-IRES-Cre;Ai14-352686.04.01,nucleus_absent,8.0,d.No seal,Gad2-IRES-Cre
+4154,Vip-IRES-Cre;Ai14-354376.04.01,nucleus_absent,13.0,d.No seal,Vip-IRES-Cre
+4156,Vip-IRES-Cre;Ai14-354376.05.02,nucleus_absent,10.0,d.No seal,Vip-IRES-Cre
+4163,Vip-IRES-Cre;Ai14-354376.04.02,nucleus_absent,300.0,d.No seal,Vip-IRES-Cre
+4165,Ndnf-IRES2-dgCre;Ai14-353735.05.01,nucleus_absent,30.0,d.No seal,Ndnf-IRES2-dgCre
+4172,Gad2-IRES-Cre;Ai14-352686.03.01,nucleus_absent,100.0,d.No seal,Gad2-IRES-Cre
+4173,Vip-IRES-Cre;Ai14-354376.03.01,nucleus_absent,300.0,d.No seal,Vip-IRES-Cre
+4178,Vip-IRES-Cre;Ai14-354378.04.01,nucleus_absent,150.0,d.No seal,Vip-IRES-Cre
+4179,Scnn1a-Tg3-Cre;Ai14-353198.03.02,nucleus_absent,100.0,d.No seal,Scnn1a-Tg3-Cre
+4180,Scnn1a-Tg3-Cre;Ai14-353198.03.02,nucleus_absent,100.0,d.No seal,Scnn1a-Tg3-Cre
+4182,Gad2-IRES-Cre;Ai14-352688.04.02,nucleus_absent,50.0,d.No seal,Gad2-IRES-Cre
+4184,Gad2-IRES-Cre;Ai14-352688.04.02,nucleus_absent,100.0,d.No seal,Gad2-IRES-Cre
+4186,Scnn1a-Tg3-Cre;Ai14-353198.05.02,nucleus_absent,4.0,d.No seal,Scnn1a-Tg3-Cre
+4188,Vip-IRES-Cre;Ai14-354378.03.02,nucleus_absent,0.0,d.No seal,Vip-IRES-Cre
+4189,Gad2-IRES-Cre;Ai14-352688.05.01,nucleus_absent,200.0,d.No seal,Gad2-IRES-Cre
+4193,Sim1-Cre_KJ18;Ai14-350522.03.01,nucleus_absent,10.0,d.No seal,Sim1-Cre_KJ18
+4195,Sim1-Cre_KJ18;Ai14-350522.03.02,nucleus_absent,400.0,d.No seal,Sim1-Cre_KJ18
+4197,Sim1-Cre_KJ18;Ai14-350522.03.02,nucleus_absent,100.0,d.No seal,Sim1-Cre_KJ18
+4199,Vip-IRES-Cre;Ai14-355068.05.02,nucleus_absent,50.0,d.No seal,Vip-IRES-Cre
+4201,Sim1-Cre_KJ18;Ai14-350522.04.01,nucleus_absent,4.1,d.No seal,Sim1-Cre_KJ18
+4205,Vip-IRES-Cre;Ai14-355066.04.01,nucleus_absent,10.0,d.No seal,Vip-IRES-Cre
+4208,Vip-IRES-Cre;Ai14-355066.03.01,nucleus_absent,0.0,d.No seal,Vip-IRES-Cre
+4209,Ndnf-IRES2-dgCre;Ai14-353740.04.02,nucleus_absent,6.6,d.No seal,Ndnf-IRES2-dgCre
+4215,Vipr2-IRES2-Cre;Pvalb-T2A-FlpO;Ai65-349552.03.01,nucleus_absent,0.0,d.No seal,Vipr2-IRES2-Cre;Pvalb-T2A-FlpO
+4224,Chrna2-Cre_OE25;Ai14-355016.04.02,nucleus_absent,10.0,d.No seal,Chrna2-Cre_OE25
+4228,Pdyn-T2A-CreERT2;Ai14-353427.05.01,nucleus_absent,5.3,d.No seal,Pdyn-T2A-CreERT2
+4229,Pdyn-T2A-CreERT2;Ai14-353427.03.02,nucleus_absent,13.3,d.No seal,Pdyn-T2A-CreERT2
+4231,Chrna2-Cre_OE25;Ai14-355016.04.01,nucleus_absent,200.0,d.No seal,Chrna2-Cre_OE25
+4233,Chrna2-Cre_OE25;Ai14-355016.03.01,nucleus_absent,300.0,d.No seal,Chrna2-Cre_OE25
+4236,Nr5a1-Cre;Ai14-355059.05.02,nucleus_absent,3.5,d.No seal,Nr5a1-Cre
+4244,Pdyn-T2A-CreERT2;Ai14-353887.04.01,nucleus_absent,10.0,d.No seal,Pdyn-T2A-CreERT2
+4245,Pdyn-T2A-CreERT2;Ai14-353887.04.01,nucleus_absent,15.0,d.No seal,Pdyn-T2A-CreERT2
+4247,Chrna2-Cre_OE25;Ai14-355017.05.02,nucleus_absent,50.0,d.No seal,Chrna2-Cre_OE25
+4249,Pdyn-T2A-CreERT2;Ai14-353887.03.02,nucleus_absent,10.0,d.No seal,Pdyn-T2A-CreERT2
+4251,Nr5a1-Cre;Ai14-355060.04.01,nucleus_absent,4.0,d.No seal,Nr5a1-Cre
+4255,Nr5a1-Cre;Ai14-355060.03.02,nucleus_absent,10.0,d.No seal,Nr5a1-Cre
+4256,Nr5a1-Cre;Ai14-355060.03.02,nucleus_absent,10.0,d.No seal,Nr5a1-Cre
+4257,Nr5a1-Cre;Ai14-355060.03.02,nucleus_absent,5.0,d.No seal,Nr5a1-Cre
+4260,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-353543.04.02,nucleus_absent,10.0,d.No seal,Nos1-CreERT2;Sst-IRES-FlpO
+4268,Pdyn-T2A-CreERT2;Ai14-353884.05.01,nucleus_absent,10.0,d.No seal,Pdyn-T2A-CreERT2
+4269,Pdyn-T2A-CreERT2;Ai14-353884.05.01,nucleus_absent,5.0,d.No seal,Pdyn-T2A-CreERT2
+4284,Chrna2-Cre_OE25;Ai14-355477.05.01,nucleus_absent,7.8,d.No seal,Chrna2-Cre_OE25
+4285,Pdyn-T2A-CreERT2;Ai14-353885.05.02,nucleus_absent,8.0,d.No seal,Pdyn-T2A-CreERT2
+4291,Rorb-IRES2-Cre;Ai14-355893.03.01,nucleus_absent,10.0,d.No seal,Rorb-IRES2-Cre
+4292,Rorb-IRES2-Cre;Ai14-355893.03.01,nucleus_absent,5.0,d.No seal,Rorb-IRES2-Cre
+4293,Rorb-IRES2-Cre;Ai14-355893.03.01,nucleus_absent,5.0,d.No seal,Rorb-IRES2-Cre
+4298,Ndnf-IRES2-dgCre;Ai14-355222.05.01,nucleus_absent,200.0,d.No seal,Ndnf-IRES2-dgCre
+4305,Ndnf-IRES2-dgCre;Ai14-355222.04.01,nucleus_absent,75.0,d.No seal,Ndnf-IRES2-dgCre
+4307,Rorb-IRES2-Cre;Ai14-355893.05.02,nucleus_absent,25.0,d.No seal,Rorb-IRES2-Cre
+4308,Rbp4-Cre_KL100;Ai14-356489.05.01,nucleus_absent,4.0,d.No seal,Rbp4-Cre_KL100
+4312,Oxtr-T2A-Cre;Ai14-355295.04.02,nucleus_absent,15.0,d.No seal,Oxtr-T2A-Cre
+4313,Oxtr-T2A-Cre;Ai14-355295.04.02,nucleus_absent,200.0,d.No seal,Oxtr-T2A-Cre
+4315,Slc32a1-IRES-Cre;Ai14-354958.04.02,nucleus_absent,25.0,d.No seal,Slc32a1-IRES-Cre
+4318,Oxtr-T2A-Cre;Ai14-355295.04.01,nucleus_absent,6.9,d.No seal,Oxtr-T2A-Cre
+4325,Ndnf-IRES2-dgCre;Ai14-355230.06.01,nucleus_absent,300.0,d.No seal,Ndnf-IRES2-dgCre
+4335,Rorb-IRES2-Cre;Ai14-355894.05.01,nucleus_absent,10.0,d.No seal,Rorb-IRES2-Cre
+4336,Rorb-IRES2-Cre;Ai14-355894.05.01,nucleus_absent,10.0,d.No seal,Rorb-IRES2-Cre
+4337,Ndnf-IRES2-dgCre;Ai14-355224.04.02,nucleus_absent,10.0,d.No seal,Ndnf-IRES2-dgCre
+4338,Slc32a1-IRES-Cre;Ai14-354959.03.02,nucleus_absent,10.0,d.No seal,Slc32a1-IRES-Cre
+4339,Slc32a1-IRES-Cre;Ai14-354959.03.02,nucleus_absent,10.0,d.No seal,Slc32a1-IRES-Cre
+4342,Rorb-IRES2-Cre;Ai14-355894.04.02,nucleus_absent,10.0,d.No seal,Rorb-IRES2-Cre
+4346,Slc32a1-IRES-Cre;Ai14-354959.05.02,nucleus_absent,200.0,d.No seal,Slc32a1-IRES-Cre
+4349,Ndnf-IRES2-dgCre;Ai14-355224.03.01,nucleus_absent,7.0,d.No seal,Ndnf-IRES2-dgCre
+4350,Slc32a1-IRES-Cre;Ai14-354959.05.01,nucleus_absent,10.0,d.No seal,Slc32a1-IRES-Cre
+4351,Slc32a1-IRES-Cre;Ai14-354959.05.01,nucleus_absent,4.0,d.No seal,Slc32a1-IRES-Cre
+4359,Htr3a-Cre_NO152;Ai14-355586.03.02,nucleus_absent,10.0,d.No seal,Htr3a-Cre_NO152
+4367,Ndnf-IRES2-dgCre;Ai14-355226.04.01,nucleus_absent,100.0,d.No seal,Ndnf-IRES2-dgCre
+4368,Ndnf-IRES2-dgCre;Ai14-355226.04.01,nucleus_absent,200.0,d.No seal,Ndnf-IRES2-dgCre
+4374,Rorb-IRES2-Cre;Ai14-355888.04.02,nucleus_absent,10.0,d.No seal,Rorb-IRES2-Cre
+4381,Rorb-IRES2-Cre;Ai14-355888.06.02,nucleus_absent,10.3,d.No seal,Rorb-IRES2-Cre
+4383,Rorb-IRES2-Cre;Ai14-355888.06.01,nucleus_absent,3.2,d.No seal,Rorb-IRES2-Cre
+4387,Ndnf-IRES2-dgCre;Ai14-355228.03.01,nucleus_absent,400.0,d.No seal,Ndnf-IRES2-dgCre
+4390,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354751-Ai65.03.02,nucleus_absent,10.0,d.No seal,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4391,Chrna2-Cre_OE25;Ai14-356148.04.02,nucleus_absent,10.0,d.No seal,Chrna2-Cre_OE25
+4393,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354751-Ai65.04.02,nucleus_absent,10.0,d.No seal,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4399,Rbp4-Cre_KL100;Ai14-357010.04.01,nucleus_absent,4.6,d.No seal,Rbp4-Cre_KL100
+4409,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354751-Ai65.03.01,nucleus_absent,400.0,d.No seal,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4410,Rbp4-Cre_KL100;Ai14-357010.03.01,nucleus_absent,200.0,d.No seal,Rbp4-Cre_KL100
+4419,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-354752-Ai65.03.01,nucleus_absent,10.0,d.No seal,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4421,Sim1-Cre_KJ18;Ai14-354917.04.02,nucleus_absent,10.0,d.No seal,Sim1-Cre_KJ18
+4422,Sim1-Cre_KJ18;Ai14-354917.04.02,nucleus_absent,10.0,d.No seal,Sim1-Cre_KJ18
+4423,Rbp4-Cre_KL100;Ai14-357009.03.02,nucleus_absent,5.0,d.No seal,Rbp4-Cre_KL100
+4432,Sim1-Cre_KJ18;Ai14-354917.03.01,nucleus_absent,6.8,d.No seal,Sim1-Cre_KJ18
+4444,Tlx3-Cre_PL56;Ai14-353876.03.02,nucleus_absent,10.0,d.No seal,Tlx3-Cre_PL56
+4449,Rorb-IRES2-Cre;Ai14-357463.04.02,nucleus_absent,8.0,d.No seal,Rorb-IRES2-Cre
+4450,Rorb-IRES2-Cre;Ai14-357463.06.02,nucleus_absent,10.0,d.No seal,Rorb-IRES2-Cre
+4453,Rbp4-Cre_KL100;Ai14-357014.03.02,nucleus_absent,16.0,d.No seal,Rbp4-Cre_KL100
+4455,Rorb-IRES2-Cre;Ai14-357463.05.01,nucleus_absent,0.0,d.No seal,Rorb-IRES2-Cre
+4458,Tlx3-Cre_PL56;Ai14-353876.05.02,nucleus_absent,7.2,d.No seal,Tlx3-Cre_PL56
+4462,Rorb-IRES2-Cre;Ai14-357463.02.01,nucleus_absent,400.0,d.No seal,Rorb-IRES2-Cre
+4470,Rbp4-Cre_KL100;Ai14-357013.05.02,nucleus_absent,10.0,d.No seal,Rbp4-Cre_KL100
+4472,Rbp4-Cre_KL100;Ai14-357013.04.01,nucleus_absent,3.5,d.No seal,Rbp4-Cre_KL100
+4482,Rbp4-Cre_KL100;Ai14-357013.03.01,nucleus_absent,400.0,d.No seal,Rbp4-Cre_KL100
+4483,Rbp4-Cre_KL100;Ai14-357013.03.01,nucleus_absent,300.0,d.No seal,Rbp4-Cre_KL100
+4488,Slc17a8-iCre;Ai14-356688.03.02,nucleus_absent,10.0,d.No seal,Slc17a8-iCre
+4490,Tlx3-Cre_PL56;Ai14-353877.06.01,nucleus_absent,18.5,d.No seal,Tlx3-Cre_PL56
+4492,Tlx3-Cre_PL56;Ai14-353877.02.01,nucleus_absent,0.0,d.No seal,Tlx3-Cre_PL56
+4493,Tlx3-Cre_PL56;Ai14-353877.02.01,nucleus_absent,400.0,d.No seal,Tlx3-Cre_PL56
+4500,Pvalb-IRES-Cre;Ai14-357944.04.02,nucleus_absent,10.0,d.No seal,Pvalb-IRES-Cre
+4502,Ntsr1-Cre_GN220;Ai14-357982.03.02,nucleus_absent,10.0,d.No seal,Ntsr1-Cre_GN220
+4503,Ntsr1-Cre_GN220;Ai14-357982.02.02,nucleus_absent,10.0,d.No seal,Ntsr1-Cre_GN220
+4506,Sst-IRES-Cre;Ai14-357929.05.01,nucleus_absent,0.0,d.No seal,Sst-IRES-Cre
+4512,Pvalb-IRES-Cre;Ai14-357944.03.02,nucleus_absent,100.0,d.No seal,Pvalb-IRES-Cre
+4513,Ntsr1-Cre_GN220;Ai14-357982.04.01,nucleus_absent,400.0,d.No seal,Ntsr1-Cre_GN220
+4515,Ntsr1-Cre_GN220;Ai14-357982.04.02,nucleus_absent,100.0,d.No seal,Ntsr1-Cre_GN220
+4516,Ntsr1-Cre_GN220;Ai14-357982.04.02,nucleus_absent,300.0,d.No seal,Ntsr1-Cre_GN220
+4520,Pvalb-IRES-Cre;Ai14-357945.04.02,nucleus_absent,10.0,d.No seal,Pvalb-IRES-Cre
+4523,Ntsr1-Cre_GN220;Ai14-357985.03.02,nucleus_absent,5.0,d.No seal,Ntsr1-Cre_GN220
+4527,Ntsr1-Cre_GN220;Ai14-357985.02.01,nucleus_absent,5.0,d.No seal,Ntsr1-Cre_GN220
+4533,Pvalb-IRES-Cre;Ai14-357945.04.01,nucleus_absent,100.0,d.No seal,Pvalb-IRES-Cre
+4534,Pvalb-IRES-Cre;Ai14-357945.04.01,nucleus_absent,300.0,d.No seal,Pvalb-IRES-Cre
+4535,Sst-IRES-Cre;Ai14-357930.03.02,nucleus_absent,300.0,d.No seal,Sst-IRES-Cre
+4549,Pvalb-IRES-Cre;Ai14-357946.05.01,nucleus_absent,15.0,d.No seal,Pvalb-IRES-Cre
+4556,Ntsr1-Cre_GN220;Ai14-357981.04.02,nucleus_absent,10.0,d.No seal,Ntsr1-Cre_GN220
+4558,Ntsr1-Cre_GN220;Ai14-357981.04.01,nucleus_absent,100.0,d.No seal,Ntsr1-Cre_GN220
+4559,Ntsr1-Cre_GN220;Ai14-357981.04.01,nucleus_absent,60.0,d.No seal,Ntsr1-Cre_GN220
+4561,Sst-IRES-Cre;Ai14-357931.04.01,nucleus_absent,100.0,d.No seal,Sst-IRES-Cre
+4563,Nos1-CreERT2;Sst-IRES-FlpO;Ai65-357672.03.02,nucleus_absent,10.0,d.No seal,Nos1-CreERT2;Sst-IRES-FlpO
+4568,Sst-IRES-Cre;Ai14-357932.04.02,nucleus_absent,10.0,d.No seal,Sst-IRES-Cre
+4576,Vip-IRES-Cre;Ai14-358735.0.04.01,nucleus_absent,10.0,d.No seal,Vip-IRES-Cre;A
+4585,Vip-IRES-Cre;Ai14-358735.06.01,nucleus_absent,5.0,d.No seal,Vip-IRES-Cre
+4593,Scnn1a-Tg2-Cre;Ai14-358945.0.04.02,nucleus_absent,200.0,d.No seal,Scnn1a-Tg2-Cre;A
+4604,Scnn1a-Tg2-Cre;Ai14-358947.04.02,nucleus_absent,10.0,d.No seal,Scnn1a-Tg2-Cre
+4605,Vip-IRES-Cre;Ai14-360215.06.02,nucleus_absent,10.0,d.No seal,Vip-IRES-Cre
+4606,Vip-IRES-Cre;Ai14-360215.06.02,nucleus_absent,10.0,d.No seal,Vip-IRES-Cre
+4617,Pvalb-IRES-Cre;Ai14-359332.04.02,nucleus_absent,20.0,d.No seal,Pvalb-IRES-Cre
+4618,Pvalb-IRES-Cre;Ai14-359332.02.02,nucleus_absent,10.0,d.No seal,Pvalb-IRES-Cre
+4619,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.04.02,nucleus_absent,10.0,d.No seal,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4621,Pvalb-IRES-Cre;Ai14-359335.04.02,nucleus_absent,10.0,d.No seal,Pvalb-IRES-Cre
+4622,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358898.05.02,nucleus_absent,10.0,d.No seal,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4635,Pvalb-IRES-Cre;Ai14-359332.03.02,nucleus_absent,200.0,d.No seal,Pvalb-IRES-Cre
+4636,Pvalb-IRES-Cre;Ai14-359332.03.02,nucleus_absent,100.0,d.No seal,Pvalb-IRES-Cre
+4640,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358882-Ai65.04.02,nucleus_absent,200.0,d.No seal,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4646,Pvalb-IRES-Cre;Ai14-359335.04.01,nucleus_absent,450.0,d.No seal,Pvalb-IRES-Cre
+4647,Vip-IRES-Cre;Ai14-359503.04.02,nucleus_absent,10.0,d.No seal,Vip-IRES-Cre
+4652,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358897.04.01,nucleus_absent,7.0,d.No seal,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4653,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO;Ai65-358897.03.01,nucleus_absent,11.0,d.No seal,Ndnf-IRES2-dgCre;Slc32a1-IRES2-FlpO
+4657,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358881-Ai65.03.01,nucleus_absent,100.0,d.No seal,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
+4665,Oxtr-T2A-Cre;Ai14-359343.05.02,nucleus_absent,10.0,d.No seal,Oxtr-T2A-Cre
+4666,Oxtr-T2A-Cre;Ai14-359343.05.01,nucleus_absent,10.0,d.No seal,Oxtr-T2A-Cre
+4671,Vip-IRES-Cre;Ai14-359504.02.01,nucleus_absent,0.0,d.No seal,Vip-IRES-Cre
+4672,Vip-IRES-Cre;Ai14-359504.02.02,nucleus_absent,300.0,d.No seal,Vip-IRES-Cre
+4675,Oxtr-T2A-Cre;Ai14-359342.04.02,nucleus_absent,5.0,d.No seal,Oxtr-T2A-Cre
+134,Gad2-IRES-Cre;Ai14-293416.05.02,Entire-Cell,,e.Entire cell,Gad2-IRES-Cre
+161,Slc32a1-IRES-Cre;Ai14-294508.06.01,Entire-Cell,,e.Entire cell,Slc32a1-IRES-Cre
+400,Rorb-IRES2-Cre;Ai14-294985.04.01,Entire-Cell,,e.Entire cell,Rorb-IRES2-Cre
+427,Gad2-IRES-Cre;Ai14-296620.05.01,Entire-Cell,,e.Entire cell,Gad2-IRES-Cre
+878,Slc32a1-IRES-Cre;Ai14-305535.06.02,Entire-Cell,,e.Entire cell,Slc32a1-IRES-Cre
+1754,Rorb-IRES2-Cre;Ai14-315897.05.02,Entire-Cell,,e.Entire cell,Rorb-IRES2-Cre
+1908,Rorb-IRES2-Cre-neo;Ai14-315667.02.02,Entire-Cell,,e.Entire cell,Rorb-IRES2-Cre-neo
+1935,Scnn1a-Tg2-Cre;Ai14-316319.05.02,Entire-Cell,,e.Entire cell,Scnn1a-Tg2-Cre
+2035,Rorb-IRES2-Cre;Ai14-318659.02.01,Entire-Cell,,e.Entire cell,Rorb-IRES2-Cre
+2198,Pvalb-IRES-Cre;Ai14-316465.03.01,Entire-Cell,,e.Entire cell,Pvalb-IRES-Cre
+2289,Slc32a1-IRES-Cre;Ai14-321267.02.02,Entire-Cell,,e.Entire cell,Slc32a1-IRES-Cre
+2353,Vip-IRES-Cre;Ai14-322780.05.01,Entire-Cell,,e.Entire cell,Vip-IRES-Cre
+2513,Gad2-IRES-Cre;Ai14-326032.05.01,Entire-Cell,,e.Entire cell,Gad2-IRES-Cre
+3480,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-337417.04.02,Entire-Cell,,e.Entire cell,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3629,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO;Ai65-338919.03.02,Entire-Cell,,e.Entire cell,Vipr2-IRES2-Cre;Slc32a1-T2A-FlpO
+3742,Chat-IRES-Cre-neo;Ai14-341891.05.02,Entire-Cell,,e.Entire cell,Chat-IRES-Cre-neo
+3760,Vip-IRES-Cre;Ai14-342919.04.02,Entire-Cell,,e.Entire cell,Vip-IRES-Cre
+3938,Vip-IRES-Cre;Ai14-348725.06.01,Entire-Cell,,e.Entire cell,Vip-IRES-Cre
+3974,Slc32a1-IRES-Cre;Ai14-347204.05.01,Entire-Cell,,e.Entire cell,Slc32a1-IRES-Cre
+4076,Oxtr-T2A-Cre;Ai14-351471.03.02,entire_cell,10.0,e.Entire cell,Oxtr-T2A-Cre
+4113,Oxtr-T2A-Cre;Ai14-351472.04.02,entire_cell,100.0,e.Entire cell,Oxtr-T2A-Cre
+4121,Oxtr-T2A-Cre;Ai14-351472.04.01,entire_cell,5.0,e.Entire cell,Oxtr-T2A-Cre
+4253,Chrna2-Cre_OE25;Ai14-355475.04.02,entire_cell,7.0,e.Entire cell,Chrna2-Cre_OE25
+4254,Chrna2-Cre_OE25;Ai14-355475.04.02,entire_cell,10.0,e.Entire cell,Chrna2-Cre_OE25
+4273,Chrna2-Cre_OE25;Ai14-355476.06.01,entire_cell,2.6,e.Entire cell,Chrna2-Cre_OE25
+4280,Chrna2-Cre_OE25;Ai14-355478.04.02,entire_cell,50.0,e.Entire cell,Chrna2-Cre_OE25
+4286,Pdyn-T2A-CreERT2;Ai14-353885.05.01,entire_cell,2.4,e.Entire cell,Pdyn-T2A-CreERT2
+4457,Rbp4-Cre_KL100;Ai14-357014.06.02,entire_cell,3.5,e.Entire cell,Rbp4-Cre_KL100
+4484,Sim1-Cre_KJ18;Ai14-354918.03.02,entire_cell,200.0,e.Entire cell,Sim1-Cre_KJ18
+4633,Pvalb-IRES-Cre;Ai14-359332.05.02,entire_cell,6.9,e.Entire cell,Pvalb-IRES-Cre
+4639,Pvalb-IRES-Cre;Ai14-359335.03.02,entire_cell,100.0,e.Entire cell,Pvalb-IRES-Cre
+4661,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO-358881-Ai65.04.01,entire_cell,1000.0,e.Entire cell,Slc17a8-IRES2-Cre;Slc32a1-IRES2-FlpO
